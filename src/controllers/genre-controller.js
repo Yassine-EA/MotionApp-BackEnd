@@ -7,7 +7,7 @@ const GenreController = {
    * @param {Response} res
    */
   getAll: async (req, res) => {
-    const data = await db.Genre.findAndCountAll();
+    const data = await db.Genres.findAndCountAll();
 
     return res.status(200).json(data);
   },
@@ -17,11 +17,10 @@ const GenreController = {
    * @param {Response} res
    */
   getOne: async (req, res) => {
-    const id_genre = parseInt(req.params.id);
+    
+    const id_genre = parseInt(req.params.id_genre);
 
-    console.log("id > " + id_genre);
-
-    const genre = await db.Genre.findOne({
+    const genre = await db.Genres.findOne({
       where: { id_genre },
     });
 
@@ -38,8 +37,8 @@ const GenreController = {
    */
   add: async (req, res) => {
     const data = req.validatedData;
-    console.log(data);
-    const newGenre = await db.Genre.create(data);
+
+    const newGenre = await db.Genres.create(data);
     return res.status(201).json(newGenre);
   },
 
@@ -52,7 +51,7 @@ const GenreController = {
 
     const data = req.validatedData;
 
-    const updatedGenre = await db.Genre.update(data, {
+    const updatedGenre = await db.Genres.update(data, {
       where: { id_genre },
       returning: true,
     });
@@ -61,7 +60,7 @@ const GenreController = {
       return res.status(400).json("Bad Request");
     }
 
-    const updatedValue = await db.Genre.findOne({ where: { id_genre } });
+    const updatedValue = await db.Genres.findOne({ where: { id_genre } });
 
     return res.status(200).json(updatedValue);
   },
@@ -73,7 +72,7 @@ const GenreController = {
   delete: async (req, res) => {
     const id = parseInt(req.params.id_genre);
 
-    const nbRow = await db.Genre.destroy({
+    const nbRow = await db.Genres.destroy({
       where: { id_genre },
     });
 

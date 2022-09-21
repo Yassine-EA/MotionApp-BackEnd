@@ -1,18 +1,18 @@
-const MovieController = require("../controllers/membre-controller");
+const MovieController = require("../controllers/");
 const bodyValidation = require("../middleware/body-validation-middleware");
 const { movieValidator } = require("../validators/movie-validator");
 
-const movieRouter = require("express").Router();
+const moviesRouter = require("express").Router();
 
-membreRouter
-  .route("/")
-  .get(MovieController.getAll)
-  .post(bodyValidation(movieValidator), MovieController.add);
+moviesRouter
+	.route("/")
+	.get(MovieController.getAll)
+	.post(bodyValidation(movieValidator), MovieController.add);
 
-membreRouter
-  .route("/:id")
-  .get(membreController.getOne)
-  .put(bodyValidation(movieValidator), MovieController.update)
-  .delete(MovieController.delete);
+moviesRouter
+	.route("/:id")
+	.get(MovieController.getOne)
+	.put(bodyValidation(movieValidator), MovieController.update)
+	.delete(MovieController.delete);
 
-module.exports = movieRouter;
+module.exports = moviesRouter;

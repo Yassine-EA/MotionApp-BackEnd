@@ -1,0 +1,475 @@
+{
+	"id": "tt3032476",
+	"title": "Better Call Saul",
+	"originalTitle": "",
+	"fullTitle": "Better Call Saul (TV Series 2015–2022)",
+	"type": "TVSeries",
+	"year": "2015",
+	"image": "https://m.media-amazon.com/images/M/MV5BMTMxOGM0NzItM2E0OS00YWYzLWEzNzUtODUzZTBjM2I4MTZkXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6762_AL_.jpg",
+	"releaseDate": "2015-02-08",
+	"runtimeMins": null,
+	"runtimeStr": null,
+	"plot": "The trials and tribulations of criminal lawyer Jimmy McGill before his fateful run-in with Walter White and Jesse Pinkman.",
+	"plotLocal": "Spin-off de \"Breaking Bad\" six ans avant la rencontre avec Walter White. Jimmy McGill est un petit avocat, trop occupé à boucler ses fins de mois pour avoir de l'envergure. Pour survivre, il n'aura d'autre choix que de devenir Saul Goodman.",
+	"plotLocalIsRtl": false,
+	"awards": "Top rated TV #41 | Nominated for 46 Primetime Emmys, 40 wins & 243 nominations total",
+	"directors": "",
+	"directorList": [],
+	"writers": "",
+	"writerList": [],
+	"stars": "Bob Odenkirk, Rhea Seehorn, Jonathan Banks",
+	"starList": [
+		{ "id": "nm0644022", "name": "Bob Odenkirk" },
+		{ "id": "nm0781533", "name": "Rhea Seehorn" },
+		{ "id": "nm0052186", "name": "Jonathan Banks" }
+	],
+	"actorList": [
+		{
+			"id": "nm0644022",
+			"image": "https://m.media-amazon.com/images/M/MV5BOWM5MDJjYTItMTRkNC00NTQ4LThkNjUtNDY3Mzk0YWMwMTBhXkEyXkFqcGdeQXVyNzQzNDYwMA@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Bob Odenkirk",
+			"asCharacter": "Jimmy McGill"
+		},
+		{
+			"id": "nm0781533",
+			"image": "https://m.media-amazon.com/images/M/MV5BYmE3MGY4M2UtOGViMC00M2E5LWE4ZmEtMDlmOThhNDljNDVhXkEyXkFqcGdeQXVyMjU1MTUxODI@._V1_Ratio1.7000_AL_.jpg",
+			"name": "Rhea Seehorn",
+			"asCharacter": "Kim Wexler"
+		},
+		{
+			"id": "nm0052186",
+			"image": "https://m.media-amazon.com/images/M/MV5BODI2OTYyOTQ4Nl5BMl5BanBnXkFtZTgwNTM3MTUxNDM@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Jonathan Banks",
+			"asCharacter": "Mike Ehrmantraut"
+		},
+		{
+			"id": "nm0264579",
+			"image": "https://m.media-amazon.com/images/M/MV5BMmUxZjRiY2QtMmY3YS00ZWNiLTkwMzItNGMxMjY1ZTM3ZjNlXkEyXkFqcGdeQXVyMTk3NTgzMDU@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Patrick Fabian",
+			"asCharacter": "Howard Hamlin"
+		},
+		{
+			"id": "nm3103126",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTY4ODExNTktZTUxMC00YTE1LWE5Y2YtMDhlZmU2YzhmNDQ5XkEyXkFqcGdeQXVyMTk3MzEwMjU@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Michael Mando",
+			"asCharacter": "Nacho Varga"
+		},
+		{
+			"id": "nm0002064",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjEyODM1NjI0OF5BMl5BanBnXkFtZTcwMTE0OTA1Mg@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Giancarlo Esposito",
+			"asCharacter": "Gus Fring"
+		},
+		{
+			"id": "nm0571106",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTcwMzEwMDI4MF5BMl5BanBnXkFtZTYwMDY3NDA0._V1_Ratio1.0000_AL_.jpg",
+			"name": "Michael McKean",
+			"asCharacter": "Chuck McGill"
+		},
+		{
+			"id": "nm0198366",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjM5YjQwNGMtMjVkOC00ZWQ3LTg5OWMtZDQxZDNhZjQ2NWZjXkEyXkFqcGdeQXVyNjQyNTE2ODk@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Tony Dalton",
+			"asCharacter": "Lalo Salamanca"
+		},
+		{
+			"id": "nm0546797",
+			"image": "https://m.media-amazon.com/images/M/MV5BZmRmNjM4NDQtZGI3Mi00YmY4LWJhNDUtOTllZDY5NWNmNThiXkEyXkFqcGdeQXVyMTEzMDQ5NjE@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Mark Margolis",
+			"asCharacter": "Hector Salamanca"
+		},
+		{
+			"id": "nm0174403",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTY5NjgyNDU3OV5BMl5BanBnXkFtZTgwNzA4NDczNjE@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Kerry Condon",
+			"asCharacter": "Stacey Ehrmantraut"
+		},
+		{
+			"id": "nm1530474",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTg0ZjcyMzYtN2U3Ni00ODc5LTkyNzAtMzIwZDhkNTBmZTQ1XkEyXkFqcGdeQXVyMTk3NzM5NjI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Ray Campbell",
+			"asCharacter": "Tyrus Kitt"
+		},
+		{
+			"id": "nm0084497",
+			"image": "https://m.media-amazon.com/images/M/MV5BYjVmMTk3ZDYtNGJmZC00ZjhlLTllZjUtMWEzY2JiMjAxZWJiXkEyXkFqcGdeQXVyNTQ3MzY1NA@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Jeremiah Bitsui",
+			"asCharacter": "Victor"
+		},
+		{
+			"id": "nm0682999",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTI3MjQ1MDYwNV5BMl5BanBnXkFtZTYwNDk4MTgy._V1_Ratio1.5000_AL_.jpg",
+			"name": "Cara Pifko",
+			"asCharacter": "Paige Novick"
+		},
+		{
+			"id": "nm0100381",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzE1ODExOTc2N15BMl5BanBnXkFtZTgwMzQyNzkwMDI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Dennis Boutsikaris",
+			"asCharacter": "Rick Schweikart"
+		},
+		{
+			"id": "nm0000893",
+			"image": "https://m.media-amazon.com/images/M/MV5BM2JlYjZkMmQtNjZlZi00NmVjLWE3MWMtMDQ5OTU5OTEwYzk0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Ed Begley Jr.",
+			"asCharacter": "Clifford Main"
+		},
+		{
+			"id": "nm1758915",
+			"image": "https://m.media-amazon.com/images/M/MV5BY2M1NjA0MWYtYTljZC00NjJlLWIwYmItMGVhNmQ2Y2YyMzhkXkEyXkFqcGdeQXVyMDM3NzQ3MA@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Josh Fadem",
+			"asCharacter": "Camera Guy"
+		},
+		{
+			"id": "nm0662669",
+			"image": "https://m.media-amazon.com/images/M/MV5BYjAxNWRkMmUtYzhiOS00NTllLWJjZTMtOTEzMzgzNTY1ODdlXkEyXkFqcGdeQXVyMjM0NDMxOA@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Tina Parker",
+			"asCharacter": "Francesca Liddy"
+		},
+		{
+			"id": "nm7147714",
+			"image": "https://m.media-amazon.com/images/M/MV5BNTVjMzE4MWMtNTU5ZC00NGYwLWJlM2EtOTI1NjcxNGU5ZWQ0XkEyXkFqcGdeQXVyNzMyMDc4MzQ@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Julian Bonfiglio",
+			"asCharacter": "Sound Guy"
+		}
+	],
+	"fullCast": null,
+	"genres": "Crime, Drame",
+	"genreList": [
+		{ "key": "Crime", "value": "Crime" },
+		{ "key": "Drama", "value": "Drame" }
+	],
+	"companies": "High Bridge Productions, Crystal Diner Productions, Gran Via Productions",
+	"companyList": [
+		{ "id": "co0212797", "name": "High Bridge Productions" },
+		{ "id": "co0520966", "name": "Crystal Diner Productions" },
+		{ "id": "co0071947", "name": "Gran Via Productions" }
+	],
+	"countries": "Etats-Unis",
+	"countryList": [{ "key": "USA", "value": "Etats-Unis" }],
+	"languages": "Anglais, Espagnol, vietnamien",
+	"languageList": [
+		{ "key": "English", "value": "Anglais" },
+		{ "key": "Spanish", "value": "Espagnol" },
+		{ "key": "Vietnamese", "value": "vietnamien" }
+	],
+	"contentRating": "TV-MA",
+	"imDbRating": "8.9",
+	"imDbRatingVotes": "498175",
+	"metacriticRating": null,
+	"ratings": null,
+	"wikipedia": null,
+	"posters": {
+		"imDbId": "tt3032476",
+		"title": "Better Call Saul",
+		"fullTitle": "Better Call Saul (TV Series 2015–2022)",
+		"type": "TVSeries",
+		"year": "2015",
+		"posters": [],
+		"backdrops": [],
+		"errorMessage": ""
+	},
+	"images": {
+		"imDbId": "tt3032476",
+		"title": "Better Call Saul",
+		"fullTitle": "Better Call Saul (TV Series 2015–2022)",
+		"type": "TVSeries",
+		"year": "2015",
+		"items": [
+			{
+				"title": "Bob Odenkirk in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjQyNmIyZWMtZDVkMi00OWQ2LTk3NTktYzdjMTc1Zjk3NDg5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Bob Odenkirk in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDRiMzJjMWUtZTNkNC00ZDlhLWI3MzQtYTlkYzdlYmQwYjM1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Bob Odenkirk in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTg2NDA5N2QtNmZkMS00NTQ2LWFjOWQtNzAwZTgxMTcwYjRhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Jonathan Banks and Kerry Condon in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWUxNTVlMmYtZDVkZi00NDI5LTk0MzgtZDliMDJmNGQ1YjAyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Giancarlo Esposito in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTlhOTk0ODYtNWNiNS00Yzk5LTg4MmQtNjNiMGQwNDg2MjIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5200_AL_.jpg"
+			},
+			{
+				"title": "Patrick Fabian in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDg0MjE2NGYtOWZkMi00ZmIxLWIwZGQtMTM4MTRkZmNlNGEwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Jonathan Banks in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMWI0OTMxZWUtYjQzNi00OTI1LWJjMzAtYmUyZjllMTQyYTkzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.4800_AL_.jpg"
+			},
+			{
+				"title": "Giancarlo Esposito in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYWRiMjQ3ODQtZGVlYS00YjBlLWE4MDctOTViNTNmODNlZDA5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Patrick Fabian in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOWU5YjQ5NzAtMGMzMC00ZGRlLWJkMjEtODQxYjdmYWYxYzg1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Michael Mando in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTZiODk0ODktMzQ3Ny00ZDIxLWFlYzMtMmI1NzcwM2IwYTkwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Rhea Seehorn in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjQ5MWUyZDgtZjUxZC00YjVmLTkxNmQtYmZiODk1NzgwNTFiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Michael McKean in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDcwZmEwMWYtYzlkZS00Nzc4LWI3MTktZTI1YmZlMTA1MTM2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Bob Odenkirk in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWY4NGFhYmQtYWI4Mi00ZWI1LWI5YTItNmRhYzIxMGU2ZDQ0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Steven Bauer in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzgwMzFmOWItOTIxMy00Nzk5LWI1MWYtZDI3Yzc2YmMzNGQzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.4800_AL_.jpg"
+			},
+			{
+				"title": "Bob Odenkirk in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTM1ODNlMzktZjUwMC00Mjc5LWJmM2YtMjUxZTI1YzY5MWMwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Jonathan Banks in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTgwZTc4ZTUtOTM3Mi00NGY4LThkZWEtOTFkZjQ2YjlhYjc3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Michael McKean and Bob Odenkirk in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTdmNmY2ZDEtZjg3OC00YzI5LWFiYzAtNDc2MTY4ZmVkMGIxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Lavell Crawford in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjA0NTAyN2MtZmY1Yy00Y2ZlLTljNjYtY2YxYWE0ZTMyNzhmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Dean Norris in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNGIwMGRhYWMtOGI4ZS00MjdkLThmNTAtMmU0MWQ5YTQwZTViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Mark Margolis in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWY4NDIxNGMtYWFkMy00NmVmLWFiNzUtYTcyMzU1NDBhY2E0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Bob Odenkirk and Tina Parker in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjUzYzBjYzktOGMzNC00OTZmLWFiMjgtMjg5YWIwZDRhN2YyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Bob Odenkirk in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzBmNTg1OTMtYzU5Yy00NzI2LTljZWEtODgyMmUyMjAxOTg5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Tony Dalton in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMzJhODE0NDAtZjcwNi00N2Q1LTgzZDMtYWVjNDMwYzMzYzY4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Michael McKean and Bob Odenkirk in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDk4YmY3MWQtNDA1Ny00Y2I1LWI2NzMtNTI2NzBiZjU3ZGNlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Rhea Seehorn in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDZjY2ZiMDEtN2JiOC00YTA3LWE0MDAtYzZlZjEwYzk3MmUwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Javier Grajeda in Better Call Saul: Rock and Hard Place (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTA5M2E2ODEtOTc2Mi00MmVkLTlmYmQtYzY3MGVmYTA2MzFjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Mark Margolis in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMzM1ODI0Y2UtOGYwNC00NzYzLThhODEtNzEyMjY3OTY0MzhlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Mark Margolis in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNmM4ZjkxYTgtNWI2OS00ZDU2LTlhYTItNDM2YTg0MWM5NDBhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.4200_AL_.jpg"
+			},
+			{
+				"title": "Ed Begley Jr. in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDU0MTk3ZGUtNTRjZi00ZjllLWIyZjItZjkwMzU1ZTk4ZmJhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Ed Begley Jr. in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzQ4MzBkMGQtZDc5ZS00NmIwLTg3YjUtZDczODYzOTZjNTViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Kerry Condon in Better Call Saul (2015)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjRhOTcwZjItMzI1NC00YTM2LTlhZjMtNTFjOGFhODBjODI4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Josh Fadem in Better Call Saul: Plan and Execution (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjIwZmNiMmQtZjg2Zi00N2IzLWE5NmQtNjIxNzYzY2Q0ZTM5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Jean Effron in Better Call Saul: Plan and Execution (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWIzY2FkMjAtMTg2OC00MzhiLTk1NjUtZTQzMTIyYjEzNTE3XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Bob Odenkirk in Better Call Saul: Plan and Execution (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNWFiMGUwNGQtMmY4Zi00MDc1LTlmZTQtNTUwNWE3MDA1MGE1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Audrey Moore in Better Call Saul: Plan and Execution (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDAzY2ZlNTctMTU3Yi00YjNlLWE0MGMtOTk3MTNhYzhkM2Y0XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Bob Odenkirk in Better Call Saul: Plan and Execution (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODhmZjE0YmYtNTA4NC00YzhjLTk3ZmItYmRlOGM4OTQyYWQ2XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Rhea Seehorn in Better Call Saul: Plan and Execution (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWQyOWVkZDEtN2RhNS00M2NkLWE1MzUtOTkwZTAwYTY2YjkwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Bob Odenkirk in Better Call Saul: Plan and Execution (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjljMzI3NzEtNTdjMC00Nzk0LTk5ZTYtNDA4OGQ5NDdiZmY4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Ed Begley Jr. in Better Call Saul: Plan and Execution (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODNmMjhmNmMtNWIwOC00ZjRjLTg0YjUtMGRmZmY1NDk2OGRjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Jessie Ennis in Better Call Saul: Plan and Execution (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BM2ExMjg2OTItYzhhYS00YmVlLWI0MDgtYzE4MDFkMWE3OTgyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Rhea Seehorn, Christopher Kelly, and Melissa Heiman in Better Call Saul: Axe and Grind (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTlhYzE0OGUtOTE4NC00NDFlLWIwYmItOWEwYTgzOGE5YzdmXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Rhea Seehorn and Christopher Kelly in Better Call Saul: Axe and Grind (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjllNWI0ODktYThmNC00ZDI3LTg3YjktYTJhOTI5MmE0Zjk3XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Patrick Fabian in Better Call Saul: Axe and Grind (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDU0MmE3MjItMDllOS00N2MzLWJiZjYtNDkyOTdhZmE0MjQ5XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Rhea Seehorn in Better Call Saul: Axe and Grind (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTJiNjA2YzctYzU0ZC00NmE3LTgyOWEtNDk0M2ViZjhmYWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Bob Odenkirk in Better Call Saul: Axe and Grind (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNmYxOTg3NDktNDk5Yy00NWRlLTg0NjYtNTliMTk1Zjc1MTY4XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Sandrine Holt in Better Call Saul: Axe and Grind (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzNkYmU3MTUtYzllNS00MmZlLWJhMjktNjJmNTkyMzE0NTQ2XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Rhea Seehorn in Better Call Saul: Black and Blue (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjgyY2RhZWUtMzBhMy00MzM3LWIzYTctOTZkMWQxNjU3ZWQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Bob Odenkirk and Rhea Seehorn in Better Call Saul: Black and Blue (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNGRlZjMxMTgtZjI0Ni00ZDllLTkxNDktYmExMWI0YjZjYjNiXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.5000_AL_.jpg"
+			}
+		],
+		"errorMessage": ""
+	},
+	"trailer": null,
+	"boxOffice": {
+		"budget": "",
+		"openingWeekendUSA": "",
+		"grossUSA": "",
+		"cumulativeWorldwideGross": ""
+	},
+	"tagline": null,
+	"keywords": "spin off,lawyer,financial struggle,criminal lawyer,shared universe",
+	"keywordList": [
+		"spin off",
+		"lawyer",
+		"financial struggle",
+		"criminal lawyer",
+		"shared universe"
+	],
+	"similars": [
+		{
+			"id": "tt0903747",
+			"title": "Breaking Bad",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDkyZThhNmMtZDBjYS00NDBmLTlkMjgtNWM2ZWYzZDQxZWU1XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "9.5"
+		},
+		{
+			"id": "tt0944947",
+			"title": "Game of Thrones",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.7343_AL_.jpg",
+			"imDbRating": "9.2"
+		},
+		{
+			"id": "tt9243946",
+			"title": "El Camino: A Breaking Bad Movie",
+			"image": "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "7.3"
+		},
+		{
+			"id": "tt4574334",
+			"title": "Stranger Things",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "8.7"
+		},
+		{
+			"id": "tt1751634",
+			"title": "The Sandman",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.8"
+		},
+		{
+			"id": "tt1190634",
+			"title": "The Boys",
+			"image": "https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "8.7"
+		},
+		{
+			"id": "tt2442560",
+			"title": "Peaky Blinders",
+			"image": "https://m.media-amazon.com/images/M/MV5BZjYzZDgzMmYtYjY5Zi00YTk1LThhMDYtNjFlNzM4MTZhYzgyXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "8.8"
+		},
+		{
+			"id": "tt10857160",
+			"title": "She-Hulk: Attorney at Law",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjU4MTkxNzktNzUyYy00NDM2LWE5NGQtNjJlN2Q0N2MxZDAxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "5.0"
+		},
+		{
+			"id": "tt2861424",
+			"title": "Rick and Morty",
+			"image": "https://m.media-amazon.com/images/M/MV5BZjRjOTFkOTktZWUzMi00YzMyLThkMmYtMjEwNmQyNzliYTNmXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "9.2"
+		},
+		{
+			"id": "tt1520211",
+			"title": "The Walking Dead",
+			"image": "https://m.media-amazon.com/images/M/MV5BZmU5NTcwNjktODIwMi00ZmZkLTk4ZWUtYzVjZWQ5ZTZjN2RlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.1"
+		},
+		{
+			"id": "tt0141842",
+			"title": "The Sopranos",
+			"image": "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7053_AL_.jpg",
+			"imDbRating": "9.2"
+		},
+		{
+			"id": "tt0386676",
+			"title": "The Office",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDNkOTE4NDQtMTNmYi00MWE0LWE4ZTktYTc0NzhhNWIzNzJiXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "9.0"
+		}
+	],
+	"tvSeriesInfo": {
+		"yearEnd": "2022",
+		"creators": "Vince Gilligan, Peter Gould",
+		"creatorList": [
+			{ "id": "nm0319213", "name": "Vince Gilligan" },
+			{ "id": "nm0332467", "name": "Peter Gould" }
+		],
+		"seasons": ["1", "2", "3", "4", "5", "6"]
+	},
+	"tvEpisodeInfo": null,
+	"errorMessage": null
+}

@@ -1,0 +1,471 @@
+{
+	"id": "tt0050083",
+	"title": "12 Angry Men",
+	"originalTitle": "",
+	"fullTitle": "12 Angry Men (1957)",
+	"type": "Movie",
+	"year": "1957",
+	"image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+	"releaseDate": "1957-04-10",
+	"runtimeMins": "96",
+	"runtimeStr": "1h 36min",
+	"plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+	"plotLocal": "Un jeune homme d'origine modeste est accusé du meurtre de son père et risque la peine de mort. Le jury composé de douze hommes se retire pour délibérer et procède immédiatement à un vote : onze votent coupable, or la décision doit être prise à l'unanimité. Le juré qui a voté non-coupable, sommé de se justifier, explique qu'il a un doute et que la vie d'un homme mérite quelques heures de discussion. Il s'emploie alors à les convaincre un par un.",
+	"plotLocalIsRtl": false,
+	"awards": "Top rated movie #5 | Nominated for 3 Oscars, 17 wins & 13 nominations total",
+	"directors": "Sidney Lumet",
+	"directorList": [{ "id": "nm0001486", "name": "Sidney Lumet" }],
+	"writers": "Reginald Rose",
+	"writerList": [{ "id": "nm0741627", "name": "Reginald Rose" }],
+	"stars": "Henry Fonda, Lee J. Cobb, Martin Balsam",
+	"starList": [
+		{ "id": "nm0000020", "name": "Henry Fonda" },
+		{ "id": "nm0002011", "name": "Lee J. Cobb" },
+		{ "id": "nm0000842", "name": "Martin Balsam" }
+	],
+	"actorList": [
+		{
+			"id": "nm0000842",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTQwOTE4MjMxM15BMl5BanBnXkFtZTcwMDc5MDg5Nw@@._V1_Ratio0.7727_AL_.jpg",
+			"name": "Martin Balsam",
+			"asCharacter": "Juror 1"
+		},
+		{
+			"id": "nm0275835",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTc1Njg3NDg1OF5BMl5BanBnXkFtZTcwMjY2MTYxOA@@._V1_Ratio0.7273_AL_.jpg",
+			"name": "John Fiedler",
+			"asCharacter": "Juror 2"
+		},
+		{
+			"id": "nm0002011",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDc3MTM0MDQyMF5BMl5BanBnXkFtZTYwMTczMTg2._V1_Ratio0.7273_AL_.jpg",
+			"name": "Lee J. Cobb",
+			"asCharacter": "Juror 3"
+		},
+		{
+			"id": "nm0550855",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTY3Nzg5MTMwOF5BMl5BanBnXkFtZTYwMzk2MTQ2._V1_Ratio0.8182_AL_.jpg",
+			"name": "E.G. Marshall",
+			"asCharacter": "Juror 4"
+		},
+		{
+			"id": "nm0001430",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTkwMDIzOTg0N15BMl5BanBnXkFtZTYwODg0NDE2._V1_Ratio0.7273_AL_.jpg",
+			"name": "Jack Klugman",
+			"asCharacter": "Juror 5"
+		},
+		{
+			"id": "nm0083081",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzAwODU2Njk2Ml5BMl5BanBnXkFtZTcwMjkxODUxOA@@._V1_Ratio0.8182_AL_.jpg",
+			"name": "Edward Binns",
+			"asCharacter": "Juror 6"
+		},
+		{
+			"id": "nm0912001",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTc1Mjk3Njc5MV5BMl5BanBnXkFtZTcwMDk2MzUzMQ@@._V1_Ratio0.7273_AL_.jpg",
+			"name": "Jack Warden",
+			"asCharacter": "Juror 7"
+		},
+		{
+			"id": "nm0000020",
+			"image": "https://m.media-amazon.com/images/M/MV5BOTEwNjQ2ODQ4Nl5BMl5BanBnXkFtZTYwMzEwMTM2._V1_Ratio0.7727_AL_.jpg",
+			"name": "Henry Fonda",
+			"asCharacter": "Juror 8"
+		},
+		{
+			"id": "nm0842137",
+			"image": "https://m.media-amazon.com/images/M/MV5BNTJhYzExYTQtYjc5My00Yzc2LWFlM2EtMjMyYzJiZTIwNzA0XkEyXkFqcGdeQXVyNzgyODM3NjM@._V1_Ratio1.3182_AL_.jpg",
+			"name": "Joseph Sweeney",
+			"asCharacter": "Juror 9"
+		},
+		{
+			"id": "nm0003225",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTQwMTM0Njg2N15BMl5BanBnXkFtZTcwNzgzNzg1MQ@@._V1_Ratio0.7273_AL_.jpg",
+			"name": "Ed Begley",
+			"asCharacter": "Juror 10"
+		},
+		{
+			"id": "nm0903667",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTU1NDcyMjg0M15BMl5BanBnXkFtZTcwMTY2MzAyOA@@._V1_Ratio0.7273_AL_.jpg",
+			"name": "George Voskovec",
+			"asCharacter": "Juror 11"
+		},
+		{
+			"id": "nm0916434",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTM2MTA3NzYxNl5BMl5BanBnXkFtZTcwMTM0OTUwOA@@._V1_Ratio0.7727_AL_.jpg",
+			"name": "Robert Webber",
+			"asCharacter": "Juror 12"
+		},
+		{
+			"id": "nm0094036",
+			"image": "https://m.media-amazon.com/images/M/MV5BNWY2ZGQxMDctNWUyYS00NzYyLTk0MjMtZWY4MWY2YzQ1ZGRiXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.7273_AL_.jpg",
+			"name": "Rudy Bond",
+			"asCharacter": "Judge (uncredited)"
+		},
+		{
+			"id": "nm0331131",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "Tom Gorman",
+			"asCharacter": "Stenographer (uncredited)"
+		},
+		{
+			"id": "nm0446450",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "James Kelly",
+			"asCharacter": "Guard (uncredited)"
+		},
+		{
+			"id": "nm0625180",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTA5Mzg0MTQtMzdmNC00NzY0LTk0ZTUtOTY3MjYxNjJiNDhlXkEyXkFqcGdeQXVyMTk2MzI2Ng@@._V1_Ratio1.3182_AL_.jpg",
+			"name": "Billy Nelson",
+			"asCharacter": "Court Clerk (uncredited)"
+		},
+		{
+			"id": "nm0767847",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "John Savoca",
+			"asCharacter": "The Accused (uncredited)"
+		},
+		{
+			"id": "nm0830818",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "Walter Stocker",
+			"asCharacter": "Man Waiting for Elevator (uncredited)"
+		}
+	],
+	"fullCast": null,
+	"genres": "Crime, Drame",
+	"genreList": [
+		{ "key": "Crime", "value": "Crime" },
+		{ "key": "Drama", "value": "Drame" }
+	],
+	"companies": "Orion-Nova Productions",
+	"companyList": [{ "id": "co0032902", "name": "Orion-Nova Productions" }],
+	"countries": "Etats-Unis",
+	"countryList": [{ "key": "USA", "value": "Etats-Unis" }],
+	"languages": "Anglais",
+	"languageList": [{ "key": "English", "value": "Anglais" }],
+	"contentRating": "Approved",
+	"imDbRating": "9",
+	"imDbRatingVotes": "779473",
+	"metacriticRating": "96",
+	"ratings": {
+		"imDbId": "tt0050083",
+		"title": "12 Angry Men",
+		"fullTitle": "12 Angry Men (1957)",
+		"type": "Movie",
+		"year": "1957",
+		"imDb": "9",
+		"metacritic": "96",
+		"theMovieDb": "8.5",
+		"rottenTomatoes": "100",
+		"filmAffinity": "8.7",
+		"errorMessage": ""
+	},
+	"wikipedia": null,
+	"posters": {
+		"imDbId": "tt0050083",
+		"title": "12 Angry Men",
+		"fullTitle": "12 Angry Men (1957)",
+		"type": "Movie",
+		"year": "1957",
+		"posters": [],
+		"backdrops": [],
+		"errorMessage": ""
+	},
+	"images": {
+		"imDbId": "tt0050083",
+		"title": "12 Angry Men",
+		"fullTitle": "12 Angry Men (1957)",
+		"type": "Movie",
+		"year": "1957",
+		"items": [
+			{
+				"title": "Lee J. Cobb in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTM3M2UzMGYtZjUxMy00NDVkLTg2ZjktOTM0MjZkZWRhOWE4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.3000_AL_.jpg"
+			},
+			{
+				"title": "Lee J. Cobb in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzkxNmZkMzYtNzE5OC00NWM5LWIzYTItNTllYzAyYTk4YWY1XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.2800_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda and Lee J. Cobb in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMzliYmQ0ZGEtNTQ4NC00NmZhLThiOGYtMGIzZmNjYTUzZjUwXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda, Lee J. Cobb, Ed Begley, John Fiedler, E.G. Marshall, Joseph Sweeney, and George Voskovec in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzdiMTY0NzMtNjQ1Ni00OWM1LWJhMzktYzhmMjMzOTdmYzFhXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.2800_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda, Jack Klugman, Lee J. Cobb, Ed Begley, Edward Binns, John Fiedler, E.G. Marshall, Jack Warden, and Robert Webber in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTk3ODA1NjAxN15BMl5BanBnXkFtZTgwNDAwNDU5MTE@._V1_Ratio1.2600_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda and Jack Warden in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTI3Nzk2NjE3Nl5BMl5BanBnXkFtZTgwNTAwNDU5MTE@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda, Jack Klugman, Lee J. Cobb, Edward Binns, John Fiedler, E.G. Marshall, Joseph Sweeney, and George Voskovec in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDAxOTM1Nzg2Nl5BMl5BanBnXkFtZTgwNjAwNDU5MTE@._V1_Ratio1.2400_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda, Ed Begley, John Fiedler, E.G. Marshall, and Robert Webber in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTg1OTg1ODI3NF5BMl5BanBnXkFtZTcwNTg4NDc3Mw@@._V1_Ratio1.2800_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda, Martin Balsam, Jack Klugman, Lee J. Cobb, Ed Begley, Edward Binns, John Fiedler, E.G. Marshall, George Voskovec, and Jack Warden in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTU2MTM1MjY1MV5BMl5BanBnXkFtZTcwNjg4NDc3Mw@@._V1_Ratio1.2600_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTMyODAxMDE2MF5BMl5BanBnXkFtZTcwNzg4NDc3Mw@@._V1_Ratio1.2800_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda, Martin Balsam, Jack Klugman, Ed Begley, Edward Binns, John Fiedler, E.G. Marshall, Joseph Sweeney, George Voskovec, Jack Warden, and Robert Webber in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTk0MDEzMjI3NV5BMl5BanBnXkFtZTcwODg4NDc3Mw@@._V1_Ratio1.2600_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTMxNzM2NDA0MV5BMl5BanBnXkFtZTcwOTg4NDc3Mw@@._V1_Ratio1.2800_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda, Jack Klugman, Lee J. Cobb, Ed Begley, John Fiedler, E.G. Marshall, Joseph Sweeney, and George Voskovec in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTM2NDQ4MjQzOF5BMl5BanBnXkFtZTcwMDk4NDc3Mw@@._V1_Ratio1.2600_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTU5ZjBjNjctMmNlOC00ZTQ0LWJjYzYtZDQ2ZWJkNTc3NjM4XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_Ratio1.2600_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTM1OTNkZGQtMjkwMy00MDhhLTk5N2QtNmU5OTU5OWY3YWRhXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODRmNWRiYmUtNGM2Yy00NTgwLTgxNzMtMGExYzI5NjllNjBhXkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjViOWI2MTctYjRkNi00NWRhLTlhYjQtYjVmNDc1YmU3ZGM4XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODQwOTc5MDM2N15BMl5BanBnXkFtZTcwODQxNTEzNA@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTY2MzY1NjQ5Nl5BMl5BanBnXkFtZTYwMzA2Mzk5._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTg2ODI5NTI0N15BMl5BanBnXkFtZTcwMDk3NjgxMQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTY4MDc1MzE0OV5BMl5BanBnXkFtZTcwMTEwMjE2MQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDkzNTU3MzY5N15BMl5BanBnXkFtZTYwNDg1NDg4._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTY1MTE4ODU4MF5BMl5BanBnXkFtZTYwNTg1NDg4._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTM5NTExMTY1M15BMl5BanBnXkFtZTYwNzg1NDg4._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTUxNTkxMjU4NF5BMl5BanBnXkFtZTYwODg1NDg4._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjE5NTI4ODc3NV5BMl5BanBnXkFtZTYwOTg1NDg4._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzMxMTQ5NDczNF5BMl5BanBnXkFtZTYwODkzNTA5._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTI2NDc3OTQ0M15BMl5BanBnXkFtZTcwNjU3OTkyMQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTc2MjcwOTExMV5BMl5BanBnXkFtZTcwNzMyMzMyMQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTMxMzEwNTU1MV5BMl5BanBnXkFtZTcwMDg1MDU1MQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda, Martin Balsam, Jack Klugman, Lee J. Cobb, Ed Begley, Edward Binns, John Fiedler, E.G. Marshall, Joseph Sweeney, George Voskovec, Jack Warden, and Robert Webber in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODVjZDJjOGEtYzlkYy00N2NhLWJjZjgtYzBhNDExODhmNzM1XkEyXkFqcGdeQXVyMTI1MTg3OTg0._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda, Jack Klugman, Lee J. Cobb, John Fiedler, E.G. Marshall, Joseph Sweeney, George Voskovec, and Jack Warden in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGJiYTI0MDEtZDZiOC00ODMwLTk5YzEtNTkxNDliZmU5OWMyXkEyXkFqcGdeQXVyNDM1MzA1ODI@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOWQwNzYxY2EtMjQ4MS00MmI4LWFmNzEtYTg1MTljMWZiNWQ5XkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Martin Balsam in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODg2MDMxOWMtZTA1MC00OTA0LTliOWMtMmY2NDBmYjM2YTU5XkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "John Fiedler in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjk1YTE5ODQtYjlmMi00ZTljLWE2ZmMtYTE1MGU3YTMwNDg3XkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Lee J. Cobb in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzAxNjFlMTYtNzM5Yy00ODBkLTk1MWQtMThiMTYyZTYwMDkzXkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "E.G. Marshall in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWU1N2VkZDgtMmQ5Ny00YjU5LWFlNWUtYzQ1NTI5ZmQyOGUzXkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Jack Klugman in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTU1MDYxZWYtNWJhZC00YWM4LWEyNjYtOWY2OWFkOWEzYTUzXkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Edward Binns in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOWRjZDVkMDEtM2UyOC00Y2U5LTk2ZTYtYWYyZGEwZTQ1Y2ZiXkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Jack Warden in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMWJiOTBmY2EtZWNkOC00NDE5LThmMjItMDI1M2IwODFiOTQ0XkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTAxYjAyMjYtYjg5Yy00YTg0LWFkOGItNjYyMDljYTI2ZWU0XkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Joseph Sweeney in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDFkNTgzODQtMjY4Yy00ZDY3LWI0Y2MtMWM1ZGFhMzc1YmIwXkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Ed Begley in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTY0ZTNmZDctMTBkOS00MDYxLTljOTctZmJjM2NlMTg1YWViXkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "George Voskovec in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTViNjE2Y2ItZjk1Zi00MjNjLWI4ZjMtMzYzZWYxYTA3YmRjXkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Robert Webber in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTYxMDcyZGItZWQ2NS00MDg0LTljOWEtYWQ5MzlhYzcwNzY1XkEyXkFqcGdeQXVyOTYxNzc0NjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BN2VlYjQwNTEtYTYyNi00N2UwLThmYmQtMjAzNDIyZDFiYTgzXkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda, Jack Klugman, Lee J. Cobb, Ed Begley, Edward Binns, John Fiedler, E.G. Marshall, John Savoca, Joseph Sweeney, George Voskovec, Jack Warden, and Robert Webber in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTJjMjEyMDgtZTIxOC00MThjLTkxYmQtMzM3NTdmYjczODFiXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.2800_AL_.jpg"
+			},
+			{
+				"title": "Henry Fonda, Jack Klugman, Lee J. Cobb, Edward Binns, John Fiedler, E.G. Marshall, and George Voskovec in 12 Angry Men (1957)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzZiMTQ0MzgtYWEzZi00ZDA1LThlOTQtOTcwNDAyZGU4OWVjXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_Ratio1.3400_AL_.jpg"
+			}
+		],
+		"errorMessage": ""
+	},
+	"trailer": null,
+	"boxOffice": {
+		"budget": "$350,000 (estimated)",
+		"openingWeekendUSA": "",
+		"grossUSA": "",
+		"cumulativeWorldwideGross": "$955"
+	},
+	"tagline": null,
+	"keywords": "jury,dialogue driven,courtroom,trial,jury room",
+	"keywordList": [
+		"jury",
+		"dialogue driven",
+		"courtroom",
+		"trial",
+		"jury room"
+	],
+	"similars": [
+		{
+			"id": "tt0108052",
+			"title": "Schindler's List",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "9.0"
+		},
+		{
+			"id": "tt0060196",
+			"title": "The Good, the Bad and the Ugly",
+			"image": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.8"
+		},
+		{
+			"id": "tt0111161",
+			"title": "The Shawshank Redemption",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "9.3"
+		},
+		{
+			"id": "tt0071562",
+			"title": "The Godfather Part II",
+			"image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.7053_AL_.jpg",
+			"imDbRating": "9.0"
+		},
+		{
+			"id": "tt0073486",
+			"title": "One Flew Over the Cuckoo's Nest",
+			"image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.7"
+		},
+		{
+			"id": "tt0068646",
+			"title": "The Godfather",
+			"image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.7053_AL_.jpg",
+			"imDbRating": "9.2"
+		},
+		{
+			"id": "tt0110912",
+			"title": "Pulp Fiction",
+			"image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6860_AL_.jpg",
+			"imDbRating": "8.9"
+		},
+		{
+			"id": "tt0109830",
+			"title": "Forrest Gump",
+			"image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6957_AL_.jpg",
+			"imDbRating": "8.8"
+		},
+		{
+			"id": "tt0114369",
+			"title": "Se7en",
+			"image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.6"
+		},
+		{
+			"id": "tt0468569",
+			"title": "The Dark Knight",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "9.0"
+		},
+		{
+			"id": "tt0118799",
+			"title": "Life Is Beautiful",
+			"image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.6"
+		},
+		{
+			"id": "tt0137523",
+			"title": "Fight Club",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.8"
+		}
+	],
+	"tvSeriesInfo": null,
+	"tvEpisodeInfo": null,
+	"errorMessage": null
+}

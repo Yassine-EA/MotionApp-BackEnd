@@ -1,0 +1,473 @@
+{
+	"id": "tt6277462",
+	"title": "Brahmastra Part One: Shiva",
+	"originalTitle": "",
+	"fullTitle": "Brahmastra Part One: Shiva (2022)",
+	"type": "Movie",
+	"year": "2022",
+	"image": "https://m.media-amazon.com/images/M/MV5BOWFmZmZjNjAtZDBiNi00ZDNlLTg2YTgtZjg4ZDhlY2U0MGJhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.7544_AL_.jpg",
+	"releaseDate": "2022-09-09",
+	"runtimeMins": "167",
+	"runtimeStr": "2h 47min",
+	"plot": "This is the story of Shiva who sets out in search of love and self-discovery. During his journey, he has to face many evil forces that threaten our existence.",
+	"plotLocal": "The story of Shiva – a young man on the brink of an epic love, with a girl named Isha. But their world is turned upside down when Shiva learns that he has a mysterious connection to the Brahmāstra... and a great power within him that he doesn’t understand just yet - the power of Fire.",
+	"plotLocalIsRtl": false,
+	"awards": "",
+	"directors": "Ayan Mukerji",
+	"directorList": [{ "id": "nm2209781", "name": "Ayan Mukerji" }],
+	"writers": "Hussain Dalal, Ayan Mukerji",
+	"writerList": [
+		{ "id": "nm4990507", "name": "Hussain Dalal" },
+		{ "id": "nm2209781", "name": "Ayan Mukerji" }
+	],
+	"stars": "Ranbir Kapoor, Alia Bhatt, Amitabh Bachchan",
+	"starList": [
+		{ "id": "nm1633541", "name": "Ranbir Kapoor" },
+		{ "id": "nm1017633", "name": "Alia Bhatt" },
+		{ "id": "nm0000821", "name": "Amitabh Bachchan" }
+	],
+	"actorList": [
+		{
+			"id": "nm1633541",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTk2ODU5Mjk2MV5BMl5BanBnXkFtZTcwODEzNDg3OA@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Ranbir Kapoor",
+			"asCharacter": "Shiva"
+		},
+		{
+			"id": "nm1017633",
+			"image": "https://m.media-amazon.com/images/M/MV5BZDJhOWNkNjQtNWJlMC00MWM3LWJmYjktMTIyYWI4NGYxNTBkXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Alia Bhatt",
+			"asCharacter": "Isha"
+		},
+		{
+			"id": "nm0000821",
+			"image": "https://m.media-amazon.com/images/M/MV5BNTk1OTUxMzIzMV5BMl5BanBnXkFtZTcwMzMxMjI0Nw@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Amitabh Bachchan",
+			"asCharacter": "Guru"
+		},
+		{
+			"id": "nm0015459",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDE5ZTgzN2QtODQzMi00NzYxLWI3ZmMtMzAxNWM0OGM1YjM0XkEyXkFqcGdeQXVyNzc4NzEwNTc@._V1_Ratio1.4571_AL_.jpg",
+			"name": "Nagarjuna Akkineni",
+			"asCharacter": "Anish"
+		},
+		{
+			"id": "nm4655028",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTM2ZWI4MzEtMGI3Ni00YTZiLWIyMDQtMDFhNzNhNjYwMDhjXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_Ratio1.0000_AL_.jpg",
+			"name": "Mouni Roy",
+			"asCharacter": "Junoon"
+		},
+		{
+			"id": "nm0451321",
+			"image": "https://m.media-amazon.com/images/M/MV5BZDk1ZmU0NGYtMzQ2Yi00N2NjLTkyNWEtZWE2NTU4NTJiZGUzXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Shah Rukh Khan",
+			"asCharacter": "Scientist Mohan Bhargav"
+		},
+		{
+			"id": "nm2138653",
+			"image": "https://m.media-amazon.com/images/M/MV5BNGFlYzAyYjgtNzRjNS00NmE4LTliOGYtYzBkYzU5MzRhMDM0XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Deepika Padukone",
+			"asCharacter": "Amrita"
+		},
+		{
+			"id": "nm0438092",
+			"image": "https://m.media-amazon.com/images/M/MV5BNTc4MTE1NDU5MF5BMl5BanBnXkFtZTcwNDI2MTcxOA@@._V1_Ratio1.4429_AL_.jpg",
+			"name": "Dimple Kapadia",
+			"asCharacter": "Doctor"
+		},
+		{
+			"id": "nm5712932",
+			"image": "https://m.media-amazon.com/images/M/MV5BNWU2YjVlODUtNTAzZS00ZDYwLWJlYWUtODcyZmRiNWE1YTdiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.4000_AL_.jpg",
+			"name": "Rashi Mal",
+			"asCharacter": "Shaina"
+		},
+		{
+			"id": "nm0015289",
+			"image": "https://m.media-amazon.com/images/M/MV5BMzU5MGE5N2EtODFiNC00OGE1LWFhNjEtMDQwMzAzY2Q2MjY0XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Masood Akhtar",
+			"asCharacter": "Chawl Uncle"
+		},
+		{
+			"id": "nm11439182",
+			"image": "https://m.media-amazon.com/images/M/MV5BNWE1ZmFhYzctNjViMy00ZGJkLWE3ZTItYTRkMWU5OGM2YjNmXkEyXkFqcGdeQXVyNzg2NDI2MTA@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Saqib Ayub",
+			"asCharacter": "Ali"
+		},
+		{
+			"id": "nm13619913",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "Cricknowle",
+			"asCharacter": "Ankit"
+		},
+		{
+			"id": "nm0045124",
+			"image": "https://m.media-amazon.com/images/M/MV5BYmVjYzdmNDctNDYwZS00MGJjLWJkYWQtODU3NzI1NmMwOTg5XkEyXkFqcGdeQXVyNzM4MjU3NzY@._V1_Ratio1.5000_AL_.jpg",
+			"name": "Farida Dadi",
+			"asCharacter": "Aunty"
+		},
+		{
+			"id": "nm14031189",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "Stanzin Denek",
+			"asCharacter": "Tensing"
+		},
+		{
+			"id": "nm11885192",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "Rohollah Ghazi",
+			"asCharacter": "Raftaar"
+		},
+		{
+			"id": "nm14031191",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "Nivaan Gupta",
+			"asCharacter": "Baby Shiva"
+		},
+		{
+			"id": "nm7287281",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "Saurav Gurjar",
+			"asCharacter": "Zor"
+		},
+		{
+			"id": "nm14031188",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "Aditi Joshi",
+			"asCharacter": "Rani"
+		}
+	],
+	"fullCast": null,
+	"genres": "Action, Aventure, Fantaisie",
+	"genreList": [
+		{ "key": "Action", "value": "Action" },
+		{ "key": "Adventure", "value": "Aventure" },
+		{ "key": "Fantasy", "value": "Fantaisie" }
+	],
+	"companies": "Dharma Productions, Double Negative (DNEG), Prime Focus",
+	"companyList": [
+		{ "id": "co0078768", "name": "Dharma Productions" },
+		{ "id": "co0105115", "name": "Double Negative (DNEG)" },
+		{ "id": "co0090425", "name": "Prime Focus" }
+	],
+	"countries": "Inde",
+	"countryList": [{ "key": "India", "value": "Inde" }],
+	"languages": "hindi, Tamil, télougou, Kannada, Malayalam",
+	"languageList": [
+		{ "key": "Hindi", "value": "hindi" },
+		{ "key": "Tamil", "value": "Tamil" },
+		{ "key": "Telugu", "value": "télougou" },
+		{ "key": "Kannada", "value": "Kannada" },
+		{ "key": "Malayalam", "value": "Malayalam" }
+	],
+	"contentRating": null,
+	"imDbRating": "5.5",
+	"imDbRatingVotes": "86690",
+	"metacriticRating": "57",
+	"ratings": null,
+	"wikipedia": null,
+	"posters": {
+		"imDbId": "tt6277462",
+		"title": "Brahmastra Part One: Shiva",
+		"fullTitle": "Brahmastra Part One: Shiva (2022)",
+		"type": "Movie",
+		"year": "2022",
+		"posters": [],
+		"backdrops": [],
+		"errorMessage": ""
+	},
+	"images": {
+		"imDbId": "tt6277462",
+		"title": "Brahmastra Part One: Shiva",
+		"fullTitle": "Brahmastra Part One: Shiva (2022)",
+		"type": "Movie",
+		"year": "2022",
+		"items": [
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjgwZDk3ZmYtNDRiMi00NzEwLThlZDctNjFhYWFiYTQ1YzQ0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDM5NDViZTQtZjE3NC00ZGQxLTg0YjgtNDYxZDNmODkyNmYyXkEyXkFqcGdeQXVyNjc3MzU4Mzc@._V1_Ratio2.1600_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGI5OTVhMTAtMGU4My00MjIyLTg5MjYtZDY3MzhjMTA2NGQ4XkEyXkFqcGdeQXVyNjc3MzU4Mzc@._V1_Ratio2.4400_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZmY3MmJjNmQtOWQ0Ny00NGY1LWJiNDUtNTY2NGIxNzJiMzg0XkEyXkFqcGdeQXVyNjc3MzU4Mzc@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjkyNmU3NjItNjQxYi00NjBmLTg3M2MtNjRhNmZmOTdjZTQ4XkEyXkFqcGdeQXVyNjc3MzU4Mzc@._V1_Ratio2.4400_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BM2RkMTliZDYtZGIwYy00ZTg1LWFmMTUtYmUxZDU2MTJmOTNjXkEyXkFqcGdeQXVyNjc3MzU4Mzc@._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzgwYzljMzgtZmI5Ni00ZTI3LTllNjctMWVjZTE2MmFlODU4XkEyXkFqcGdeQXVyNjc3MzU4Mzc@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjlmOGEwY2ItMzViMC00YjJkLTlkY2MtZGNhNDljNDQxNDZiXkEyXkFqcGdeQXVyNjc3MzU4Mzc@._V1_Ratio1.8800_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNmM3OTAxYTMtMDVjMy00Yjk1LTllNTQtYWEzOTBjYTE5MDY5XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTNjZjgwZmUtMTczYy00M2M4LWI0ZTMtM2M0NzVlYTliMGIwXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio2.0400_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWZmOTk0ODMtYzlmYS00MzMxLTkwZTktYmI5MDNiYmEwYTY2XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.8200_AL_.jpg"
+			},
+			{
+				"title": "Mouni Roy in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDZlZTIwNmUtZjQ3ZS00NDczLWIzMzYtZGYwY2U5MzA2YTBiXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.9200_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjgzMzM2NWQtZjNhYy00NmZkLTg2MzktNTdmZWM5N2NmNWVhXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.8000_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYWI2NDY5ZTYtN2M4Ny00MGM0LWI3ZGItYTFlNTlkNzMyYzhhXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.8400_AL_.jpg"
+			},
+			{
+				"title": "Mouni Roy in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjY5MTI3N2ItZDExMy00ZDBiLTgxMjEtOTkwOWVmMzcyNDJmXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.5800_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNmE1YWVjOTAtZDQ5OC00M2E2LTgzNTEtMmRjNzBkYTMwMzc5XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.6000_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODE4NGZhY2YtYzE1MS00Y2Q4LWEyNDUtMzk0ZjVkMmQzYzUyXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.6000_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDYyZmY3YWQtNzkxMS00NTVkLTg2NTItODZhMDVhYjMyMDE4XkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.5200_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOGVlMDdkN2MtMjE0My00YjFmLThjZTYtNDRlZmEyM2Q4ZWJiXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.9000_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYThmNzYwMTEtMTU3Ni00YmQ4LWIwYzgtNGNmZjlhMzg0NTljXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.8600_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjkzM2M3NGMtMTRlMi00MDBjLWFkMzEtYWU0NzU1Y2VlZjBjXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BN2FiYTMwZGUtMDI1ZS00MmEyLWFlMTUtMThiMjJhMTM5MTU3XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGU0YjMzZmUtYzg2OC00MWU3LTg4ZWYtNjQ5ZjAxNGVhN2VmXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_Ratio1.3600_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDEzNTZiMTAtNmY3ZC00OWY3LTg0MmEtNGYzZjQ4NjY4MmExXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_Ratio1.2000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzExN2FiNWMtNzMxZi00ZWFlLTk4MWMtYWMzZjI3OTNjMDFjXkEyXkFqcGdeQXVyMTMyMjc4MDgz._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODg4Y2VjYTgtMzIxMi00ZTA1LTk2NmUtMzRhZTdlZmM4MzM4XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.2600_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTU1NjkxZmMtMmMwYS00NjVjLWE0NWQtZjZhOWM5OGJlMDI5XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.2600_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODQ1OTNiNTUtYzViZC00NmZlLWJjYTYtNzU5ZmJlMDZlNzk0XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzU3MzJmYzYtMzE1NS00YjY0LTgxM2YtZTc2Yzk1MTBmNjUyXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjEyYjk2ODctODgwZi00M2NmLTlkMTAtMGEwNmY0MTdjYjc5XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjJhMjExNWQtYzE1NS00Yzk2LTkzN2UtZWYwOTAzYzlkZDc2XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMzZkOWY3YTUtNzU4Yi00NzQ1LWEzYmYtZjcxODhiYmJiNzhhXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BY2RjMTQ3NDktYWI2Ny00YjBjLWEzMDItNGE5MjU3OTczZDBjXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjg1ZjI3ZjUtM2U5Ni00ZTU5LThjZWEtNTUyMTRiYTU5M2RiXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Amitabh Bachchan in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjc1YWY5NDctOGE4Yy00ZDM1LWEwNzYtYjQyNjY3NTQyNGIzXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOWI2NzQzZGMtMzM3Zi00NTViLTg4OTAtZDNhYTdmN2ExYWM0XkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Amitabh Bachchan and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BY2RjNjA1ZTQtMTY4Ni00MDJmLWJlZWMtY2M0NDY1YzE1YzJhXkEyXkFqcGdeQXVyMTA5NzIyMDY5._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Amitabh Bachchan, Alia Bhatt, and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzI3MTM0OTUtNDViNS00ZDg1LThkZWEtZTQyM2RjZjY0OGEwXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_Ratio1.6200_AL_.jpg"
+			},
+			{
+				"title": "Nagarjuna Akkineni, Amala Akkineni, Alia Bhatt, and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjYxOWI5MDAtOTAyZi00ZDhhLThmN2ItOTQxNTI1Njg0NGQwXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_Ratio1.1800_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjI2NTM0ZGYtNGRiZS00NTNmLTk5ZDYtMzU0MzBjYmI3ZDRlXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Nagarjuna Akkineni, Alia Bhatt, Ranbir Kapoor, and Ayan Mukerji in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODQ4ODU5OWMtNzkyNy00ZTY1LWJkZjMtNTA4NWVjMzZjYTdjXkEyXkFqcGdeQXVyMTUzNzkxNzM@._V1_Ratio1.8000_AL_.jpg"
+			},
+			{
+				"title": "Amitabh Bachchan in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTY1M2U5NmQtYmJkZi00MmQ5LTk5NzgtZTM1NmNjYmFjZWVmXkEyXkFqcGdeQXVyNjgxMjk4MzQ@._V1_Ratio1.4800_AL_.jpg"
+			},
+			{
+				"title": "Amitabh Bachchan and Alia Bhatt in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BN2NiNzdhNGMtOGRiOS00ZmRlLWFjNjQtMzM4ZjFhYTJlZWIyXkEyXkFqcGdeQXVyNjgxMjk4MzQ@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Amitabh Bachchan and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BY2E2MmRmYjgtNGUzMy00NjAxLThjNTgtMWViYjkzZDZiZGQ3XkEyXkFqcGdeQXVyNjgxMjk4MzQ@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt, Ranbir Kapoor, and Ayan Mukerji in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZmFiMzQ0ZTUtNTMxOS00ODA0LTgwNjMtNzAyM2U1ZDE3OWY0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_Ratio1.1400_AL_.jpg"
+			},
+			{
+				"title": "Alia Bhatt, Alia Butt, and Ranbir Kapoor in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOWFmZmZjNjAtZDBiNi00ZDNlLTg2YTgtZjg4ZDhlY2U0MGJhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Mouni Roy in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDdiNTA4MmMtMzczMS00ZDIwLWE2OTAtMDQ0YWU1ZmM0YWNkXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Nagarjuna Akkineni in Brahmastra Part One: Shiva (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjA3ODE1ZTQtODdjMi00YmU0LWI0YWQtODU0M2QyNWM4NzFiXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio1.0000_AL_.jpg"
+			}
+		],
+		"errorMessage": ""
+	},
+	"trailer": null,
+	"boxOffice": {
+		"budget": "₹4,100,000,000 (estimated)",
+		"openingWeekendUSA": "$4,543,659",
+		"grossUSA": "$5,988,739",
+		"cumulativeWorldwideGross": "$25,078,554"
+	},
+	"tagline": null,
+	"keywords": "fantasy superhero,non comic book superhero,superhero,villain,supervillain",
+	"keywordList": [
+		"fantasy superhero",
+		"non comic book superhero",
+		"superhero",
+		"villain",
+		"supervillain"
+	],
+	"similars": [
+		{
+			"id": "tt15315164",
+			"title": "Cuttputlli",
+			"image": "https://m.media-amazon.com/images/M/MV5BYzZmYjBiMzQtYWQwMC00ZWJiLWEzZDItNGJlODRlODRkZWNmXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "5.9"
+		},
+		{
+			"id": "tt20850406",
+			"title": "Sita Ramam",
+			"image": "https://m.media-amazon.com/images/M/MV5BN2RjZDJhYzUtOTQ5Yy00OWM3LWE5OTctM2Y0YWVmNzAzODllXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.6"
+		},
+		{
+			"id": "tt14182646",
+			"title": "Vendhu Thanindhathu Kaadu",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDk2Y2U0ODgtNTA4MC00Mzk3LWJlMGEtYWFmODg1OTJjMzNmXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.2"
+		},
+		{
+			"id": "tt10698680",
+			"title": "K.G.F: Chapter 2",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjMwMDgyOGQtMWZjNC00MDUwLTllZDYtZWM3NDBmN2YzNGZmXkEyXkFqcGdeQXVyMTQzNjkzMzEw._V1_Ratio0.6957_AL_.jpg",
+			"imDbRating": "8.4"
+		},
+		{
+			"id": "tt21983580",
+			"title": "Rahasya",
+			"image": "https://m.media-amazon.com/images/M/MV5BZmM5N2JjNjAtMWRhNS00MzNkLWExMjItNjIzMDMyMjU0NjU5XkEyXkFqcGdeQXVyMTMzNzA4MTMx._V1_Ratio0.6860_AL_.jpg",
+			"imDbRating": "8.0"
+		},
+		{
+			"id": "tt14989778",
+			"title": "Oke Oka Jeevitham",
+			"image": "https://m.media-amazon.com/images/M/MV5BY2VmYmJhZTktYTAwNS00M2VmLTk2NDgtMmJiZTQ0ODU5Y2M1XkEyXkFqcGdeQXVyOTUxNDE5Nzk@._V1_Ratio1.0048_AL_.jpg",
+			"imDbRating": "8.5"
+		},
+		{
+			"id": "tt9179430",
+			"title": "Vikram",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDRiOWNjYjUtMDI0ZC00MDMyLTkwZDItNTU5NWQ1NjEyNGYxXkEyXkFqcGdeQXVyMTIyNzY0NTMx._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.4"
+		},
+		{
+			"id": "tt8178634",
+			"title": "RRR",
+			"image": "https://m.media-amazon.com/images/M/MV5BODUwNDNjYzctODUxNy00ZTA2LWIyYTEtMDc5Y2E5ZjBmNTMzXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.7536_AL_.jpg",
+			"imDbRating": "8.0"
+		},
+		{
+			"id": "tt13130760",
+			"title": "Hit: The First Case",
+			"image": "https://m.media-amazon.com/images/M/MV5BZjdjOTQwY2UtZDM5Zi00YTU0LWIzOTQtMTFjZThmZDNhOWZhXkEyXkFqcGdeQXVyMTE0MTY2Mzk2._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.0"
+		},
+		{
+			"id": "tt10028196",
+			"title": "Laal Singh Chaddha",
+			"image": "https://m.media-amazon.com/images/M/MV5BMmQ4OTEyOTctMmFkOC00N2M4LWIyMDEtN2Y1MzQ0NzMzNDJlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.7536_AL_.jpg",
+			"imDbRating": "5.0"
+		},
+		{
+			"id": "tt14152140",
+			"title": "Darlings",
+			"image": "https://m.media-amazon.com/images/M/MV5BZjNmOTc3MDItNDRjMy00OTcxLWE0ODItNTliZTgyYjlkMTVlXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "6.6"
+		},
+		{
+			"id": "tt2178470",
+			"title": "Yeh Jawaani Hai Deewani",
+			"image": "https://m.media-amazon.com/images/M/MV5BODA4MjM2ODk4OF5BMl5BanBnXkFtZTcwNDgzODk1OQ@@._V1_Ratio0.6957_AL_.jpg",
+			"imDbRating": "7.2"
+		}
+	],
+	"tvSeriesInfo": null,
+	"tvEpisodeInfo": null,
+	"errorMessage": null
+}

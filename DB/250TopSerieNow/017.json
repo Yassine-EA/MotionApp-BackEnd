@@ -1,0 +1,449 @@
+{
+	"id": "tt4301160",
+	"title": "Black Bird",
+	"originalTitle": "",
+	"fullTitle": "Black Bird (TV Series 2022–2022)",
+	"type": "TVSeries",
+	"year": "2022",
+	"image": "https://m.media-amazon.com/images/M/MV5BZjI3NjcyN2UtMGNhZC00YTYxLWJmOTQtNWI1ZGJmNjA4ZjY5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio0.6762_AL_.jpg",
+	"releaseDate": "2022-07-08",
+	"runtimeMins": null,
+	"runtimeStr": null,
+	"plot": "Jimmy Keene is sentenced to 10 years in a minimum security prison but he cuts a deal with the FBI to befriend a suspected serial killer. Keene has to elicit a confession from Larry Hall to find the bodies of as many as eighteen wo...",
+	"plotLocal": "L'histoire vraie de James Keene qui se voit offrir une chance de sortir de prison s'il parvient à obtenir les aveux d'un tueur en série présumé avec lequel il purge une peine de prison.",
+	"plotLocalIsRtl": false,
+	"awards": "",
+	"directors": "",
+	"directorList": [],
+	"writers": "",
+	"writerList": [],
+	"stars": "Taron Egerton, Paul Walter Hauser, Greg Kinnear",
+	"starList": [
+		{ "id": "nm5473782", "name": "Taron Egerton" },
+		{ "id": "nm3236159", "name": "Paul Walter Hauser" },
+		{ "id": "nm0001427", "name": "Greg Kinnear" }
+	],
+	"actorList": [
+		{
+			"id": "nm5473782",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTYzODU2OTI2Nl5BMl5BanBnXkFtZTgwMTUyMTAwMzE@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Taron Egerton",
+			"asCharacter": "James Keene"
+		},
+		{
+			"id": "nm3236159",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDM2N2FjYTctY2FhZi00NjI0LTgzN2ItZmExMTY5OTFkNzQzXkEyXkFqcGdeQXVyMjk0NjI0MQ@@._V1_Ratio1.5000_AL_.jpg",
+			"name": "Paul Walter Hauser",
+			"asCharacter": "Larry Hall"
+		},
+		{
+			"id": "nm0001427",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTcwNzE5MDM1NV5BMl5BanBnXkFtZTcwMTAzMjM3NA@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Greg Kinnear",
+			"asCharacter": "Brian Miller"
+		},
+		{
+			"id": "nm0000501",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTU3NzM5MjUwMF5BMl5BanBnXkFtZTYwNDM2NDky._V1_Ratio1.0000_AL_.jpg",
+			"name": "Ray Liotta",
+			"asCharacter": "Big Jim Keene"
+		},
+		{
+			"id": "nm4209180",
+			"image": "https://m.media-amazon.com/images/M/MV5BYWIyYTk3NjYtMzZhNS00ODRjLWI2Y2ItNTYwZTIzYTk3MmUyXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Sepideh Moafi",
+			"asCharacter": "Lauren McCauley"
+		},
+		{
+			"id": "nm2006513",
+			"image": "https://m.media-amazon.com/images/M/MV5BNTYzNGJiNDgtMWZiNS00MzQ2LTkyY2ItOWVkYmUyZGFjYmMxXkEyXkFqcGdeQXVyMTYxMDM4Njk@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Joe Williamson",
+			"asCharacter": "CO Carter"
+		},
+		{
+			"id": "nm0936298",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTg2MjkyNTgwMV5BMl5BanBnXkFtZTgwOTE5NDg1MzE@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Robert Wisdom",
+			"asCharacter": "Edmund Beaumont"
+		},
+		{
+			"id": "nm0539137",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTRkZjFmZGMtYzFiZC00ZTc4LTg0MTEtNDQzMWRkZWU1NzQ2XkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Robyn Malcolm",
+			"asCharacter": "Sammy"
+		},
+		{
+			"id": "nm0024593",
+			"image": "https://m.media-amazon.com/images/M/MV5BNTA3NzQwNDA5OV5BMl5BanBnXkFtZTYwMTY0MTI3._V1_Ratio1.0000_AL_.jpg",
+			"name": "Tony Amendola",
+			"asCharacter": "Vincent Gigante"
+		},
+		{
+			"id": "nm0629517",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTZhNTM4MTMtNzQwYS00NWNiLTgzZjktNGQ1MDY3MjEzNTBlXkEyXkFqcGdeQXVyMzE2NjcyMA@@._V1_Ratio1.5000_AL_.jpg",
+			"name": "Melanie Nicholls-King",
+			"asCharacter": "Dr. Amelia Hackett"
+		},
+		{
+			"id": "nm2474864",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTk2NDc1MDc4NF5BMl5BanBnXkFtZTgwMzg0MDc0MTE@._V1_Ratio1.5000_AL_.jpg",
+			"name": "Jake McLaughlin",
+			"asCharacter": "Gary Hall"
+		},
+		{
+			"id": "nm7922324",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTc0Y2U0OWEtMmE1ZC00NjE3LThlYWEtMjA0YzU4MWU2MDc3XkEyXkFqcGdeQXVyNjU0MDEwMTI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Laney Stiebing",
+			"asCharacter": "Jessica Roach"
+		},
+		{
+			"id": "nm8949953",
+			"image": "https://m.media-amazon.com/images/M/MV5BOTIzMDIzNjAtNjgyYS00MjIxLWE4NDYtMGVhNTk1NzhjZTI5XkEyXkFqcGdeQXVyNzU1OTA0OTU@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Cecilia Leal",
+			"asCharacter": "Rochelle"
+		},
+		{
+			"id": "nm6535112",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzM2YmQxYWMtMjVmZi00Y2ZiLTgzM2ItNGYxMGFmYTEzZTQwXkEyXkFqcGdeQXVyMzcwNjY4MTU@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Trazi Lashawn",
+			"asCharacter": "CO Holt"
+		},
+		{
+			"id": "nm0002540",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "John Jabaley",
+			"asCharacter": "CO Burden"
+		},
+		{
+			"id": "nm0016243",
+			"image": "https://m.media-amazon.com/images/M/MV5BMmRmNmZiZGQtMTFjNy00NDBhLTg2YTEtYmE3NjhmNTVkMTUyXkEyXkFqcGdeQXVyMjM0MzE4NDM@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Carlo Alban",
+			"asCharacter": "Chris Drysdale"
+		},
+		{
+			"id": "nm0241935",
+			"image": "https://m.media-amazon.com/images/M/MV5BOWUzYWMxNTAtNmEzNi00N2VmLTg1MDAtNmM0MjM4ZTFkZmIxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Christopher B. Duncan",
+			"asCharacter": "Dr. Aaron Zicherman"
+		},
+		{
+			"id": "nm1150144",
+			"image": "https://m.media-amazon.com/images/M/MV5BNTQ1OGEzZTgtNzZjZS00NWVlLWE2NTQtOTc5YTY2NzliZGIzXkEyXkFqcGdeQXVyMzMyMzQ5Nw@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Cullen Moss",
+			"asCharacter": "Detective Russ Aborn"
+		}
+	],
+	"fullCast": null,
+	"genres": "Crime, Drame, Mystère",
+	"genreList": [
+		{ "key": "Crime", "value": "Crime" },
+		{ "key": "Drama", "value": "Drame" },
+		{ "key": "Mystery", "value": "Mystère" }
+	],
+	"companies": "Apple Studios, Apple, Crime Story Media",
+	"companyList": [
+		{ "id": "co0861654", "name": "Apple Studios" },
+		{ "id": "co0000267", "name": "Apple" },
+		{ "id": "co0844887", "name": "Crime Story Media" }
+	],
+	"countries": "Etats-Unis",
+	"countryList": [{ "key": "USA", "value": "Etats-Unis" }],
+	"languages": "Anglais",
+	"languageList": [{ "key": "English", "value": "Anglais" }],
+	"contentRating": "TV-MA",
+	"imDbRating": "8.2",
+	"imDbRatingVotes": "43835",
+	"metacriticRating": null,
+	"ratings": null,
+	"wikipedia": null,
+	"posters": {
+		"imDbId": "tt4301160",
+		"title": "Black Bird",
+		"fullTitle": "Black Bird (TV Series 2022–2022)",
+		"type": "TVSeries",
+		"year": "2022",
+		"posters": [],
+		"backdrops": [],
+		"errorMessage": ""
+	},
+	"images": {
+		"imDbId": "tt4301160",
+		"title": "Black Bird",
+		"fullTitle": "Black Bird (TV Series 2022–2022)",
+		"type": "TVSeries",
+		"year": "2022",
+		"items": [
+			{
+				"title": "Paul Walter Hauser in Black Bird: Hand to Mouth (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjBkZDUzMjctNTFmZC00ODM2LWI2ZmMtYzJlMWRjMzAxYzA1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Greg Kinnear and Sepideh Moafi in Black Bird: Hand to Mouth (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzRjYzg1OGQtN2QyZi00NmE0LThhMmItMWFiMmRmNjMxOTc0XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser in Black Bird: We Are Coming, Father Abraham (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjkzZjU0NzAtOGE4Ny00ZWQ1LWEwZmMtZWEwZDAyMDlkOGY1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Ray Liotta and Robyn Malcolm in Black Bird: We Are Coming, Father Abraham (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzcwYzBlNTUtOGQ2YS00ZTlmLTg2N2QtMzQxNTA5NDA3ZmZmXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Taron Egerton in Black Bird: We Are Coming, Father Abraham (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODAyMGIwM2MtOTZjNy00YTY3LWFhNjYtZjZiZTkzZjA5YmVkXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser in Black Bird: We Are Coming, Father Abraham (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjRiYjU4NWYtMTVmMy00ZDE4LWEwZmItYWM2OGI1ODU0YzFlXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Sepideh Moafi in Black Bird: Pilot (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTJkMjk3YzItNTJjMC00MmRkLWJjNTYtZmEyYWE2N2E3N2I3XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser in Black Bird: Pilot (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjBiNjNiMWUtNThkNi00YWY5LWE5ZWMtYmIzZmIyMTNiMmVlXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Taron Egerton in Black Bird: Pilot (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTAyMzJjMmMtZTI4NC00ZWRlLTk3NDItYjJjOWQyNjllMTA0XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Greg Kinnear in Black Bird: Pilot (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjZiZTc2NmEtNzliMi00Y2MzLTg1NzItNzRlNWI4OGExNDM0XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Taron Egerton in Black Bird: Pilot (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTJmZGY3ZjAtZjhmZC00Yjg5LWJjNGUtMWNhOWQ0YzJjNGZkXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser and Taron Egerton in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMmIwZDFiYjQtZjk4Ni00NzQxLWE3M2YtYjFkMjEyZmY5YWRhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser and Taron Egerton in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzE5ZWVkYmItOWY4OS00YWZkLTkwYTgtM2NlYmMzOGU0M2ViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.7600_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser at an event for Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjcxZGFiMDQtZWUyOC00MDAwLTgxMDAtMDJhOTU2OTI0YWM4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "T.C. Matherne, Logan Macrae, and Taron Egerton in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjE3MmQ5MmEtYTViOC00ZWVlLTg1M2YtZDI2YmI2MmY2YzY1XkEyXkFqcGdeQXVyNjA3ODM4MzQ@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Taron Egerton in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjk1NWYzNzMtYTY4Zi00Mjg2LTk5ZWItNDI4OGZjMzkzNzcyXkEyXkFqcGdeQXVyNjAzODA0Njk@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser and Taron Egerton in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTI2YmIzMDYtNGQ5YS00ZjQ1LWE3YjctYjMxOGRjYzQzYWVlXkEyXkFqcGdeQXVyNjAzODA0Njk@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYmMyYzA4NjEtYzQ3ZC00ZDkxLTgxN2MtOTNhZmNiNjRiN2NkXkEyXkFqcGdeQXVyNjAzODA0Njk@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Tony Amendola and Taron Egerton in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDIyNjZhN2YtZGRiZS00YzA3LTgzNDUtN2U4ZjYxZDdkNjJhXkEyXkFqcGdeQXVyNjAzODA0Njk@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser and Taron Egerton in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTkzZTRhYTktNWUyZC00NTRkLWIzYTItNzM0NjU5MzFiNGUyXkEyXkFqcGdeQXVyNjAzODA0Njk@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Greg Kinnear in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BM2VmZWNiNTUtZTZjOS00ODgwLWFiMWYtOTA2ZjlmYWVjMjAwXkEyXkFqcGdeQXVyNjAzODA0Njk@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BN2U4OTcyYmUtYTc5ZS00MjJkLWFkYjAtNzViMmRhYzdiN2Q5XkEyXkFqcGdeQXVyNjAzODA0Njk@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Sepideh Moafi in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGM0MzcyZmEtZDlmOC00NmJkLThiMGEtYTE4YjQ1ZmJkMzRjXkEyXkFqcGdeQXVyNjAzODA0Njk@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Taron Egerton in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMzYwMGQwODAtOGNmYS00YjFkLWExNzUtZDg5NWVhOGZmOTI3XkEyXkFqcGdeQXVyNjAzODA0Njk@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser in Black Bird: Pilot (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDgxYjZkN2UtMWM2ZC00YjFhLWJjYzctMDFhMDY0NTA5MTVhXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser in Black Bird: WhatsHerName (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjBlZjA4N2YtZGU5Zi00ZDFlLWJhNGQtOTE4ZjA0YjYyMmFjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser and Taron Egerton in Black Bird: The Place I Lie (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTU5YzhlYzMtMmU4MS00MWIzLTg0ZWItZGMwYWQ5YmVmZDRhXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser in Black Bird: WhatsHerName (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDlmNmQ3NTktZmRmNi00YzRhLWJiMzAtYjM4ZTAwMzkxYmFhXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Greg Kinnear and Sepideh Moafi in Black Bird: We Are Coming, Father Abraham (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTAzMDRkZmYtMGNkOC00OTUyLTg1MDItMDA1YTdlMzg4Y2JiXkEyXkFqcGdeQXVyODkzMzE0Nzc@._V1_Ratio1.8000_AL_.jpg"
+			},
+			{
+				"title": "Taron Egerton in Black Bird: Pilot (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOWZjMTljOGItNWIyYi00Zjc3LThlYzItYzI5ZmEzZjAyYWQyXkEyXkFqcGdeQXVyODkzMzE0Nzc@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Ray Liotta in Black Bird: Hand to Mouth (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BY2Y4NWQwNGEtMjhhNS00YTBjLWE5MmEtYWNjMTJmMTQxZjA1XkEyXkFqcGdeQXVyMTI0NTY0MTE0._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Taron Egerton in Black Bird: The Place I Lie (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOWFhZWZlYjktMDQ0Yi00MzM4LTgyZDItMmVlZGFiMmM1ODI2XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser in Black Bird: Pilot (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDc1Y2ZlMjctN2Q0OS00NTYwLTg1NTMtYmJlMGRhYmQ2ODY0XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser and Taron Egerton in Black Bird: Hand to Mouth (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTgxYTYwYzAtOGI0MS00MjgyLTkzMGEtZTkyZmY3NGQzNTQ4XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Taron Egerton in Black Bird: We Are Coming, Father Abraham (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYWFjOTZlYTktN2ZmMi00NjY3LWFmMTgtZTY0N2FkMDQ1ZjA4XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "T.C. Matherne, Logan Macrae, and Taron Egerton in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMWNlNDE4NDYtMTc5NS00NWI2LTlkZmYtNGI4OGQyY2RlZWU4XkEyXkFqcGdeQXVyNjA3ODM4MzQ@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Laney Stiebing in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNmQyOWEyY2UtZjBlNC00ZWFlLWE1ODMtMDM1ZjA1YmZkOTk4XkEyXkFqcGdeQXVyNjU0MDEwMTI@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "\"Black Bird\" 1x01",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGMwMDg1NjgtMzlkMC00Yzc3LTg4NWEtYjUwNjU5OWYyZjEwXkEyXkFqcGdeQXVyNjU0MDEwMTI@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "At Apple tv's screening of \"Black Bird\".",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzcwZGFjMDMtM2IwYi00MWEyLWEyYjUtMTA0ODVhMTE2MjM1XkEyXkFqcGdeQXVyMTA3NDgxNjk@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDdlMTcyNmItMzJlOS00MDhhLTllMzYtYTNkODE5ZjY0ZDc1XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNWE1NzAxODUtMmYzMS00NmIzLTllMGQtYzBjNzJiMjkzOWNjXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser and Taron Egerton in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYmQyODhiODUtZDNlNS00NmZlLWEyNzMtODBiNWE5ZDJmZGU5XkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Paul Walter Hauser and Taron Egerton in Black Bird (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjI3NjcyN2UtMGNhZC00YTYxLWJmOTQtNWI1ZGJmNjA4ZjY5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio1.0000_AL_.jpg"
+			}
+		],
+		"errorMessage": ""
+	},
+	"trailer": null,
+	"boxOffice": {
+		"budget": "",
+		"openingWeekendUSA": "",
+		"grossUSA": "",
+		"cumulativeWorldwideGross": ""
+	},
+	"tagline": null,
+	"keywords": "psychological drama,serial killer,tv mini series,criminal,color in title",
+	"keywordList": [
+		"psychological drama",
+		"serial killer",
+		"tv mini series",
+		"criminal",
+		"color in title"
+	],
+	"similars": [
+		{
+			"id": "tt11280740",
+			"title": "Severance",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjkwZjcwMGQtNDAzOC00YjJiLThiYTgtNWU3ZjRiZmY2YzEzXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.7"
+		},
+		{
+			"id": "tt5645432",
+			"title": "The Old Man",
+			"image": "https://m.media-amazon.com/images/M/MV5BYzBlZWU5ZjAtNjgzNC00NWE3LTkyNTUtNjIyY2JiYWNhNWNkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.8"
+		},
+		{
+			"id": "tt14452776",
+			"title": "The Bear",
+			"image": "https://m.media-amazon.com/images/M/MV5BMmZmMjgyOTUtZjljMS00NjhlLTkzMmItM2EyMzY5NzU0NzFiXkEyXkFqcGdeQXVyNjIzMTEyNDk@._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "8.5"
+		},
+		{
+			"id": "tt11743610",
+			"title": "The Terminal List",
+			"image": "https://m.media-amazon.com/images/M/MV5BNmNkYmZjZDMtNjVmZC00OWVkLWI1MzEtYjI0ZDc2MjExYWY2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "8.0"
+		},
+		{
+			"id": "tt12262116",
+			"title": "Thirteen Lives",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzI4YzkyMTYtYmQ1MC00NjYwLThkMDgtY2E1Njg1MTAzZWJhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.8"
+		},
+		{
+			"id": "tt5875444",
+			"title": "Slow Horses",
+			"image": "https://m.media-amazon.com/images/M/MV5BMmM3N2IwMDAtMGM4Ny00ODNjLWJkMWEtNTQwMjNlMTUzMzgzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.7"
+		},
+		{
+			"id": "tt3283594",
+			"title": "Five Days at Memorial",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDcyNDU5YzMtOWIyYi00YWQ1LThhNDktNDQ2ZTY3OWEyZWJiXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.0"
+		},
+		{
+			"id": "tt1751634",
+			"title": "The Sandman",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.8"
+		},
+		{
+			"id": "tt2953250",
+			"title": "Shining Girls",
+			"image": "https://m.media-amazon.com/images/M/MV5BOTA2NGZkM2EtN2RjNC00N2ExLWEzNzUtOWRiNDk4M2Q5ZjM3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.4"
+		},
+		{
+			"id": "tt8246646",
+			"title": "Blackbird",
+			"image": "https://m.media-amazon.com/images/M/MV5BYjQ2ZDRiMDAtZjg5Ni00ZWVhLWE3NDQtZjkwOGU2YTBhMjc2XkEyXkFqcGdeQXVyMzMwMTQ3OTU@._V1_Ratio0.6860_AL_.jpg",
+			"imDbRating": "3.4"
+		},
+		{
+			"id": "tt4614584",
+			"title": "Purple Hearts",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzI4ZTAwNzEtNTk5YS00ZWJmLWI1ODMtOTU4MTM5MzQ4OWM0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_Ratio1.0048_AL_.jpg",
+			"imDbRating": "6.7"
+		},
+		{
+			"id": "tt1998372",
+			"title": "Under the Banner of Heaven",
+			"image": "https://m.media-amazon.com/images/M/MV5BZDRjNTQ4MWItMGRkNC00NDcwLWI3NGQtZTFlNWVhNWMzODZlXkEyXkFqcGdeQXVyMTAxODQ2NDU1._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.5"
+		}
+	],
+	"tvSeriesInfo": {
+		"yearEnd": "2022",
+		"creators": "Dennis Lehane",
+		"creatorList": [{ "id": "nm1212331", "name": "Dennis Lehane" }],
+		"seasons": ["1"]
+	},
+	"tvEpisodeInfo": null,
+	"errorMessage": null
+}

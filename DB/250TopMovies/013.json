@@ -1,0 +1,409 @@
+{
+	"id": "tt11564570",
+	"title": "Glass Onion: A Knives Out Mystery",
+	"originalTitle": "",
+	"fullTitle": "Glass Onion: A Knives Out Mystery (2022)",
+	"type": "Movie",
+	"year": "2022",
+	"image": "https://m.media-amazon.com/images/M/MV5BZjRjMzIxODEtZTY5NS00YWMxLTgzOGEtNmUzMzNjNWRhZThlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_Ratio0.6762_AL_.jpg",
+	"releaseDate": "2022-12-23",
+	"runtimeMins": "139",
+	"runtimeStr": "2h 19min",
+	"plot": "Famed Southern detective Benoit Blanc travels to Greece for his latest case.",
+	"plotLocal": "Nous ne disposons d'aucun synopsis traduit en français. Votre contribution est la bienvenue !",
+	"plotLocalIsRtl": false,
+	"awards": "",
+	"directors": "Rian Johnson",
+	"directorList": [{ "id": "nm0426059", "name": "Rian Johnson" }],
+	"writers": "Rian Johnson",
+	"writerList": [{ "id": "nm0426059", "name": "Rian Johnson" }],
+	"stars": "Daniel Craig, Edward Norton, Kate Hudson",
+	"starList": [
+		{ "id": "nm0185819", "name": "Daniel Craig" },
+		{ "id": "nm0001570", "name": "Edward Norton" },
+		{ "id": "nm0005028", "name": "Kate Hudson" }
+	],
+	"actorList": [
+		{
+			"id": "nm0185819",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjEzMjk4NDU4MF5BMl5BanBnXkFtZTcwMDMyNjQzMg@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Daniel Craig",
+			"asCharacter": "Benoit Blanc"
+		},
+		{
+			"id": "nm0001570",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTYwNjQ5MTI1NF5BMl5BanBnXkFtZTcwMzU5MTI2Mw@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Edward Norton",
+			"asCharacter": "Miles Bron"
+		},
+		{
+			"id": "nm0005028",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTA1NTk0MjMyOTFeQTJeQWpwZ15BbWU3MDA4NzEzMTM@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Kate Hudson",
+			"asCharacter": "Birdie Jay"
+		},
+		{
+			"id": "nm1176985",
+			"image": "https://m.media-amazon.com/images/M/MV5BNTZkYzU0ZGUtZTk1MC00MzJjLWFmMzItY2M0ODY1ZmI2OGQ0XkEyXkFqcGdeQXVyMjI0MjgwNjc@._V1_Ratio1.7857_AL_.jpg",
+			"name": "Dave Bautista",
+			"asCharacter": "Duke Cody"
+		},
+		{
+			"id": "nm3725055",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjE3MzU5NDc0Nl5BMl5BanBnXkFtZTgwNDMzNjE1NzE@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Jessica Henwick",
+			"asCharacter": "Peg"
+		},
+		{
+			"id": "nm3218692",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTkyYWJiYTktZDlkMC00ZmZjLWI4MjQtYmQwNzg1OGQ3NDJhXkEyXkFqcGdeQXVyMjA0MjY3MzI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Madelyn Cline",
+			"asCharacter": "Whiskey"
+		},
+		{
+			"id": "nm0000160",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTk4NDMxMTI0MF5BMl5BanBnXkFtZTYwMjE3ODE0._V1_Ratio1.0000_AL_.jpg",
+			"name": "Ethan Hawke",
+			"asCharacter": ""
+		},
+		{
+			"id": "nm1063517",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjE1OTcxNDczMl5BMl5BanBnXkFtZTcwMDA1NDcyMQ@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Kathryn Hahn",
+			"asCharacter": "Claire Debella"
+		},
+		{
+			"id": "nm1847117",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTEyMDA1MzE0NjdeQTJeQWpwZ15BbWU3MDM0NzA4MDQ@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Janelle Monáe",
+			"asCharacter": "Cassandra Brand"
+		},
+		{
+			"id": "nm1502434",
+			"image": "https://m.media-amazon.com/images/M/MV5BODU4ZjgzNTUtY2Y2Yy00ZTA2LWI4ZGUtNjQxMzRhNmIzYjlhXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Leslie Odom Jr.",
+			"asCharacter": "Lionel Toussaint"
+		}
+	],
+	"fullCast": null,
+	"genres": "Crime, Drame, Thriller",
+	"genreList": [
+		{ "key": "Crime", "value": "Crime" },
+		{ "key": "Drama", "value": "Drame" },
+		{ "key": "Thriller", "value": "Thriller" }
+	],
+	"companies": "Lionsgate, T-Street",
+	"companyList": [
+		{ "id": "co0173285", "name": "Lionsgate" },
+		{ "id": "co0762940", "name": "T-Street" }
+	],
+	"countries": "Etats-Unis",
+	"countryList": [{ "key": "USA", "value": "Etats-Unis" }],
+	"languages": "Anglais",
+	"languageList": [{ "key": "English", "value": "Anglais" }],
+	"contentRating": "PG-13",
+	"imDbRating": "8.1",
+	"imDbRatingVotes": "405",
+	"metacriticRating": "81",
+	"ratings": null,
+	"wikipedia": null,
+	"posters": {
+		"imDbId": "tt11564570",
+		"title": "Glass Onion: A Knives Out Mystery",
+		"fullTitle": "Glass Onion: A Knives Out Mystery (2022)",
+		"type": "Movie",
+		"year": "2022",
+		"posters": [],
+		"backdrops": [],
+		"errorMessage": ""
+	},
+	"images": {
+		"imDbId": "tt11564570",
+		"title": "Glass Onion: A Knives Out Mystery",
+		"fullTitle": "Glass Onion: A Knives Out Mystery (2022)",
+		"type": "Movie",
+		"year": "2022",
+		"items": [
+			{
+				"title": "Edward Norton, Kate Hudson, Kathryn Hahn, Dave Bautista, Leslie Odom Jr., Madelyn Cline, and Jessica Henwick in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWFmN2QxMmQtNDQ1ZC00YjJmLTgzNjYtMWE2MzkwNTNhZTQ4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.8400_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWY1YmQ0MjUtNDRiZS00NTNkLWFjYmEtMTIyNWUwZjk5Y2YyXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.8400_AL_.jpg"
+			},
+			{
+				"title": "Dave Bautista and Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTE5MWE4YmMtYmFhNy00YWExLTg3NzUtNDIzNWEzMjVmZGVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.9000_AL_.jpg"
+			},
+			{
+				"title": "Edward Norton, Kate Hudson, Kathryn Hahn, Leslie Odom Jr., and Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDBlNGVjOWYtN2VjNS00ZGNhLWI1YTMtYmQzMGZkOWQ3MzQzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Janelle Monáe in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTU5YWQwMWYtZmQzYS00Y2MzLThlMWQtNjQ1ZTdhZGI0ZTRlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Edward Norton, Kate Hudson, Daniel Craig, Kathryn Hahn, Dave Bautista, Leslie Odom Jr., Janelle Monáe, Madelyn Cline, and Jessica Henwick in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDBkZDk1ZjAtZjMxNi00ZjI0LWEyOGItODlkZDlmM2YxN2QzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Rian Johnson and Janelle Monáe in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BM2IzYzY4ODUtNDI3OS00NzQzLTg0Y2ItZGQ5YjViNzlkYmY4XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjIxMmU5NmEtZmJkMi00OWFiLWI1MGQtZTgxYmY3NzAxNmVmXkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYWZhZjg0ZDgtMjg5Yy00Y2Q3LTg3YzgtOTM4MWQ4MzU0OGVlXkEyXkFqcGdeQXVyMTUzMTQ0NzQz._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMzBmMzZlOTYtZTNlMC00ZWM4LTg2MGItMjE3MmViNjQ4NTk3XkEyXkFqcGdeQXVyMTM1MDExOTE2._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDQ2Y2I3OTEtNmMyOC00MzFhLTk4ZTQtNmI1OTBlMDIyMGI2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOGFlN2UyNWQtYjQxNi00NmJmLTk3MjctZTVlNzAyZTY3MTg5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjQ1OTg2YjAtMWRkMS00NmE5LTllNGMtMzhlYzIxMGQ5NTU5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjE4YTk2MmEtMDFiZC00NzdhLWFlZmEtMmI2NWU1MTRhZWI4XkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BY2EwNTNhZDctOWE2NS00YjM4LWI3YTgtNjkwZDVhY2Y4NjRkXkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig, Dave Bautista, and Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzE4OTgwMWMtOGM1ZC00NzY4LTg5MTYtYTNmZDA3N2Y0M2I4XkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjk5OWU4MjYtZTcwYi00MGQ4LWEwMjMtMTM0NDAxZGUxYjAwXkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMWU3OGE3OWQtZTU0ZC00OWU5LWE2Y2QtMWNlYWMzZjg4MjgxXkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_Ratio1.4200_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMmVkNmY5MTQtYmQxOC00NjI3LTkxMDktMzc4NjVjYTRlYmZkXkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Kate Hudson, Daniel Craig, Kathryn Hahn, Leslie Odom Jr., Madelyn Cline, and Jessica Henwick in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNWRjMTE5ZGEtMTdmMS00YTEzLWJmZWQtYjVhNmMwY2I3OTYzXkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTY4ZjEwMWYtNjEyYy00OGI5LWE4M2UtMjE4MjkyZjNhMGMzXkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Ethan Hawke and Kate Hudson in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BM2JlMjFmMmEtY2UxOC00NmU5LTg2MGEtZDcyMjM4ZTg5YTI1XkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Ethan Hawke, Dave Bautista, and Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWVmNWVkZmYtNWI4Yi00MzU5LWI1MGQtZDY5MjhmNDRjYzIzXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0200_AL_.jpg"
+			},
+			{
+				"title": "Ethan Hawke, Dave Bautista, and Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjY5NDY3MzctYTdlOC00NzI1LTkzMGYtY2E1NGFkNzc2M2E2XkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0200_AL_.jpg"
+			},
+			{
+				"title": "Ethan Hawke, Dave Bautista, and Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODE3YTNiZTAtMDdlZS00Y2Q4LWI4ZjgtZTUzNzZlMTg3ZTg4XkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0400_AL_.jpg"
+			},
+			{
+				"title": "Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNGJiMmRkNGMtY2MyOS00YzEwLTliYjktYjFjMWY3NGM2ZTBkXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.4200_AL_.jpg"
+			},
+			{
+				"title": "Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYWE5OTA0NWMtZDM2YS00OGVhLTllOWItMmQ1YjZhZTZmNDViXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.4000_AL_.jpg"
+			},
+			{
+				"title": "Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTE4ODVjZGEtMWE0ZC00ZjU2LWI4NmItOGIwZDFmNzgwZThhXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTU3MTA0OGUtMDBlMS00NDdhLWFjZmQtMWNiZDJlN2QxZWY3XkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BY2Q3YjJlMzctM2Q0MC00NWI4LWIyNjMtNWM0NzAxYjE5ODlkXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjc0ZWI5YmUtNmM5MS00MzYxLTg4NDgtNjk1NGJjNTY1MmU4XkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0200_AL_.jpg"
+			},
+			{
+				"title": "Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BN2YyYTYyN2ItYTAwMC00NDc0LWFkMTEtYjE2ZDA1NWY2YTJlXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Kate Hudson in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYmNmODJjNGQtNjEzZS00YTFhLWJjYmItZGJmZTlkY2FmYzVlXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0600_AL_.jpg"
+			},
+			{
+				"title": "Dave Bautista and Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjdiMTMxM2EtZmM5NC00MmFiLTg1YTUtOWM5MTA1MTY3OGU3XkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjYzNWY2YzMtOTIzMS00OWFjLTgwMWUtNzFhMmYyMDRiM2IzXkEyXkFqcGdeQXVyMTI0MTY4NzMx._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzZlMTM3MGMtNjgzOS00ZTdjLWFjMjgtM2Q0MmY0MWNmMTQwXkEyXkFqcGdeQXVyMTI0MTY4NzMx._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTgxNDE2MjUtNTYxYi00YTI5LTg1ZTAtYzY3NTdmMjRhZmZkXkEyXkFqcGdeQXVyMTI0MTY4NzMx._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig and Madelyn Cline in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMzhmZjc1NDktODE0My00ZTYxLTkwMGYtMmU0NTA3NWIzMmI5XkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio2.1000_AL_.jpg"
+			},
+			{
+				"title": "Kate Hudson and Kathryn Hahn in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTU5NGU0YzQtYWI4MS00OGU1LTgzNGItNjQ1NDVhY2EyYzc4XkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.9200_AL_.jpg"
+			},
+			{
+				"title": "Kate Hudson, Daniel Craig, and Kathryn Hahn in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjUzMGY5MjQtZDEzYy00ZDc1LWExNmMtZTlhMzUyYzEyMzgzXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.5600_AL_.jpg"
+			},
+			{
+				"title": "Kate Hudson, Daniel Craig, and Leslie Odom Jr. in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzYwZGMwYmItNmJlNC00OWYzLTk3NjMtZDAzY2NkOGI0M2VmXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio2.1200_AL_.jpg"
+			},
+			{
+				"title": "Kate Hudson, Kathryn Hahn, Dave Bautista, Leslie Odom Jr., Madelyn Cline, and Jessica Henwick in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMmUyOTA4NjYtMzAxNy00MjA5LTg0Y2ItNjRiZTRkZGRkN2Q4XkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio2.1000_AL_.jpg"
+			},
+			{
+				"title": "Kate Hudson in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMWRiZjAyMGMtMDA4Ni00NzI2LThiYTQtY2MwY2E0YzRhMGNhXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.4000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjZiYmM2ODItZGM0Yy00NDExLThlMWQtMWRkYTNlNzU2OTYyXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTM3OWQ1MWUtNDIzNC00NzIwLTkyY2MtZmVkMTc4N2JkZDNmXkEyXkFqcGdeQXVyMTE0MDgyNjc4._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Kate Hudson in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDg5ZjYxNmEtNTczMy00OTY3LTk0ZDMtNmNiNjFkZDRiNzJkXkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjY5OGExMjMtY2Q3Ni00NjU0LWJlOTUtZWM5NWUxZTI5ZWY4XkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Daniel Craig in Glass Onion: A Knives Out Mystery (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDE0NmM5ZmQtNTgyNi00OTFmLTg1MWItZWY0Mzc2MmZkNDNkXkEyXkFqcGdeQXVyNTY3MTY3MzE@._V1_Ratio1.0000_AL_.jpg"
+			}
+		],
+		"errorMessage": ""
+	},
+	"trailer": null,
+	"boxOffice": {
+		"budget": "$40,000,000 (estimated)",
+		"openingWeekendUSA": "",
+		"grossUSA": "",
+		"cumulativeWorldwideGross": ""
+	},
+	"tagline": null,
+	"keywords": "sequel,second part,murder mystery,detective,killer",
+	"keywordList": [
+		"sequel",
+		"second part",
+		"murder mystery",
+		"detective",
+		"killer"
+	],
+	"similars": [
+		{
+			"id": "tt14208870",
+			"title": "The Fabelmans",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjI4OGIwMTItMDVmOS00YTdkLWEyY2UtNjgyZWQzYmUyMzNhXkEyXkFqcGdeQXVyNzU0NzQxNTE@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.7"
+		},
+		{
+			"id": "tt11813216",
+			"title": "The Banshees of Inisherin",
+			"image": "https://m.media-amazon.com/images/M/MV5BM2NlZDI0ZDktNTg5OS00ZjQ1LWI4MDEtN2I0MDE5NWRiNzA4XkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.1"
+		},
+		{
+			"id": "tt1016150",
+			"title": "All Quiet on the Western Front",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTE1MmZiMWYtYTFmZi00YjA3LWI2ODgtMWFlNWYxZjdmNGE3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "8.1"
+		},
+		{
+			"id": "tt1655389",
+			"title": "Blonde",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDk2YTA1MGYtMGNjMi00YTJlLWI1YjItMjBjOGJlZGIwZmYzXkEyXkFqcGdeQXVyODA0MjgyNzM@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "6.4"
+		},
+		{
+			"id": "tt13833688",
+			"title": "The Whale",
+			"image": "https://m.media-amazon.com/images/M/MV5BZTMzY2I4MmYtOWEzMi00MTE4LWJmZjctODQ0NzYyMjk1NWMzXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.3333_AL_.jpg",
+			"imDbRating": ""
+		},
+		{
+			"id": "tt9764362",
+			"title": "The Menu",
+			"image": "https://m.media-amazon.com/images/M/MV5BZmQ4ZTQ1Y2EtNzQxNS00NmJkLWE1NmMtYzdkOTgxYjMwMWUzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.9"
+		},
+		{
+			"id": "tt4273800",
+			"title": "The Good Nurse",
+			"image": "https://m.media-amazon.com/images/M/MV5BOGZhODQ3NDUtMjE1OS00MzEzLWFhY2MtY2U2YjQzYWUyYWQwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.6"
+		},
+		{
+			"id": "tt17076046",
+			"title": "Weird: The Al Yankovic Story",
+			"image": "https://m.media-amazon.com/images/M/MV5BODZmNThjMDItODE2Yy00NDNmLThiODEtZGNmZGE3MTdmMjMwXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.7343_AL_.jpg",
+			"imDbRating": "7.6"
+		},
+		{
+			"id": "tt13669038",
+			"title": "Women Talking",
+			"image": "https://m.media-amazon.com/images/M/MV5BYjNiNjFhMjQtMGFhMS00MTgxLWE0NTgtNDdiMzAwYjY0NzkwXkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.9"
+		},
+		{
+			"id": "tt14402146",
+			"title": "Empire of Light",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTJjNDQzOWEtNzdhMC00ODE3LWIzZjAtYzljZjQyZTAyY2Y4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "6.9"
+		},
+		{
+			"id": "tt13421498",
+			"title": "The Lost King",
+			"image": "https://m.media-amazon.com/images/M/MV5BOTNiMWE2NWEtYjViMC00ZWI1LWJiMzgtNGU2ZmVkMGNkYTU2XkEyXkFqcGdeQXVyMTk5MTY4Nzg@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.2"
+		}
+	],
+	"tvSeriesInfo": null,
+	"tvEpisodeInfo": null,
+	"errorMessage": null
+}

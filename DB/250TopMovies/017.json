@@ -1,0 +1,472 @@
+{
+	"id": "tt8041270",
+	"title": "Jurassic World Dominion",
+	"originalTitle": "",
+	"fullTitle": "Jurassic World Dominion (2022)",
+	"type": "Movie",
+	"year": "2022",
+	"image": "https://m.media-amazon.com/images/M/MV5BOTBjMjA4NmYtN2RjMi00YWZlLTliYTktOTIwMmNkYjYxYmE1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6975_AL_.jpg",
+	"releaseDate": "2022-06-10",
+	"runtimeMins": "147",
+	"runtimeStr": "2h 27min",
+	"plot": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects.",
+	"plotLocal": "Troisième volet de la saga Jurassic World réalisé par Colin Trevorrow.",
+	"plotLocalIsRtl": false,
+	"awards": "Awards, 2 nominations",
+	"directors": "Colin Trevorrow",
+	"directorList": [{ "id": "nm1119880", "name": "Colin Trevorrow" }],
+	"writers": "Emily Carmichael, Colin Trevorrow, Derek Connolly",
+	"writerList": [
+		{ "id": "nm3045440", "name": "Emily Carmichael" },
+		{ "id": "nm1119880", "name": "Colin Trevorrow" },
+		{ "id": "nm2081046", "name": "Derek Connolly" }
+	],
+	"stars": "Chris Pratt, Bryce Dallas Howard, Laura Dern",
+	"starList": [
+		{ "id": "nm0695435", "name": "Chris Pratt" },
+		{ "id": "nm0397171", "name": "Bryce Dallas Howard" },
+		{ "id": "nm0000368", "name": "Laura Dern" }
+	],
+	"actorList": [
+		{
+			"id": "nm0695435",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDU1NjU0MzA5NF5BMl5BanBnXkFtZTgwNTg5OTY2MjI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Chris Pratt",
+			"asCharacter": "Owen Grady"
+		},
+		{
+			"id": "nm0397171",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzExZDkyNWItMDYzNS00MGVlLTllZTctMjYyZGE1MmY0MThhXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Bryce Dallas Howard",
+			"asCharacter": "Claire Dearing"
+		},
+		{
+			"id": "nm0000368",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjI3NzY0MDQxMF5BMl5BanBnXkFtZTcwNzMwMzcyNw@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Laura Dern",
+			"asCharacter": "Ellie Sattler"
+		},
+		{
+			"id": "nm0000554",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjUyMTU0MzA0MF5BMl5BanBnXkFtZTgwNTA4MTQ4NjM@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Sam Neill",
+			"asCharacter": "Alan Grant"
+		},
+		{
+			"id": "nm0000156",
+			"image": "https://m.media-amazon.com/images/M/MV5BY2ViNDIwNmUtZGQ5Ni00MDYxLWI5YTktNWU1NGRlYWQ1ZDg0XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Jeff Goldblum",
+			"asCharacter": "Ian Malcolm"
+		},
+		{
+			"id": "nm1986622",
+			"image": "https://m.media-amazon.com/images/M/MV5BYzIzNjlmNmMtMjYwZC00YWM2LWFmYzYtYzMzZGMxY2U4NTQyXkEyXkFqcGdeQXVyNzI1NjgzNw@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "DeWanda Wise",
+			"asCharacter": "Kayla Watts"
+		},
+		{
+			"id": "nm6974206",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjA1MzE2NTQ4OV5BMl5BanBnXkFtZTgwNDI5MzQ1NzM@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Mamoudou Athie",
+			"asCharacter": "Ramsay Cole"
+		},
+		{
+			"id": "nm9830820",
+			"image": "https://m.media-amazon.com/images/M/MV5BOGFiMzhkYmItZWQzMC00NzU2LWJiZTMtYTYyNmRmMDRiNGVkXkEyXkFqcGdeQXVyNzM4NjI5MTI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Isabella Sermon",
+			"asCharacter": "Maisie Lockwood"
+		},
+		{
+			"id": "nm0001714",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTY4MjgxNzM1MV5BMl5BanBnXkFtZTcwMzU2ODQ1MQ@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Campbell Scott",
+			"asCharacter": "Lewis Dodgson"
+		},
+		{
+			"id": "nm0000703",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTYxNTEyMjEyOF5BMl5BanBnXkFtZTcwNjAwNTMwNA@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "BD Wong",
+			"asCharacter": "Henry Wu"
+		},
+		{
+			"id": "nm1082477",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjI2MjE3MDQ3NV5BMl5BanBnXkFtZTcwOTY0NzU0Nw@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Omar Sy",
+			"asCharacter": "Barry Sembène"
+		},
+		{
+			"id": "nm6819854",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDI4Y2UzZTAtYWVhOS00MDhkLWFhNzAtOGVhNjcwMTM0MjQ2XkEyXkFqcGdeQXVyNTU2NjEwMzY@._V1_Ratio1.5000_AL_.jpg",
+			"name": "Justice Smith",
+			"asCharacter": "Franklin Webb"
+		},
+		{
+			"id": "nm4427331",
+			"image": "https://m.media-amazon.com/images/M/MV5BZGNhYTBlYzYtYWE1My00OWFlLThjZWItOTgxMDRiOTc3YTg0XkEyXkFqcGdeQXVyMjI3NjE3MzI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Daniella Pineda",
+			"asCharacter": "Zia Rodriguez"
+		},
+		{
+			"id": "nm2020278",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDg4ZWM1YTItZWFmMC00YjRiLWE3MmMtMWZkY2FhZDU3ZDJiXkEyXkFqcGdeQXVyNTY0NTUxOQ@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Scott Haze",
+			"asCharacter": "Rainn Delacourt"
+		},
+		{
+			"id": "nm1901842",
+			"image": "https://m.media-amazon.com/images/M/MV5BYmYxMjNkMjMtYmE0MC00NTZhLWFlYzgtOWNjZmRkMzMyNmU4XkEyXkFqcGdeQXVyMzExMTQxMQ@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Dichen Lachman",
+			"asCharacter": "Soyona Santos"
+		},
+		{
+			"id": "nm1119340",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTAyMTU3NjktODM2MC00NDkzLWExNjYtYmFkNTk1NGI4ZmFkXkEyXkFqcGdeQXVyMTkzNzg3MTA@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Kristoffer Polaha",
+			"asCharacter": "Wyatt"
+		},
+		{
+			"id": "nm11016259",
+			"image": "https://m.media-amazon.com/images/M/MV5BZmU3ZDg0NWUtOThhMy00MDljLTk2YmEtYzcwZDcwY2JlNzBmXkEyXkFqcGdeQXVyMTMyNDEyNzM5._V1_Ratio1.0143_AL_.jpg",
+			"name": "Caleb Hearon",
+			"asCharacter": "Jeremy Bernier"
+		},
+		{
+			"id": "nm2821397",
+			"image": "https://m.media-amazon.com/images/M/MV5BZTdhNjc4M2YtMGU5YS00ZjgwLTgwZjAtOWYyZDY0NDUzYTc0XkEyXkFqcGdeQXVyNzM3MTg0NjY@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Freya Parker",
+			"asCharacter": "Denise Roberts"
+		}
+	],
+	"fullCast": null,
+	"genres": "Action, Aventure, Sci-Fi",
+	"genreList": [
+		{ "key": "Action", "value": "Action" },
+		{ "key": "Adventure", "value": "Aventure" },
+		{ "key": "Sci-Fi", "value": "Sci-Fi" }
+	],
+	"companies": "Amblin Entertainment, Latina Pictures, Perfect World Pictures",
+	"companyList": [
+		{ "id": "co0009119", "name": "Amblin Entertainment" },
+		{ "id": "co0181591", "name": "Latina Pictures" },
+		{ "id": "co0739708", "name": "Perfect World Pictures" }
+	],
+	"countries": "Etats-Unis, Chine, Malte",
+	"countryList": [
+		{ "key": "USA", "value": "Etats-Unis" },
+		{ "key": "China", "value": "Chine" },
+		{ "key": "Malta", "value": "Malte" }
+	],
+	"languages": "Anglais",
+	"languageList": [{ "key": "English", "value": "Anglais" }],
+	"contentRating": "PG-13",
+	"imDbRating": "5.7",
+	"imDbRatingVotes": "132925",
+	"metacriticRating": "38",
+	"ratings": null,
+	"wikipedia": null,
+	"posters": {
+		"imDbId": "tt8041270",
+		"title": "Jurassic World Dominion",
+		"fullTitle": "Jurassic World Dominion (2022)",
+		"type": "Movie",
+		"year": "2022",
+		"posters": [],
+		"backdrops": [],
+		"errorMessage": ""
+	},
+	"images": {
+		"imDbId": "tt8041270",
+		"title": "Jurassic World Dominion",
+		"fullTitle": "Jurassic World Dominion (2022)",
+		"type": "Movie",
+		"year": "2022",
+		"items": [
+			{
+				"title": "Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNGZlMzE2YjAtZGE5NC00Mzg0LWJmYjEtMTViNGIzMmE1YmUxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Laura Dern, Sam Neill, and Varada Sethu in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTUwMjNjZGItYmQ5My00ZmNlLTg2NDAtZDVlZjhlNTI1MDNmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Chris Pratt and DeWanda Wise in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTRlODkxOGMtNmYxZS00OTAzLWE5NjQtYmI5ODhiNmE0NWU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "DeWanda Wise in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOGRkMGIyOTItMTU1ZC00MjA0LWI5ZWEtNjY4MzU3NmNjZjVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.1400_AL_.jpg"
+			},
+			{
+				"title": "Sam Neill, Chris Pratt, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzBlMDM3MjMtNjVmYi00YWRkLWFjNmEtODM5OTQ5ZTg0ZjJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Chris Pratt in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMmI1Y2UxNTAtZTdhNi00YWI2LWFjZDEtZjA2OTI5OTA0YjJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Bryce Dallas Howard in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYmUyNjhhMWItYzZmOC00ODQ3LThjNGUtYWE2NmNmNzQ1OTc0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.9000_AL_.jpg"
+			},
+			{
+				"title": "Laura Dern and DeWanda Wise in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZmI3ZTVhMmYtMDA0MS00MmFhLWIzOTAtODVjYzI2NzJjODY3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTU3MGQ2MDgtYjY0YS00ODc4LWFiNDItZDVlZTI4ODc1Yzk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGIxZGViN2ItZmU2ZS00NTMxLTk2MGMtODBmYzI4MDkwMzZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWE3YTRhNTYtMTRhNS00YzlmLWFjYTgtNTk3NjQ5YWI0MDBlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Chris Pratt in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTRkZGQ3ZjctNzUwYy00MjE4LWFiMDMtODEzNWIyMWJmMTdhXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio1.9000_AL_.jpg"
+			},
+			{
+				"title": "Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTM3ZDMwYTctZTcwNy00M2U1LTljM2EtMWM4MzRkNzI1MTJhXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio1.9000_AL_.jpg"
+			},
+			{
+				"title": "Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDIzMTU3MDEtYTNjMi00ODAwLTgzZTEtNzUzZTVjNzgyZWVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Chris Pratt, Omar Sy, and Colin Trevorrow in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZmQwYWYxNTMtMjAwOS00ZmQ5LWFiZjktZmI3NmY2ZjQ2MDYxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDdlNzViZWQtODdlNy00N2Q1LTk4MDctY2Q4MmI4YWE1ZjAxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_Ratio1.1600_AL_.jpg"
+			},
+			{
+				"title": "DeWanda Wise and Mamoudou Athie at an event for Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGFkMzJiMGYtMzJjMy00ZGE4LTlkMzUtOWU5ODg5YjRlNTcyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum and Laura Dern at an event for Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BM2MxYzRhMWMtYTFiZS00ODkzLTg3YzItZDQ1ZDFmN2IzOTBkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5400_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum at an event for Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOGM5NTE1NmYtNGM2NC00NDE1LWFhMWYtNzg3ZGRiMDdkMGI3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Bryce Dallas Howard, and Colin Trevorrow at an event for Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BM2EyODdmODEtYWYyZi00ZmQwLWI2OWYtYjRhZTFjNjM4OTkzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum and Bryce Dallas Howard at an event for Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjk5ZDk5NTktYjhmYS00NDAyLTk1NzktMzZlNTk2ZjdjZTFkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.5600_AL_.jpg"
+			},
+			{
+				"title": "DeWanda Wise and Mamoudou Athie at an event for Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTExZDdkOWEtN2E1Zi00N2RhLWEwMWUtZjMwNjAxNWFmZjhiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Sam Neill in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjYyY2Q5MWEtNGE1Yi00N2NjLTgyM2MtZDcxOTQ2OTdiNzQ5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Laura Dern in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDRjNTEzYjctMGNlNi00YjM2LWExMjQtNGQ4MzFhZWM2YTJlXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZmY2NjEzZDEtYjUxZi00NTc1LTk0OGQtMzNlZTNmMGVlN2EyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Bryce Dallas Howard in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYmZjMzdlOTEtNjA4Yi00MDY3LWE3MjMtOGU1MDA5ZGY3NzE3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Chris Pratt in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYWZhOTIzYzgtZTljZi00NTQ1LTljOWEtZWNjMzA3NmE4Zjk2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTYzMDgwMTUtYjQzMC00MDczLWIyOTAtMGUwMzQ2OGU2ZGRkXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTJiZDYxZWItNTY5Zi00MDU3LWFiMmYtMTkwYzk2YWFjY2EwXkEyXkFqcGdeQXVyMTEzMjQ4NzEw._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTIyNTc1OGMtMWM0Yi00ZTc4LTlmNjAtNzJlMzY2MTc4NTMxXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGI4YTRmMGItNzRkNy00MzM2LWExYmItNzU3YmUwZDY5MDNiXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTc1YjRjYjgtZWZkZi00NmQ4LTljZTEtNWQyYWYwZGUyOGVhXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOGJhYTRiMDQtZWQ2Ny00N2EyLTlkNzgtM2JjYTBkMGY2MGIyXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGJlOTRjMGEtYTJhMy00NTBiLWE5N2EtMTU5NWZiMzIyOGNiXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzRlZmZkYzUtNjkxMi00MzQ2LWIxZGYtMmY2NTgxOTI0ZmMxXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMWUzZDA2YzUtZTQyYi00MGNjLThmNGUtMmJmYTY5NGFhMDM0XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BN2MzZTViMjMtYTk1Zi00MGMyLTkzNjYtYzA3N2Q2MGJmNDhjXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jeff Goldblum, Laura Dern, Sam Neill, Bryce Dallas Howard, Chris Pratt, DeWanda Wise, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZmQ1NDZjMTktMjFhZC00ZGY5LWEyMTMtNDhkOWM4NmMyZjI0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDhkODhmZjEtMmE5My00MTE1LTllZGItMDkwOTZlMjY1ZWUyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjQzZTA2MmEtNDcwYy00ZWE0LWFlODMtOWQ2MzRjNTgyYmVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Laura Dern in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTBjOWI5NjYtMzI0YS00ZmYxLThjMTYtZGFjODMxMzY2NWE2XkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Laura Dern, Sam Neill, and Isabella Sermon in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BY2EzMjM2NzMtODhhNS00NDhkLWI0YmMtNDE4ZWZjYWE3ZThhXkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Laura Dern and Sam Neill in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzllNmY2ZWItYTExZS00N2JhLWIyMDQtZTBhZjdiMzY0MGNjXkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Laura Dern and Sam Neill in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMWI3MjIwMmItNzY3MS00NDRiLTkxNTMtNTdhYWIxY2E5YjI2XkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Chris Pratt in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTJhOWQ5MjktM2U3OC00ODUyLWI2YTUtOGJmNTVlMTFiZjJlXkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_Ratio1.9000_AL_.jpg"
+			},
+			{
+				"title": "Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjAxOTE1YjUtNWNjYi00ZjZmLTkxY2YtZDA3ZjY3YWI4MDU5XkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Laura Dern, Sam Neill, and Campbell Scott in Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMGZmMzY3YzEtMTNmOS00N2QzLTgwNjktNTJmMDRhMDI5N2VkXkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_Ratio2.0000_AL_.jpg"
+			},
+			{
+				"title": "Jurassic World Dominion (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzc4M2ZkOTMtYTc2Ni00MTVjLWIzMGQtOWM5YzRlZGNjNjY3XkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_Ratio2.0000_AL_.jpg"
+			}
+		],
+		"errorMessage": ""
+	},
+	"trailer": null,
+	"boxOffice": {
+		"budget": "$165,000,000 (estimated)",
+		"openingWeekendUSA": "$145,075,625",
+		"grossUSA": "$375,931,460",
+		"cumulativeWorldwideGross": "$997,736,460"
+	},
+	"tagline": null,
+	"keywords": "dinosaur,tyrannosaurus rex,velociraptor,locust,giant insect",
+	"keywordList": [
+		"dinosaur",
+		"tyrannosaurus rex",
+		"velociraptor",
+		"locust",
+		"giant insect"
+	],
+	"similars": [
+		{
+			"id": "tt4881806",
+			"title": "Jurassic World: Fallen Kingdom",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzIxMjYwNDEwN15BMl5BanBnXkFtZTgwMzk5MDI3NTM@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "6.1"
+		},
+		{
+			"id": "tt0369610",
+			"title": "Jurassic World",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "6.9"
+		},
+		{
+			"id": "tt10872600",
+			"title": "Spider-Man: No Way Home",
+			"image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.3"
+		},
+		{
+			"id": "tt0107290",
+			"title": "Jurassic Park",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.2"
+		},
+		{
+			"id": "tt0163025",
+			"title": "Jurassic Park III",
+			"image": "https://m.media-amazon.com/images/M/MV5BZDMyZGJjOGItYjJkZC00MDVlLWE0Y2YtZGIwMDExYWE3MGQ3XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "5.9"
+		},
+		{
+			"id": "tt0119567",
+			"title": "The Lost World: Jurassic Park",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDFlMmM4Y2QtNDg1ZS00MWVlLTlmODgtZDdhYjY5YjdhN2M0XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_Ratio0.6860_AL_.jpg",
+			"imDbRating": "6.5"
+		},
+		{
+			"id": "tt9419884",
+			"title": "Doctor Strange in the Multiverse of Madness",
+			"image": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.0"
+		},
+		{
+			"id": "tt0092099",
+			"title": "Top Gun",
+			"image": "https://m.media-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "6.9"
+		},
+		{
+			"id": "tt1464335",
+			"title": "Uncharted",
+			"image": "https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "6.3"
+		},
+		{
+			"id": "tt13320622",
+			"title": "The Lost City",
+			"image": "https://m.media-amazon.com/images/M/MV5BMmIwYzFhODAtY2I1YS00ZDdmLTkyYWQtZjI5NDIwMDc2MjEyXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "6.1"
+		},
+		{
+			"id": "tt1649418",
+			"title": "The Gray Man",
+			"image": "https://m.media-amazon.com/images/M/MV5BOWY4MmFiY2QtMzE1YS00NTg1LWIwOTQtYTI4ZGUzNWIxNTVmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "6.5"
+		},
+		{
+			"id": "tt1877830",
+			"title": "The Batman",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.9"
+		}
+	],
+	"tvSeriesInfo": null,
+	"tvEpisodeInfo": null,
+	"errorMessage": null
+}

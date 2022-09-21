@@ -1,0 +1,582 @@
+{
+	"id": "tt11280740",
+	"title": "Severance",
+	"originalTitle": "",
+	"fullTitle": "Severance (TV Series 2022– )",
+	"type": "TVSeries",
+	"year": "2022",
+	"image": "https://m.media-amazon.com/images/M/MV5BMjkwZjcwMGQtNDAzOC00YjJiLThiYTgtNWU3ZjRiZmY2YzEzXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_Ratio0.6762_AL_.jpg",
+	"releaseDate": "2022-02-18",
+	"runtimeMins": null,
+	"runtimeStr": null,
+	"plot": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+	"plotLocal": "Mark Scout travaille pour Lumon Industries, où il dirige une équipe dont les employés subissent une opération chirurgicale de séparation entre leurs souvenirs liés à leur vie professionnelle et ceux liés à leur vie privée. Cette expérience risquée de l’équilibre entre travail et vie personnelle est remise en cause lorsque Mark se retrouve au cœur d’un mystère qui le forcera à affronter la vraie nature de son travail… et la sienne.",
+	"plotLocalIsRtl": false,
+	"awards": "Top rated TV #103 | Won 2 Primetime Emmys, 9 wins & 46 nominations total",
+	"directors": "",
+	"directorList": [],
+	"writers": "",
+	"writerList": [],
+	"stars": "Adam Scott, Zach Cherry, Britt Lower",
+	"starList": [
+		{ "id": "nm0004395", "name": "Adam Scott" },
+		{ "id": "nm7100086", "name": "Zach Cherry" },
+		{ "id": "nm3138882", "name": "Britt Lower" }
+	],
+	"actorList": [
+		{
+			"id": "nm0004395",
+			"image": "https://m.media-amazon.com/images/M/MV5BOGUwZmFkODEtMWYwMi00NjE2LThhYzYtMmMxMTMyYTRhMzIxXkEyXkFqcGdeQXVyOTIyNzUwNjI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Adam Scott",
+			"asCharacter": "Mark"
+		},
+		{
+			"id": "nm7100086",
+			"image": "https://m.media-amazon.com/images/M/MV5BODEyN2Y4YjEtNjUyOC00N2QzLTk0NmEtMDMxYjY3YjI1YWJiXkEyXkFqcGdeQXVyNTg0ODkzOTA@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Zach Cherry",
+			"asCharacter": "Dylan"
+		},
+		{
+			"id": "nm3138882",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDhhMjgxMDYtMzNhZi00YTc3LWJlZmUtY2VhODBlMDFlZTViXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0429_AL_.jpg",
+			"name": "Britt Lower",
+			"asCharacter": "Helly"
+		},
+		{
+			"id": "nm7436993",
+			"image": "https://m.media-amazon.com/images/M/MV5BZDcyNTljZGEtNGZiZi00ZDFhLTk5YjktNTdkODA3YmFmMGZjXkEyXkFqcGdeQXVyNjMyMjg2MjM@._V1_Ratio1.1571_AL_.jpg",
+			"name": "Tramell Tillman",
+			"asCharacter": "Milchick"
+		},
+		{
+			"id": "nm5082529",
+			"image": "https://m.media-amazon.com/images/M/MV5BOWFjMzZkNzYtN2JjOC00MzI5LTgwMzQtMDc2YzE3MzhiODM0XkEyXkFqcGdeQXVyMzA0MjU1Mjg@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Jen Tullock",
+			"asCharacter": "Devon"
+		},
+		{
+			"id": "nm1901842",
+			"image": "https://m.media-amazon.com/images/M/MV5BYmYxMjNkMjMtYmE0MC00NTZhLWFlYzgtOWNjZmRkMzMyNmU4XkEyXkFqcGdeQXVyMzExMTQxMQ@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Dichen Lachman",
+			"asCharacter": "Ms. Casey"
+		},
+		{
+			"id": "nm1985974",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTU5NTg5ODI3NV5BMl5BanBnXkFtZTgwNDg2NDY0MTI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Michael Chernus",
+			"asCharacter": "Ricken"
+		},
+		{
+			"id": "nm0001806",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzYwNjgwMjMxMF5BMl5BanBnXkFtZTcwNjUwOTc3NQ@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "John Turturro",
+			"asCharacter": "Irving"
+		},
+		{
+			"id": "nm0000686",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjA4ODUyNDQ2NV5BMl5BanBnXkFtZTYwODk2MTYz._V1_Ratio1.0000_AL_.jpg",
+			"name": "Christopher Walken",
+			"asCharacter": "Burt"
+		},
+		{
+			"id": "nm0000099",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTQ5Njg0NjkxMV5BMl5BanBnXkFtZTcwMzc0NTI5NA@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Patricia Arquette",
+			"asCharacter": "Harmony Cobel"
+		},
+		{
+			"id": "nm0312398",
+			"image": "https://m.media-amazon.com/images/M/MV5BY2I2NGMzOTQtMzRmOC00ODAzLTk3MjAtN2FhYjEzYmQ3YTc4XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Marc Geller",
+			"asCharacter": "Kier Eagan"
+		},
+		{
+			"id": "nm0192054",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjIyNjE0MDc4MV5BMl5BanBnXkFtZTgwMjMzMjY1MDI@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Michael Cumpsty",
+			"asCharacter": "Mr. Graner"
+		},
+		{
+			"id": "nm0732485",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "Claudia Robinson",
+			"asCharacter": "Felicia"
+		},
+		{
+			"id": "nm0891485",
+			"image": "https://m.media-amazon.com/images/M/MV5BZmNjZGE0ZDctNGRhZS00Njc3LTgzYWItNmI1MmFkYWM5NWU3XkEyXkFqcGdeQXVyMDE2ODM0NQ@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Yul Vazquez",
+			"asCharacter": "Petey"
+		},
+		{
+			"id": "nm7862766",
+			"image": "https://m.media-amazon.com/images/M/MV5BY2Q5YTE3YTItZjk0NS00NDk3LTg3ZmYtZTFiNWJiNjdlZmQ2XkEyXkFqcGdeQXVyNjAxNTEwNzQ@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Sydney Cole Alexander",
+			"asCharacter": "Natalie"
+		},
+		{
+			"id": "nm1446972",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDYwODM5MzgtNDk1Ni00MjU4LWFkYTktYTBhYWMxZTc1YWU1XkEyXkFqcGdeQXVyMjM0NzM1MDU@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Nikki M. James",
+			"asCharacter": "Alexa"
+		},
+		{
+			"id": "nm6847623",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjRiOTljZjQtZmE4ZS00MGZmLWJjZTUtZmI3MjFkOTNlMGU1XkEyXkFqcGdeQXVyNTcxODQ0MzY@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Rachel Addington",
+			"asCharacter": "Elizabeth"
+		},
+		{
+			"id": "nm0806618",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDYwNTVkNzAtMTY4MC00YTIxLWE2NTQtODkzNmVjZmI1ZjQ0XkEyXkFqcGdeQXVyMjMzMTQ1MDA@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Mark Kenneth Smaltz",
+			"asCharacter": "Judd"
+		}
+	],
+	"fullCast": null,
+	"genres": "Drame, Mystère, Sci-Fi",
+	"genreList": [
+		{ "key": "Drama", "value": "Drame" },
+		{ "key": "Mystery", "value": "Mystère" },
+		{ "key": "Sci-Fi", "value": "Sci-Fi" }
+	],
+	"companies": "Endeavor Content, Red Hour Films",
+	"companyList": [
+		{ "id": "co0670857", "name": "Endeavor Content" },
+		{ "id": "co0039303", "name": "Red Hour Films" }
+	],
+	"countries": "Etats-Unis",
+	"countryList": [{ "key": "USA", "value": "Etats-Unis" }],
+	"languages": "Anglais",
+	"languageList": [{ "key": "English", "value": "Anglais" }],
+	"contentRating": "TV-MA",
+	"imDbRating": "8.7",
+	"imDbRatingVotes": "99051",
+	"metacriticRating": null,
+	"ratings": null,
+	"wikipedia": null,
+	"posters": {
+		"imDbId": "tt11280740",
+		"title": "Severance",
+		"fullTitle": "Severance (TV Series 2022– )",
+		"type": "TVSeries",
+		"year": "2022",
+		"posters": [
+			{
+				"id": "lFf6LLrQjYldcZItzOkGmMMigP7.jpg",
+				"link": "https://image.tmdb.org/t/p/original/lFf6LLrQjYldcZItzOkGmMMigP7.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 2000,
+				"height": 3000
+			},
+			{
+				"id": "4z0ywuL3btruvjDaWm5nR86BoR5.jpg",
+				"link": "https://image.tmdb.org/t/p/original/4z0ywuL3btruvjDaWm5nR86BoR5.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 2000,
+				"height": 3000
+			},
+			{
+				"id": "1yFd096gA4Q0WGlczWTZOSrRgH6.jpg",
+				"link": "https://image.tmdb.org/t/p/original/1yFd096gA4Q0WGlczWTZOSrRgH6.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 2000,
+				"height": 3000
+			},
+			{
+				"id": "cGX8ELIx2USdm0xBnoqKxCRiAo1.jpg",
+				"link": "https://image.tmdb.org/t/p/original/cGX8ELIx2USdm0xBnoqKxCRiAo1.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 2000,
+				"height": 3000
+			},
+			{
+				"id": "ywr2xAMFCT3spqdsumRhm9RdWx9.jpg",
+				"link": "https://image.tmdb.org/t/p/original/ywr2xAMFCT3spqdsumRhm9RdWx9.jpg",
+				"aspectRatio": 0.675,
+				"language": "en",
+				"width": 675,
+				"height": 1000
+			}
+		],
+		"backdrops": [
+			{
+				"id": "npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+				"link": "https://image.tmdb.org/t/p/original/npD65vPa4vvn1ZHpp3o05A5vdKT.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 3840,
+				"height": 2160
+			},
+			{
+				"id": "r9KaBE7i4ovg8uSppQrCp6ZdPD9.jpg",
+				"link": "https://image.tmdb.org/t/p/original/r9KaBE7i4ovg8uSppQrCp6ZdPD9.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 3840,
+				"height": 2160
+			},
+			{
+				"id": "kcehRTOk6xwmcCqKBbbwB68Eo5z.jpg",
+				"link": "https://image.tmdb.org/t/p/original/kcehRTOk6xwmcCqKBbbwB68Eo5z.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"id": "nFWN7E5n170YN8SdxekuDEv0qTE.jpg",
+				"link": "https://image.tmdb.org/t/p/original/nFWN7E5n170YN8SdxekuDEv0qTE.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 3840,
+				"height": 2160
+			},
+			{
+				"id": "dsMQSCOC9ReOUx0w6E1GMBMeLKS.jpg",
+				"link": "https://image.tmdb.org/t/p/original/dsMQSCOC9ReOUx0w6E1GMBMeLKS.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 3200,
+				"height": 1800
+			},
+			{
+				"id": "vmnWRlrjdYjxPcq6pLLsQG1bEZ3.jpg",
+				"link": "https://image.tmdb.org/t/p/original/vmnWRlrjdYjxPcq6pLLsQG1bEZ3.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"id": "k90HW0I203WXKZIDwt8RXGDYYmV.jpg",
+				"link": "https://image.tmdb.org/t/p/original/k90HW0I203WXKZIDwt8RXGDYYmV.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"id": "8hQA04JLNolV9xfvMkaYg3Hg08w.jpg",
+				"link": "https://image.tmdb.org/t/p/original/8hQA04JLNolV9xfvMkaYg3Hg08w.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 3840,
+				"height": 2160
+			},
+			{
+				"id": "sWzkGeXML9qAHfzSHCxYoamcSeM.jpg",
+				"link": "https://image.tmdb.org/t/p/original/sWzkGeXML9qAHfzSHCxYoamcSeM.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 3840,
+				"height": 2160
+			}
+		],
+		"errorMessage": ""
+	},
+	"images": {
+		"imDbId": "tt11280740",
+		"title": "Severance",
+		"fullTitle": "Severance (TV Series 2022– )",
+		"type": "TVSeries",
+		"year": "2022",
+		"items": [
+			{
+				"title": "Britt Lower in Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTc5OWU0MjYtZTAyZC00NTc0LThjOGEtM2Y3OTU3ZTdiNmZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Jen Tullock in Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDhlZTg3YWQtOTZkNS00MjVlLTkxZDYtM2FmZTZjZGMyYjQwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BN2I4ZGU2NGItYTY1OC00OGY4LTgxOGMtNDA4YjU3NDUwYjhjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Michael Chernus in Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDc3ZjIyZDgtNWRmOC00ZDBiLTg0NjYtOGNhY2VjZWRjYTFiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjAyYjAwMzMtMzE3Ni00MWU1LTk2NjctMjIzZTI1MzY5YTllXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYWMwN2Q5NGQtZTg4OS00NjIzLWI5MmQtYjMyNjg4YmJhOWIxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOGNmNDFkOTgtMTJlOS00YWRlLTkwOGUtYWU4MTJkNTc4YmQ2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODQ2NGFhNTktNjBkMi00ZTBmLTkxNmMtNzljNTc3MDYwZGRjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMGI3NWJkMTEtZThkZi00ZGNlLWI4ZTMtMzIwNTI0OGUyMWRmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDg1MDdhMjEtMjNiMy00MzQ2LWIyYTAtMzJiZWYwNjdmMWVlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTJjYmQ3YjktNGMyZC00YTljLWFkNWMtMzc1NTU1OTg3MTNmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTRiNzc5N2UtNTU2MC00OGViLWI1YTgtNGJjNTM5NzQzYzFmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNmY5NzE2NjMtMjNjMy00ODk3LTllYzgtZWNjMDhhNGNlYzA1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODk4NDllYzctOTQ4Mi00MWI5LWJiMWItMjEwMGJhNWQyZDJhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTdiZmFjNDgtMDA4YS00M2ZhLWI2YTctMzIzYjhlZmRjYTFiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOWI5MDYwNWMtZTU3NC00NDZjLWFhN2YtZmRlODYzYTMwZjEwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMWNjNmRjMTQtYjBjMC00ODZmLTk0NzUtY2RkOTZkMjQyNmJhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDBkZDlmNDgtYTQyNC00YjI3LTliYzgtNTZmNzMxNjE0ZjFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWRmNjMyY2UtYTY3NC00YzJiLWE4YjUtNTJlYmE1NDUxZWMxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjY5ZWYyOGItMWExNi00Y2NmLTk0NDctNDliYjM3NWRmMTZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Tramell Tillman in Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjhiMjUwMzEtYmQ3Mi00MzhlLWJmYWMtMzkzNmUyMDA5YWE0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTFiZDgyMjMtMjQxMi00YTYyLTk0YzAtMjU2ODljMDdjNzAzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTViMTdmNTUtMTczNy00MjBmLWEzYjctMWFkM2FjZjhjZmQ4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTQyMDU2ZjAtMDIxOC00YzU2LWJjNzYtYThjYTQ1MTFlZDIxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Dichen Lachman in Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjFhNjc1MjUtNjJmNy00NzE3LTllYTgtMThkNThjNDNmNWM0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BN2U3Y2MzOGQtYTYzMy00OWQyLTg4MzEtYjcyN2I0NDMzOWRmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjAzN2ExNGMtODE5Zi00MjZmLTk4YjItM2MwYTIxMWVmMDQ3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BM2E2MTNjNDctMDIyNy00YzJhLWE1NDItMjc1YWQ1NmE2YTFkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BY2NmZGI5MTItZjI0Zi00ZDI3LWFjYjgtZmZmZmIzYzlhZjQwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMzBjNjA3YWItMjg3ZC00NWQxLTk2OGQtY2FiNzAyYTZlZjkwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzI1NWFjNmEtNDlmMC00Mzg0LWIwYzctODMzYzc1YjQ2Yjc0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNWEwMTJhNzEtNTk3Yi00ODQ5LWI5OTctZTRlNjJkY2I0ZDJmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDE0MmRkMjktYjJlZS00YmZmLWIxYTgtYzJlZTQ0NjdmZDIxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODdiODY2ZjQtZTdmYi00Yzk3LWFiNWUtYTkwZjYwMDg2Mzk5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMWZlYzg4MjQtOWYwYy00MWZiLTgyNzQtNjc0ZTNjNjQxOTViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzcwNjFlZTMtNmYwYi00N2EwLWIyMTEtNTE1N2JjZDlkNWMyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYmJlYjQ2Y2YtZWMyNC00MDQ5LTk5NWYtNTZiMjJkMTM4ZTdhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "John Turturro, Adam Scott, Britt Lower, and Zach Cherry in Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzUzNmUwMmQtNmNjZi00YTJjLTlkNjEtZDA0ZmY5YTFmMGQ3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjAxM2ExZDUtMzZkMy00ZTFiLWIxY2UtMGFiZjEyYTVkYjVjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMzkyMzc0OGItYzM5Yy00MDdjLTllNzItZjUyN2VkOWI3YTUzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWI5MmYzNzEtMjg2MC00ODVlLTkyM2YtZjhhZTI4NzVhODM3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODdlNTA3YjEtYjQ0Zi00MGQ2LWE2NWUtNjcxZmRiYzUwNjYwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Tramell Tillman in Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjg5NzU2NDAtMWJhYS00OTMzLTlhZjUtNmNmYzZlZDQ2ZThlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMmE1MmJmYmEtNDhkOC00Y2UxLWIxZmMtZmE1YzZiNjRjZjZiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BM2NkNTQ0NjUtZTlhYS00NWMyLWE4MjMtOTgxZTNiMzVkZDY0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BN2I0YWYxZjctY2YyNy00ODJhLWI4NTAtNTEwNjM1ZDdiNzk2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Patricia Arquette in Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODVjZTM0MjgtYzhlNC00NWUzLWI0YTEtMTc2MzFjMDYzOTllXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "John Turturro in Severance (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BY2QxYTExZGUtOWI0MC00NmY5LWE5NWEtMzIxODQ0OGQ0MjIyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
+			}
+		],
+		"errorMessage": ""
+	},
+	"trailer": null,
+	"boxOffice": {
+		"budget": "",
+		"openingWeekendUSA": "",
+		"grossUSA": "",
+		"cumulativeWorldwideGross": ""
+	},
+	"tagline": null,
+	"keywords": "dystopian sci fi,company,psychological drama,workplace drama,office",
+	"keywordList": [
+		"dystopian sci fi",
+		"company",
+		"psychological drama",
+		"workplace drama",
+		"office"
+	],
+	"similars": [
+		{
+			"id": "tt4301160",
+			"title": "Black Bird",
+			"image": "https://m.media-amazon.com/images/M/MV5BZjI3NjcyN2UtMGNhZC00YTYxLWJmOTQtNWI1ZGJmNjA4ZjY5XkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.2"
+		},
+		{
+			"id": "tt10986410",
+			"title": "Ted Lasso",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDVmODUzNmEtMGMxZC00NWUzLTkxMTAtMDM5OTQzMWE0ZDM3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.8"
+		},
+		{
+			"id": "tt7660850",
+			"title": "Succession",
+			"image": "https://m.media-amazon.com/images/M/MV5BZDE0ODVlYjktNjJiMC00ODk4LWIwNTktMWRhZmZiOGFhYmUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "8.8"
+		},
+		{
+			"id": "tt14452776",
+			"title": "The Bear",
+			"image": "https://m.media-amazon.com/images/M/MV5BMmZmMjgyOTUtZjljMS00NjhlLTkzMmItM2EyMzY5NzU0NzFiXkEyXkFqcGdeQXVyNjIzMTEyNDk@._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "8.5"
+		},
+		{
+			"id": "tt0475784",
+			"title": "Westworld",
+			"image": "https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.5"
+		},
+		{
+			"id": "tt2953250",
+			"title": "Shining Girls",
+			"image": "https://m.media-amazon.com/images/M/MV5BOTA2NGZkM2EtN2RjNC00N2ExLWEzNzUtOWRiNDk4M2Q5ZjM3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.4"
+		},
+		{
+			"id": "tt12851524",
+			"title": "Only Murders in the Building",
+			"image": "https://m.media-amazon.com/images/M/MV5BZTFmZWUwZmEtYzc4Ni00N2FmLTk1MmMtZmMyODYwZTNkY2EwXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "8.1"
+		},
+		{
+			"id": "tt5875444",
+			"title": "Slow Horses",
+			"image": "https://m.media-amazon.com/images/M/MV5BMmM3N2IwMDAtMGM4Ny00ODNjLWJkMWEtNTQwMjNlMTUzMzgzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.7"
+		},
+		{
+			"id": "tt8772296",
+			"title": "Euphoria",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDMzZDkyNzEtYTY5Ni00NzlhLWI4MzUtY2UzNjNmMjI1YzIzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.4"
+		},
+		{
+			"id": "tt1190634",
+			"title": "The Boys",
+			"image": "https://m.media-amazon.com/images/M/MV5BOTEyNDJhMDAtY2U5ZS00OTMzLTkwODktMjU3MjFkZWVlMGYyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "8.7"
+		},
+		{
+			"id": "tt7772588",
+			"title": "For All Mankind",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDI3ZGQ1OGItNGM5Yy00ZDBhLTg2ZDYtYWNkNTU4MDNmZjU2XkEyXkFqcGdeQXVyMjQ4ODcxNTM@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.0"
+		},
+		{
+			"id": "tt4574334",
+			"title": "Stranger Things",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDZkYmVhNjMtNWU4MC00MDQxLWE3MjYtZGMzZWI1ZjhlOWJmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.8019_AL_.jpg",
+			"imDbRating": "8.7"
+		}
+	],
+	"tvSeriesInfo": {
+		"yearEnd": "",
+		"creators": "Dan Erickson",
+		"creatorList": [{ "id": "nm9772311", "name": "Dan Erickson" }],
+		"seasons": ["1"]
+	},
+	"tvEpisodeInfo": null,
+	"errorMessage": null
+}

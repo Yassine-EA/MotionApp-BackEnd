@@ -1,0 +1,249 @@
+CREATE TABLE table1_seq
+(
+  id INT NOT NULL AUTO_INCREMENT PRIMARY KEY
+);
+create table genre (
+	id_genre varchar(10) unique,
+	genre varchar(50),
+    primary key (id_genre)
+);
+DELIMITER $$
+CREATE TRIGGER genre_insert
+BEFORE INSERT ON genre
+FOR EACH ROW
+BEGIN
+  INSERT INTO table1_seq VALUES (NULL);
+  SET NEW.id_genre = CONCAT('GNR', LPAD(LAST_INSERT_ID(), 3, '0'));
+END$$
+DELIMITER ;
+
+create table media (
+	id_media varchar(10) unique,
+    title varchar(150),
+    title_french varchar(150),
+    id_creator varchar(10) unique,
+    id_screen_writer varchar(10) unique,
+    poster varchar(10) unique,
+    primary key (id_media)
+);
+DELIMITER $$
+CREATE TRIGGER media_insert
+BEFORE INSERT ON media
+FOR EACH ROW
+BEGIN
+  INSERT INTO table1_seq VALUES (NULL);
+  SET NEW.id_media = CONCAT('MEDIA', LPAD(LAST_INSERT_ID(), 6, '0'));
+END$$
+DELIMITER ;
+create table media_genre(
+	id_genre varchar(10),
+	id_media varchar(10),
+    constraint FK_media_genre_genre
+	foreign key (id_genre) references genre(id_genre), 
+	constraint FK_media_genre_media
+	foreign key (id_media) references media(id_media)
+);
+create table makers(
+	id_maker varchar(10) unique,
+    stage_name varchar(100),
+    middle_name varchar(100),
+    first_name varchar(100),
+    date_birth date,
+    place_birth varchar(100),
+    date_death date,
+    nationality varchar(100),
+    primary key (id_maker)
+);
+
+DELIMITER $$
+CREATE TRIGGER makers_insert
+BEFORE INSERT ON makers
+FOR EACH ROW
+BEGIN
+  INSERT INTO table1_seq VALUES (NULL);
+  SET NEW.id_maker = CONCAT('MAKER', LPAD(LAST_INSERT_ID(), 6, '0'));
+END$$
+DELIMITER ;
+
+create table movie (
+	id_movie varchar(10) unique,
+    id_crew varchar(10) unique,
+    title varchar(150),
+    title_french varchar(150),
+    synopsis text,
+    release_date date,
+    country varchar(50),
+    production_company varchar(150),
+    budget int,
+    id_movie_url varchar(10) unique,
+    distinction text,
+    primary key (id_movie)
+);
+
+DELIMITER $$
+CREATE TRIGGER movie_insert
+BEFORE INSERT ON movie
+FOR EACH ROW
+BEGIN
+  INSERT INTO table1_seq VALUES (NULL);
+  SET NEW.id_movie = CONCAT('MOVI', LPAD(LAST_INSERT_ID(), 6, '0'));
+END$$
+DELIMITER ;
+
+create table tv_show(
+	id_tv varchar(10) unique,
+	id_crew varchar(10) unique,
+    title varchar(150),
+    title_french varchar(150),
+    synopsis text,
+    release_date date,
+    country varchar(50),
+    production_company varchar(150),
+    budget int,
+    id_tv_url varchar(10) unique,
+    distinction text,
+    primary key (id_tv),
+    constraint FK_tv_show_episode
+	foreign key (id_tv) references episode(id_tv);
+);
+
+DELIMITER $$
+CREATE TRIGGER tv_show_insert
+BEFORE INSERT ON tv_show
+FOR EACH ROW
+BEGIN
+  INSERT INTO table1_seq VALUES (NULL);
+  SET NEW.id_tv = CONCAT('SHOW', LPAD(LAST_INSERT_ID(), 6, '0'));
+END$$
+DELIMITER ;
+
+create table media_movie(
+	id_movie varchar(10),
+	id_media varchar(10),
+    constraint FK_media_movie_movie
+	 foreign key (id_movie) references movie (id_movie), 
+	constraint FK_media_movie_media
+	foreign key (id_media)  references media (id_media) 
+);
+create table users(
+	id_user varchar(10) unique,
+    first_name varchar(100),
+    last_name varchar(100),
+    date_birth date,
+    gender varchar(1),
+    email varchar(150),
+    pseudo varchar(50),
+    primary key (id_user)
+);
+
+DELIMITER $$
+CREATE TRIGGER users_insert
+BEFORE INSERT ON users
+FOR EACH ROW
+BEGIN
+  INSERT INTO table1_seq VALUES (NULL);
+  SET NEW.id_user = CONCAT('USER', LPAD(LAST_INSERT_ID(), 6, '0'));
+END$$
+DELIMITER ;
+
+create table favorites (
+	id_movie varchar(10),
+    id_tv varchar(10),
+    id_user varchar(10),
+    constraint FK_favorites_movie
+	foreign key (id_movie) references movie (id_movie), 
+	constraint FK_favorites_tv_show
+	foreign key (id_tv)  references tv_show (id_tv) ,
+	constraint FK_favorites_users
+	foreign key (id_user)  references users (id_user)
+    );
+create table episode(
+	id_episode varchar(10) unique,
+    id_tv varchar(10) unique,
+    id_crew varchar(10) unique,
+    episode int,
+    first_release date,
+    primary key (id_episode)
+);
+
+DELIMITER $$
+CREATE TRIGGER episode_insert
+BEFORE INSERT ON episode
+FOR EACH ROW
+BEGIN
+  INSERT INTO table1_seq VALUES (NULL);
+  SET NEW.id_episode = CONCAT('EP', LPAD(LAST_INSERT_ID(), 6, '0'));
+END$$
+DELIMITER ;
+
+create table url (
+	id_url varchar(10) unique,
+    url varchar(1000),
+    primary key (id_url),
+    constraint FK_url_poster
+	foreign key (id_url) references media (poster)
+);
+
+DELIMITER $$
+CREATE TRIGGER url_insert
+BEFORE INSERT ON url
+FOR EACH ROW
+BEGIN
+  INSERT INTO table1_seq VALUES (NULL);
+  SET NEW.id_url = CONCAT('URL', LPAD(LAST_INSERT_ID(), 6, '0'));
+END$$
+DELIMITER ;
+
+create table media_tv_show (
+	id_tv varchar(10),
+    id_media varchar(10),
+    constraint FK_media_tv_show_movie
+	foreign key ( id_tv) references tv_show (id_tv), 
+	constraint FK_media_tv_show_media
+	foreign key (id_media)  references media (id_media)
+);
+create table media_movie_url (
+	id_url varchar(10) unique,
+    id_movie_url varchar(10),
+    media_type varchar(50),
+    constraint FK_media_movie_url_movie
+	foreign key (id_movie_url) references movie  (id_movie_url), 
+	constraint FK_media_movie_url foreign key (id_url)  references url (id_url)
+);
+create table media_tv_show_url (
+	id_url varchar(10) unique,
+    id_tv_url varchar(10) unique,
+    media_type varchar(50),
+    constraint FK_media_tv_show_url_tv_show
+	foreign key (id_tv_url) references  tv_show (id_tv_url), 
+	constraint FK_media_tv_show_url
+	foreign key (id_url)  references url (id_url)
+);
+
+
+create table movie_makers (
+	id_maker varchar(10) ,
+    id_crew varchar(10),
+    trade varchar(50),
+    constraint FK_movie_makers_makers
+	foreign key ( id_maker) references makers (id_maker), 
+	constraint FK_movie_makers_movie
+	foreign key (id_crew)  references movie (id_crew)
+);
+create table tv_show_makers (
+	id_maker varchar(10),
+    id_tv varchar(10),
+    trade varchar(50),
+    constraint FK_tv_show_makers_makers
+	foreign key ( id_maker) references makers (id_maker), 
+	constraint FK_tv_show_makers_tv_show
+	foreign key (id_tv)  references tv_show (id_crew) 
+);
+create table episode_makers (
+	id_episode varchar(10),
+    id_maker varchar(10),
+    constraint FK_episode_maker_episode
+	foreign key (id_episode) references episode (id_episode), 
+	constraint FK_episode_makers_makers
+	foreign key (id_maker)  references makers (id_maker)
+);

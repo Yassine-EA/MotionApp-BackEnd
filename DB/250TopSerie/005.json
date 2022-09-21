@@ -1,0 +1,851 @@
+{
+	"id": "tt0306414",
+	"title": "The Wire",
+	"originalTitle": "",
+	"fullTitle": "The Wire (TV Series 2002–2008)",
+	"type": "TVSeries",
+	"year": "2002",
+	"image": "https://m.media-amazon.com/images/M/MV5BNTllYzFhMjAtZjExNS00MjM4LWE5YmMtOGFiZGRlOTU5YzJiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.6762_AL_.jpg",
+	"releaseDate": "2002-06-02",
+	"runtimeMins": null,
+	"runtimeStr": null,
+	"plot": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.",
+	"plotLocal": "Quand la police s'efforce de démanteler un réseau tentaculaire de trafic de drogue et du crime à Baltimore.",
+	"plotLocalIsRtl": false,
+	"awards": "Top rated TV #6 | Nominated for 2 Primetime Emmys, 16 wins & 54 nominations total",
+	"directors": "",
+	"directorList": [],
+	"writers": "",
+	"writerList": [],
+	"stars": "Dominic West, Lance Reddick, Sonja Sohn",
+	"starList": [
+		{ "id": "nm0922035", "name": "Dominic West" },
+		{ "id": "nm0714698", "name": "Lance Reddick" },
+		{ "id": "nm0812308", "name": "Sonja Sohn" }
+	],
+	"actorList": [
+		{
+			"id": "nm0922035",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjM1MDU1Mzg3N15BMl5BanBnXkFtZTgwNTcwNzcyMzI@._V1_Ratio1.6000_AL_.jpg",
+			"name": "Dominic West",
+			"asCharacter": "Det. James 'Jimmy' McNulty"
+		},
+		{
+			"id": "nm0714698",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTk1OTc3OTEyMl5BMl5BanBnXkFtZTgwODI0NTI0MjE@._V1_Ratio1.3429_AL_.jpg",
+			"name": "Lance Reddick",
+			"asCharacter": "Lt. Cedric Daniels"
+		},
+		{
+			"id": "nm0812308",
+			"image": "https://m.media-amazon.com/images/M/MV5BMzE5MDM1MDY2OF5BMl5BanBnXkFtZTcwOTIzNDcwMg@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Sonja Sohn",
+			"asCharacter": "Det. Shakima 'Kima' Greggs"
+		},
+		{
+			"id": "nm0682495",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTg4NjI5NzM2N15BMl5BanBnXkFtZTcwODI3NDUxOQ@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Wendell Pierce",
+			"asCharacter": "Det. William 'Bunk' Moreland"
+		},
+		{
+			"id": "nm0231283",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTUxMzgzNTA4Ml5BMl5BanBnXkFtZTgwOTY5NzMzNjE@._V1_Ratio1.0000_AL_.jpg",
+			"name": "John Doman",
+			"asCharacter": "Dep. Comm. for Operations William A. Rawls"
+		},
+		{
+			"id": "nm0522479",
+			"image": "https://m.media-amazon.com/images/M/MV5BZGJiNTU2MjMtMDE5Ny00NzFhLWI0MTktZjNjZjczZjI2MzUxXkEyXkFqcGdeQXVyMTcwMDUxNQ@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Deirdre Lovejoy",
+			"asCharacter": "Asst. State's Atty. Rhonda Pearlman"
+		},
+		{
+			"id": "nm0319121",
+			"image": "https://m.media-amazon.com/images/M/MV5BY2I4NTU5OWMtZjAyMy00Yjc5LWFiNjUtMzQ0OTI1MmJhMjI2XkEyXkFqcGdeQXVyNDgwNTcxOTQ@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Seth Gilliam",
+			"asCharacter": "Sgt. Ellis Carver"
+		},
+		{
+			"id": "nm0518511",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTQxODk1ODYzNF5BMl5BanBnXkFtZTgwNTE1ODU2MzE@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Domenick Lombardozzi",
+			"asCharacter": "Det. Thomas 'Herc' Hauk"
+		},
+		{
+			"id": "nm0676370",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTM2ODgwNDAxNF5BMl5BanBnXkFtZTcwNDc1MzMwNQ@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Clarke Peters",
+			"asCharacter": "Det. Lester Freamon"
+		},
+		{
+			"id": "nm0747420",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjM4MDMwNTMzNF5BMl5BanBnXkFtZTgwOTI0ODAxNjE@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Andre Royo",
+			"asCharacter": "Reginald 'Bubbles' Cousins"
+		},
+		{
+			"id": "nm0931324",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjE1MTI1NjUxMV5BMl5BanBnXkFtZTgwNTUyODM0MTE@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Michael Kenneth Williams",
+			"asCharacter": "Omar Little"
+		},
+		{
+			"id": "nm0874082",
+			"image": "https://m.media-amazon.com/images/M/MV5BODAzOTAxMjE2OV5BMl5BanBnXkFtZTgwNDUzNDU0NTE@._V1_Ratio1.2714_AL_.jpg",
+			"name": "Jim True-Frost",
+			"asCharacter": "Det. Roland 'Prez' Pryzbylewski"
+		},
+		{
+			"id": "nm0265670",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTk1Mjk3NDg5MV5BMl5BanBnXkFtZTcwNzI2ODQ1MQ@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Frankie Faison",
+			"asCharacter": "Acting Commissioner Ervin H. Burrell"
+		},
+		{
+			"id": "nm0732494",
+			"image": "https://m.media-amazon.com/images/M/MV5BOGI5NzEzYzgtMWU2YS00MGRlLTljM2EtMTMyYTExM2Q2ZGUxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Corey Parker Robinson",
+			"asCharacter": "Det. Leander Sydnor"
+		},
+		{
+			"id": "nm0216257",
+			"image": "https://m.media-amazon.com/images/M/MV5BZjRlYTE4NmMtZTYyOC00MjU1LWEwOTUtNzk0MjgzYWU2MTNkXkEyXkFqcGdeQXVyMzY5OTIwNjk@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Delaney Williams",
+			"asCharacter": "Sgt. Jay Landsman"
+		},
+		{
+			"id": "nm0412907",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTU5NTQwNDM0NV5BMl5BanBnXkFtZTcwMjA0MDE4OA@@._V1_Ratio1.5143_AL_.jpg",
+			"name": "J.D. Williams",
+			"asCharacter": "Preston 'Bodie' Broadus"
+		},
+		{
+			"id": "nm0365445",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTQyMDY2NDY4OF5BMl5BanBnXkFtZTcwNjM5OTY0OA@@._V1_Ratio1.7857_AL_.jpg",
+			"name": "Wood Harris",
+			"asCharacter": "Avon Barksdale"
+		},
+		{
+			"id": "nm0252961",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Idris Elba",
+			"asCharacter": "Russell 'Stringer' Bell"
+		}
+	],
+	"fullCast": null,
+	"genres": "Crime, Drame, Thriller",
+	"genreList": [
+		{ "key": "Crime", "value": "Crime" },
+		{ "key": "Drama", "value": "Drame" },
+		{ "key": "Thriller", "value": "Thriller" }
+	],
+	"companies": "Blown Deadline Productions, Home Box Office (HBO)",
+	"companyList": [
+		{ "id": "co0019588", "name": "Blown Deadline Productions" },
+		{ "id": "co0008693", "name": "Home Box Office (HBO)" }
+	],
+	"countries": "Etats-Unis",
+	"countryList": [{ "key": "USA", "value": "Etats-Unis" }],
+	"languages": "Anglais, grec, mandarin, Espagnol",
+	"languageList": [
+		{ "key": "English", "value": "Anglais" },
+		{ "key": "Greek", "value": "grec" },
+		{ "key": "Mandarin", "value": "mandarin" },
+		{ "key": "Spanish", "value": "Espagnol" }
+	],
+	"contentRating": "TV-MA",
+	"imDbRating": "9.3",
+	"imDbRatingVotes": "335132",
+	"metacriticRating": null,
+	"ratings": null,
+	"wikipedia": null,
+	"posters": {
+		"imDbId": "tt0306414",
+		"title": "The Wire",
+		"fullTitle": "The Wire (TV Series 2002–2008)",
+		"type": "TVSeries",
+		"year": "2002",
+		"posters": [
+			{
+				"id": "4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+				"link": "https://image.tmdb.org/t/p/original/4lbclFySvugI51fwsyxBTOm4DqK.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 1600,
+				"height": 2400
+			},
+			{
+				"id": "hS3C6OOxVosNJJeokb8nuiOqeO8.jpg",
+				"link": "https://image.tmdb.org/t/p/original/hS3C6OOxVosNJJeokb8nuiOqeO8.jpg",
+				"aspectRatio": 0.68,
+				"language": "en",
+				"width": 680,
+				"height": 1000
+			},
+			{
+				"id": "vIINZZb7fOBeOB72nVLWBFy3CoK.jpg",
+				"link": "https://image.tmdb.org/t/p/original/vIINZZb7fOBeOB72nVLWBFy3CoK.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 1000,
+				"height": 1500
+			},
+			{
+				"id": "8Z7Y3c4TfnPiO5ar3p1SaOy7fq7.jpg",
+				"link": "https://image.tmdb.org/t/p/original/8Z7Y3c4TfnPiO5ar3p1SaOy7fq7.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 1000,
+				"height": 1500
+			},
+			{
+				"id": "8RA3dFF2je4g4cGbXx6oicz1act.jpg",
+				"link": "https://image.tmdb.org/t/p/original/8RA3dFF2je4g4cGbXx6oicz1act.jpg",
+				"aspectRatio": 0.6665264928511354,
+				"language": "en",
+				"width": 1585,
+				"height": 2378
+			},
+			{
+				"id": "aQD1wdjQv6bnON8hPVyoe7NHTGz.jpg",
+				"link": "https://image.tmdb.org/t/p/original/aQD1wdjQv6bnON8hPVyoe7NHTGz.jpg",
+				"aspectRatio": 0.674629718107979,
+				"language": "en",
+				"width": 1412,
+				"height": 2093
+			},
+			{
+				"id": "d9B6fV194oUWfLrGsk77BnVnJ9h.jpg",
+				"link": "https://image.tmdb.org/t/p/original/d9B6fV194oUWfLrGsk77BnVnJ9h.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 1200,
+				"height": 1800
+			},
+			{
+				"id": "cKW58zBuvIGjcBIF5FYBD0ORoER.jpg",
+				"link": "https://image.tmdb.org/t/p/original/cKW58zBuvIGjcBIF5FYBD0ORoER.jpg",
+				"aspectRatio": 0.6752037252619325,
+				"language": "en",
+				"width": 580,
+				"height": 859
+			},
+			{
+				"id": "whOXueh5YMmW2MAct4DRA9NA0QB.jpg",
+				"link": "https://image.tmdb.org/t/p/original/whOXueh5YMmW2MAct4DRA9NA0QB.jpg",
+				"aspectRatio": 0.6746666666666666,
+				"language": "en",
+				"width": 506,
+				"height": 750
+			},
+			{
+				"id": "3yygYa7Y4lZsZzxa8A3UWcV5hi9.jpg",
+				"link": "https://image.tmdb.org/t/p/original/3yygYa7Y4lZsZzxa8A3UWcV5hi9.jpg",
+				"aspectRatio": 0.6741721854304635,
+				"language": "en",
+				"width": 509,
+				"height": 755
+			},
+			{
+				"id": "mwaFzvfNWYV5yVvU1VZHafGakTH.jpg",
+				"link": "https://image.tmdb.org/t/p/original/mwaFzvfNWYV5yVvU1VZHafGakTH.jpg",
+				"aspectRatio": 0.6741721854304635,
+				"language": "en",
+				"width": 509,
+				"height": 755
+			},
+			{
+				"id": "5iqTI7QR2u90iSWBYy0gjGvKs6M.jpg",
+				"link": "https://image.tmdb.org/t/p/original/5iqTI7QR2u90iSWBYy0gjGvKs6M.jpg",
+				"aspectRatio": 0.6753333333333333,
+				"language": "en",
+				"width": 1013,
+				"height": 1500
+			},
+			{
+				"id": "sy6jr0DUd2w9SOxoni91dkClYoL.jpg",
+				"link": "https://image.tmdb.org/t/p/original/sy6jr0DUd2w9SOxoni91dkClYoL.jpg",
+				"aspectRatio": 0.68,
+				"language": "en",
+				"width": 680,
+				"height": 1000
+			},
+			{
+				"id": "9UrdxshLJHTCdkeV8qsr3gDZz2J.jpg",
+				"link": "https://image.tmdb.org/t/p/original/9UrdxshLJHTCdkeV8qsr3gDZz2J.jpg",
+				"aspectRatio": 0.68,
+				"language": "en",
+				"width": 680,
+				"height": 1000
+			},
+			{
+				"id": "uj7Um1tabBbqO0OgyXeExbzbJbF.jpg",
+				"link": "https://image.tmdb.org/t/p/original/uj7Um1tabBbqO0OgyXeExbzbJbF.jpg",
+				"aspectRatio": 0.68,
+				"language": "en",
+				"width": 680,
+				"height": 1000
+			},
+			{
+				"id": "rVOlxaJrGqSqWOI4ld2wd7SFw0l.jpg",
+				"link": "https://image.tmdb.org/t/p/original/rVOlxaJrGqSqWOI4ld2wd7SFw0l.jpg",
+				"aspectRatio": 0.68,
+				"language": "en",
+				"width": 680,
+				"height": 1000
+			},
+			{
+				"id": "uUQGSN4aLygPquKs04Wjk0DGXxE.jpg",
+				"link": "https://image.tmdb.org/t/p/original/uUQGSN4aLygPquKs04Wjk0DGXxE.jpg",
+				"aspectRatio": 0.68,
+				"language": "en",
+				"width": 680,
+				"height": 1000
+			},
+			{
+				"id": "gNZ1LumEjEraAviuYqIyyYRiwqn.jpg",
+				"link": "https://image.tmdb.org/t/p/original/gNZ1LumEjEraAviuYqIyyYRiwqn.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 2000,
+				"height": 3000
+			},
+			{
+				"id": "bRgeAwACWO4YtvFQDDy0JuW4rgp.jpg",
+				"link": "https://image.tmdb.org/t/p/original/bRgeAwACWO4YtvFQDDy0JuW4rgp.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 1600,
+				"height": 2400
+			},
+			{
+				"id": "u7l774z0SRRMuFfwLmiifOcbh6R.jpg",
+				"link": "https://image.tmdb.org/t/p/original/u7l774z0SRRMuFfwLmiifOcbh6R.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 2000,
+				"height": 3000
+			},
+			{
+				"id": "wuSkLJJEHvEi9vA0fm2PkmYEOCS.jpg",
+				"link": "https://image.tmdb.org/t/p/original/wuSkLJJEHvEi9vA0fm2PkmYEOCS.jpg",
+				"aspectRatio": 0.68,
+				"language": "en",
+				"width": 680,
+				"height": 1000
+			},
+			{
+				"id": "nRaqqDDnIFFjJfWEK0yMlZ3FXc6.jpg",
+				"link": "https://image.tmdb.org/t/p/original/nRaqqDDnIFFjJfWEK0yMlZ3FXc6.jpg",
+				"aspectRatio": 0.68,
+				"language": "en",
+				"width": 680,
+				"height": 1000
+			},
+			{
+				"id": "4o1t7ThlfmYUWIr1NkrtEBsWTNO.jpg",
+				"link": "https://image.tmdb.org/t/p/original/4o1t7ThlfmYUWIr1NkrtEBsWTNO.jpg",
+				"aspectRatio": 0.68,
+				"language": "en",
+				"width": 680,
+				"height": 1000
+			},
+			{
+				"id": "clC3z0AtzzWBmbtY7rnJpiaiRLp.jpg",
+				"link": "https://image.tmdb.org/t/p/original/clC3z0AtzzWBmbtY7rnJpiaiRLp.jpg",
+				"aspectRatio": 0.68,
+				"language": "en",
+				"width": 680,
+				"height": 1000
+			},
+			{
+				"id": "koJSq9PcUZXIrobPZFnNXo2JJQZ.jpg",
+				"link": "https://image.tmdb.org/t/p/original/koJSq9PcUZXIrobPZFnNXo2JJQZ.jpg",
+				"aspectRatio": 0.68,
+				"language": "en",
+				"width": 680,
+				"height": 1000
+			},
+			{
+				"id": "pPdxyetpDX1QhwBUjUBPaxqgVIL.jpg",
+				"link": "https://image.tmdb.org/t/p/original/pPdxyetpDX1QhwBUjUBPaxqgVIL.jpg",
+				"aspectRatio": 0.6666666666666666,
+				"language": "en",
+				"width": 2000,
+				"height": 3000
+			}
+		],
+		"backdrops": [
+			{
+				"id": "oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
+				"link": "https://image.tmdb.org/t/p/original/oggnxmvofLtGQvXsO9bAFyCj3p6.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 3840,
+				"height": 2160
+			},
+			{
+				"id": "9wYtsChiXyJmTirguADrJWwqbmk.jpg",
+				"link": "https://image.tmdb.org/t/p/original/9wYtsChiXyJmTirguADrJWwqbmk.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"id": "pfFwV1cwzFfrD0h63aLaSvkNhGc.jpg",
+				"link": "https://image.tmdb.org/t/p/original/pfFwV1cwzFfrD0h63aLaSvkNhGc.jpg",
+				"aspectRatio": 1.7772511848341233,
+				"language": "en",
+				"width": 3000,
+				"height": 1688
+			},
+			{
+				"id": "oHgHiv5U28DezrRQixuw3jWEUla.jpg",
+				"link": "https://image.tmdb.org/t/p/original/oHgHiv5U28DezrRQixuw3jWEUla.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 3840,
+				"height": 2160
+			},
+			{
+				"id": "5CC7N99ZVQ67RanGWrlH3n4kjht.jpg",
+				"link": "https://image.tmdb.org/t/p/original/5CC7N99ZVQ67RanGWrlH3n4kjht.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 3840,
+				"height": 2160
+			},
+			{
+				"id": "aaNzIG6CweG9riEBKBZ39QZA61w.jpg",
+				"link": "https://image.tmdb.org/t/p/original/aaNzIG6CweG9riEBKBZ39QZA61w.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"id": "ddqX6v7FTyPleYqp9VYq95a9F6J.jpg",
+				"link": "https://image.tmdb.org/t/p/original/ddqX6v7FTyPleYqp9VYq95a9F6J.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1280,
+				"height": 720
+			},
+			{
+				"id": "muENoTYKOjuRvzM3MG8zLkqScdN.jpg",
+				"link": "https://image.tmdb.org/t/p/original/muENoTYKOjuRvzM3MG8zLkqScdN.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"id": "fHuEc2N4bcuhbzILQUYpmH3cFZm.jpg",
+				"link": "https://image.tmdb.org/t/p/original/fHuEc2N4bcuhbzILQUYpmH3cFZm.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"id": "20czquuc1DEzSm0fagme7Acc8sG.jpg",
+				"link": "https://image.tmdb.org/t/p/original/20czquuc1DEzSm0fagme7Acc8sG.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"id": "jmWO2KxYLSb8QirBuVw2DUs3XTu.jpg",
+				"link": "https://image.tmdb.org/t/p/original/jmWO2KxYLSb8QirBuVw2DUs3XTu.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"id": "aQTtua5pG490fMfeKgtYg5B853e.jpg",
+				"link": "https://image.tmdb.org/t/p/original/aQTtua5pG490fMfeKgtYg5B853e.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"id": "xxYrou4Ft8lhtyfM4aeb8tNkXcP.jpg",
+				"link": "https://image.tmdb.org/t/p/original/xxYrou4Ft8lhtyfM4aeb8tNkXcP.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1280,
+				"height": 720
+			},
+			{
+				"id": "tnqJQnrw3g7kAA7GemXoDw95tqd.jpg",
+				"link": "https://image.tmdb.org/t/p/original/tnqJQnrw3g7kAA7GemXoDw95tqd.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1280,
+				"height": 720
+			},
+			{
+				"id": "qEY7MDGHRHgPBE8CtPWR3YOCAhO.jpg",
+				"link": "https://image.tmdb.org/t/p/original/qEY7MDGHRHgPBE8CtPWR3YOCAhO.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1280,
+				"height": 720
+			},
+			{
+				"id": "17xEHuXaAm6TzXhWwpAu42yj5oF.jpg",
+				"link": "https://image.tmdb.org/t/p/original/17xEHuXaAm6TzXhWwpAu42yj5oF.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1280,
+				"height": 720
+			},
+			{
+				"id": "qWi5MNjr6HKSRuUTkehBBimwfcL.jpg",
+				"link": "https://image.tmdb.org/t/p/original/qWi5MNjr6HKSRuUTkehBBimwfcL.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1280,
+				"height": 720
+			},
+			{
+				"id": "3ht3sWKk0JdvPnpon3wpaorPMIE.jpg",
+				"link": "https://image.tmdb.org/t/p/original/3ht3sWKk0JdvPnpon3wpaorPMIE.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 3840,
+				"height": 2160
+			},
+			{
+				"id": "2j0gFnTJHeNj5p5stMif0KwXhhJ.jpg",
+				"link": "https://image.tmdb.org/t/p/original/2j0gFnTJHeNj5p5stMif0KwXhhJ.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 1920,
+				"height": 1080
+			},
+			{
+				"id": "A4FxA6l7T8lNj2s3HiG2GUxMkkJ.jpg",
+				"link": "https://image.tmdb.org/t/p/original/A4FxA6l7T8lNj2s3HiG2GUxMkkJ.jpg",
+				"aspectRatio": 1.7775905644481886,
+				"language": "en",
+				"width": 2110,
+				"height": 1187
+			},
+			{
+				"id": "layPSOJGckJv3PXZDIVluMq69mn.jpg",
+				"link": "https://image.tmdb.org/t/p/original/layPSOJGckJv3PXZDIVluMq69mn.jpg",
+				"aspectRatio": 1.7777777777777777,
+				"language": "en",
+				"width": 3840,
+				"height": 2160
+			}
+		],
+		"errorMessage": ""
+	},
+	"images": {
+		"imDbId": "tt0306414",
+		"title": "The Wire",
+		"fullTitle": "The Wire (TV Series 2002–2008)",
+		"type": "TVSeries",
+		"year": "2002",
+		"items": [
+			{
+				"title": "Sam Freed in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTA3MDUwNjQzMDleQTJeQWpwZ15BbWU4MDQyMzk0NzYz._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Idris Elba, Wood Harris, and Michael Kostroff in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjI0MDYyMjM0NV5BMl5BanBnXkFtZTgwODQ5MDkzMzI@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Idris Elba in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjA2MzUzMTAwNV5BMl5BanBnXkFtZTgwOTQ5MDkzMzI@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Idris Elba in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjk0ODQyNzc0MV5BMl5BanBnXkFtZTgwNzQ5MDkzMzI@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Sonja Sohn in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjQwMDU5MTIzOF5BMl5BanBnXkFtZTgwMzcxMzUyMDI@._V1_Ratio1.5400_AL_.jpg"
+			},
+			{
+				"title": "Michael Kenneth Williams in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTY2MzcyNTg2MF5BMl5BanBnXkFtZTgwMzkwOTM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Tom McCarthy in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTYyMjM1NTQzNV5BMl5BanBnXkFtZTgwNDAxOTM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Anwan Glover in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTUwMjE1Mjc3Ml5BMl5BanBnXkFtZTgwNTkwOTM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Wendell Pierce in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjA3NTA4MDM0NV5BMl5BanBnXkFtZTgwMjkwOTM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Isiah Whitlock Jr. in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNjYzNDc0OTg2NF5BMl5BanBnXkFtZTgwMTkwOTM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Deirdre Lovejoy in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTY2NjUxNzIwM15BMl5BanBnXkFtZTgwMTgwOTM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Paul Ben-Victor and Jamie Hector in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDA5ODcwNjk0Ml5BMl5BanBnXkFtZTgwNDcwOTM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Dominic West in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjI4NDYxMDk1OF5BMl5BanBnXkFtZTgwMzgwOTM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Corey Parker Robinson in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTQyOTE1NjYzNl5BMl5BanBnXkFtZTgwMjcwOTM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Jamie Hector in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjI2NTkxNDE2NF5BMl5BanBnXkFtZTgwMzI2NzM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Jim True-Frost in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjQwNjgxNDgyOF5BMl5BanBnXkFtZTgwMDI2NzM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Sonja Sohn in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjE3NjQ4MzI5MF5BMl5BanBnXkFtZTgwODE2NzM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Aidan Gillen in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjI2NTY4NzIxOV5BMl5BanBnXkFtZTgwOTE2NzM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Maestro Harrell, Julito McCullum, Tristan Mack Wilds, and Jermaine Crawford in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDA1MzUzNDQ0NV5BMl5BanBnXkFtZTgwNjE2NzM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Clarke Peters in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjM1NDI0NjYxNF5BMl5BanBnXkFtZTgwNDE2NzM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Domenick Lombardozzi in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTYyNzc5NTAyNV5BMl5BanBnXkFtZTgwMjE2NzM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "J.D. Williams in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTgxNDQ3NDAyNl5BMl5BanBnXkFtZTgwOTk1NzM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Clarke Peters and Wendell Pierce in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDM0ODEyMzI5OV5BMl5BanBnXkFtZTgwNzkwNzM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Andre Royo in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTQzNDAwODY1N15BMl5BanBnXkFtZTgwNTUwNzM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Robert Wisdom in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTQxMTk1NTI1N15BMl5BanBnXkFtZTgwNTEwNzM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Gbenga Akinnagbe in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTcwOTQzMDYwMV5BMl5BanBnXkFtZTgwNTQxNDM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Idris Elba in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjE1ODE0NDkyOF5BMl5BanBnXkFtZTgwNzM5MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "J.D. Williams in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjA4ODYzNjYzMV5BMl5BanBnXkFtZTgwNzE5MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Lance Reddick in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTgxODAwNzU2M15BMl5BanBnXkFtZTgwMDA5MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Idris Elba, Wood Harris, and Anwan Glover in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTY4NzExNTM4MV5BMl5BanBnXkFtZTgwODk4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Dominic West in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTYzNTU5MzI3MV5BMl5BanBnXkFtZTgwNTk4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Seth Gilliam, Domenick Lombardozzi, and Sonja Sohn in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjE3ODc5OTQzN15BMl5BanBnXkFtZTgwOTg4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Idris Elba, Wood Harris, Sonja Sohn, and Dominic West in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTQ3NTc1MDc0Nl5BMl5BanBnXkFtZTgwNDg4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Andre Royo in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTYzMDc2NjYzMV5BMl5BanBnXkFtZTgwODc4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Clarke Peters in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BODg3NjY1NjYwNV5BMl5BanBnXkFtZTgwMjc4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Dominic West in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTEzMjExMjQ2ODZeQTJeQWpwZ15BbWU4MDU3ODIzNDIx._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Wendell Pierce in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTQ0OTc3MjQwMV5BMl5BanBnXkFtZTgwNjU4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Deirdre Lovejoy and Amy Ryan in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTgyNjc4Mjg5N15BMl5BanBnXkFtZTgwMTU4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Lawrence Gilliard Jr. in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjY5OTM0MzY5MF5BMl5BanBnXkFtZTgwMTY4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjM3NzMyMjY5OF5BMl5BanBnXkFtZTgwMTM4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Al Brown in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDY0MzQ4MzQ1NF5BMl5BanBnXkFtZTgwMDQ4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Dominic West and Kamal Bostic-Smith in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTc3MTA2NjEwM15BMl5BanBnXkFtZTgwODI4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Seth Gilliam in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjAzNDAyOTU0MV5BMl5BanBnXkFtZTgwMjM4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "John Doman in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjMxMDIyMzgyN15BMl5BanBnXkFtZTgwMjE4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Frankie Faison in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMTc3OTI0NDg1MV5BMl5BanBnXkFtZTgwNzU4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Chad L. Coleman in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjM5NjczNTk0M15BMl5BanBnXkFtZTgwMjI4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "Idris Elba in The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjMzNzEyNDk2MF5BMl5BanBnXkFtZTgwNjI4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			},
+			{
+				"title": "The Wire (2002)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjMyNDY1NTE3Nl5BMl5BanBnXkFtZTgwNTA4MjM0MjE@._V1_Ratio1.3200_AL_.jpg"
+			}
+		],
+		"errorMessage": ""
+	},
+	"trailer": null,
+	"boxOffice": {
+		"budget": "",
+		"openingWeekendUSA": "",
+		"grossUSA": "",
+		"cumulativeWorldwideGross": ""
+	},
+	"tagline": null,
+	"keywords": "urban decay,baltimore maryland,corruption,wiretapping,drug war",
+	"keywordList": [
+		"urban decay",
+		"baltimore maryland",
+		"corruption",
+		"wiretapping",
+		"drug war"
+	],
+	"similars": [
+		{
+			"id": "tt0141842",
+			"title": "The Sopranos",
+			"image": "https://m.media-amazon.com/images/M/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7053_AL_.jpg",
+			"imDbRating": "9.2"
+		},
+		{
+			"id": "tt0185906",
+			"title": "Band of Brothers",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "9.4"
+		},
+		{
+			"id": "tt2356777",
+			"title": "True Detective",
+			"image": "https://m.media-amazon.com/images/M/MV5BMmRlYmE0Y2UtNDk2Yi00NzczLWEwZTEtZmE2OTcyYzcxYmU5XkEyXkFqcGdeQXVyNTMxMjgxMzA@._V1_Ratio0.7150_AL_.jpg",
+			"imDbRating": "8.9"
+		},
+		{
+			"id": "tt7366338",
+			"title": "Chernobyl",
+			"image": "https://m.media-amazon.com/images/M/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "9.4"
+		},
+		{
+			"id": "tt2802850",
+			"title": "Fargo",
+			"image": "https://m.media-amazon.com/images/M/MV5BN2NiMGE5M2UtNWNlNC00N2Y4LTkwOWUtMDlkMzEwNTcyOTcyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6860_AL_.jpg",
+			"imDbRating": "8.9"
+		},
+		{
+			"id": "tt0979432",
+			"title": "Boardwalk Empire",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTYxNzc5ZmYtODcyNi00ZWUwLWExNWUtY2Y0YTlhZDBlMGU1XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.6957_AL_.jpg",
+			"imDbRating": "8.6"
+		},
+		{
+			"id": "tt0804503",
+			"title": "Mad Men",
+			"image": "https://m.media-amazon.com/images/M/MV5BNTgxNDZlODQtNDcwOC00NWQ5LTljNWMtMDhjY2U5YTUzMTc4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.7"
+		},
+		{
+			"id": "tt5491994",
+			"title": "Planet Earth II",
+			"image": "https://m.media-amazon.com/images/M/MV5BMGZmYmQ5NGQtNWQ1MC00NWZlLTg0MjYtYjJjMzQ5ODgxYzRkXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_Ratio0.7053_AL_.jpg",
+			"imDbRating": "9.5"
+		},
+		{
+			"id": "tt0903747",
+			"title": "Breaking Bad",
+			"image": "https://m.media-amazon.com/images/M/MV5BNDkyZThhNmMtZDBjYS00NDBmLTlkMjgtNWM2ZWYzZDQxZWU1XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "9.5"
+		},
+		{
+			"id": "tt0118421",
+			"title": "Oz",
+			"image": "https://m.media-amazon.com/images/M/MV5BYjY3N2M2YjgtZTFjZS00ODA1LWJjMDgtNDgxZDllZWFiMmYyXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.7"
+		},
+		{
+			"id": "tt2707408",
+			"title": "Narcos",
+			"image": "https://m.media-amazon.com/images/M/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.8"
+		},
+		{
+			"id": "tt8420184",
+			"title": "The Last Dance",
+			"image": "https://m.media-amazon.com/images/M/MV5BY2U1ZTU4OWItNGU2MC00MTg1LTk4NzUtYTk3ODhjYjI0MzlmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "9.1"
+		}
+	],
+	"tvSeriesInfo": {
+		"yearEnd": "2008",
+		"creators": "David Simon",
+		"creatorList": [{ "id": "nm0800108", "name": "David Simon" }],
+		"seasons": ["1", "2", "3", "4", "5"]
+	},
+	"tvEpisodeInfo": null,
+	"errorMessage": null
+}

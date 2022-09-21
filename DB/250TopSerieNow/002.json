@@ -1,0 +1,465 @@
+{
+	"id": "tt10857160",
+	"title": "She-Hulk: Attorney at Law",
+	"originalTitle": "",
+	"fullTitle": "She-Hulk: Attorney at Law (TV Series 2022– )",
+	"type": "TVSeries",
+	"year": "2022",
+	"image": "https://m.media-amazon.com/images/M/MV5BMjU4MTkxNzktNzUyYy00NDM2LWE5NGQtNjJlN2Q0N2MxZDAxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6762_AL_.jpg",
+	"releaseDate": "2022-08-18",
+	"runtimeMins": null,
+	"runtimeStr": null,
+	"plot": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered Hulk.",
+	"plotLocal": "Avocate le jour, super-héroïne la nuit, la cousine de Bruce Banner, Jennifer Walters acquiert des pouvoirs semblables à ceux de Hulk.",
+	"plotLocalIsRtl": false,
+	"awards": "",
+	"directors": "",
+	"directorList": [],
+	"writers": "",
+	"writerList": [],
+	"stars": "Tatiana Maslany, Ginger Gonzaga, Malia Arrayah",
+	"starList": [
+		{ "id": "nm1137209", "name": "Tatiana Maslany" },
+		{ "id": "nm2668086", "name": "Ginger Gonzaga" },
+		{ "id": "nm7070883", "name": "Malia Arrayah" }
+	],
+	"actorList": [
+		{
+			"id": "nm1137209",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzg5NjE4NDgzMl5BMl5BanBnXkFtZTgwNzk5OTQwMjE@._V1_Ratio1.5000_AL_.jpg",
+			"name": "Tatiana Maslany",
+			"asCharacter": "Jennifer Walters"
+		},
+		{
+			"id": "nm2668086",
+			"image": "https://m.media-amazon.com/images/M/MV5BNTkzZjQxNDYtYjBjNS00NWYzLWIyNjEtMGY3ZDNlZThkZGM2XkEyXkFqcGdeQXVyMTQzOTk1NDQ@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Ginger Gonzaga",
+			"asCharacter": "Nikki Ramos"
+		},
+		{
+			"id": "nm7070883",
+			"image": "https://m.media-amazon.com/images/M/MV5BOTkyOGM1NWQtYjA4MC00NjYxLTg5MTgtMGI3YWZlNWU1NmZjXkEyXkFqcGdeQXVyNTc5NzE0MDA@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Malia Arrayah",
+			"asCharacter": "On-Set She-Hulk Reference"
+		},
+		{
+			"id": "nm0183548",
+			"image": "https://m.media-amazon.com/images/M/MV5BODQ4YTg1OWYtZTNlZC00ZDUzLThiN2ItM2Y2MmQ1ZWVlYTNlXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Steve Coulter",
+			"asCharacter": "Holden Holliway"
+		},
+		{
+			"id": "nm3553139",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjA0NDI4OTEwMl5BMl5BanBnXkFtZTgwNDM4NDg4OTE@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Jameela Jamil",
+			"asCharacter": "Titania"
+		},
+		{
+			"id": "nm2019219",
+			"image": "https://m.media-amazon.com/images/M/MV5BOTgxMmZhY2YtMjYxOC00NDFiLWE5NmUtMDc5NWU1NjA5ODZjXkEyXkFqcGdeQXVyNzAzNzg4NTg@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Josh Segarra",
+			"asCharacter": "Augustus 'Pug' Pugliese"
+		},
+		{
+			"id": "nm0749263",
+			"image": "https://m.media-amazon.com/images/M/MV5BNWIzZTI1ODUtZTUzMC00NTdiLWFlOTYtZTg4MGZkYmU4YzNlXkEyXkFqcGdeQXVyNTExOTk5Nzg@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Mark Ruffalo",
+			"asCharacter": "Bruce Banner"
+		},
+		{
+			"id": "nm0000619",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjA5NTA3MDQyOV5BMl5BanBnXkFtZTcwODM4NDE3Mw@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Tim Roth",
+			"asCharacter": "Abomination"
+		},
+		{
+			"id": "nm0938950",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDMxOGExNWItYjM4YS00ZDJhLWJiM2UtMTViYjhhNTM4OGYxXkEyXkFqcGdeQXVyMTgyMzY5MTk@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Benedict Wong",
+			"asCharacter": "Wong"
+		},
+		{
+			"id": "nm0325989",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTQ5MjAwNDExM15BMl5BanBnXkFtZTgwNjk0NjUyOTE@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Renée Elise Goldsberry",
+			"asCharacter": "Mallory Book"
+		},
+		{
+			"id": "nm2125078",
+			"image": "https://m.media-amazon.com/images/M/MV5BN2NlZWY2ZjMtZjllMy00YmM5LWE5M2EtZGE5MTAwYzIxNjdjXkEyXkFqcGdeQXVyOTQxNjA2Mw@@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Griffin Matthews",
+			"asCharacter": "Luke Jacobson"
+		},
+		{
+			"id": "nm1214435",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjA0Mzg5MTU3MV5BMl5BanBnXkFtZTgwOTUxMTQ5NzE@._V1_Ratio1.5857_AL_.jpg",
+			"name": "Charlie Cox",
+			"asCharacter": "Daredevil"
+		},
+		{
+			"id": "nm5056304",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTQwODBkMDMtNjBiOS00ZTk0LWFiOTQtNGFhYzEyNzI1Yjk0XkEyXkFqcGdeQXVyMzM3MjU1NDM@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Drew Matthews",
+			"asCharacter": "Dennis Bukowski"
+		},
+		{
+			"id": "nm1682666",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "Bob DeCastro",
+			"asCharacter": "News Interview Anchor"
+		},
+		{
+			"id": "nm0513021",
+			"image": "https://m.media-amazon.com/images/M/MV5BMTU4NzAxMzE4MF5BMl5BanBnXkFtZTYwMjE4NTQ1._V1_Ratio1.0000_AL_.jpg",
+			"name": "Mark Linn-Baker",
+			"asCharacter": "Morris Walters"
+		},
+		{
+			"id": "nm4723712",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDZiMmNjZDQtNDI3YS00ZDg3LWIwOTItZjk4N2U1MjUyZWMxXkEyXkFqcGdeQXVyMjM5Njg4MjM@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Jon Bass",
+			"asCharacter": "Todd"
+		},
+		{
+			"id": "nm10057569",
+			"image": "https://m.media-amazon.com/images/M/MV5BY2MyYjZhNzgtN2M3YS00NDFjLThiOTUtYjMyZDEyY2U0YWY3XkEyXkFqcGdeQXVyODg5NjUyNjk@._V1_Ratio1.0000_AL_.jpg",
+			"name": "Nicholas Cirillo",
+			"asCharacter": "Cousin Ched"
+		},
+		{
+			"id": "nm3318781",
+			"image": "https://imdb-api.com/images/original/nopicture.jpg",
+			"name": "George Bryant",
+			"asCharacter": "Judge Price"
+		}
+	],
+	"fullCast": null,
+	"genres": "Action, Aventure, La comédie",
+	"genreList": [
+		{ "key": "Action", "value": "Action" },
+		{ "key": "Adventure", "value": "Aventure" },
+		{ "key": "Comedy", "value": "La comédie" }
+	],
+	"companies": "Marvel Studios",
+	"companyList": [{ "id": "co0051941", "name": "Marvel Studios" }],
+	"countries": "Etats-Unis",
+	"countryList": [{ "key": "USA", "value": "Etats-Unis" }],
+	"languages": "Anglais",
+	"languageList": [{ "key": "English", "value": "Anglais" }],
+	"contentRating": "TV-14",
+	"imDbRating": "5",
+	"imDbRatingVotes": "93246",
+	"metacriticRating": null,
+	"ratings": null,
+	"wikipedia": null,
+	"posters": {
+		"imDbId": "tt10857160",
+		"title": "She-Hulk: Attorney at Law",
+		"fullTitle": "She-Hulk: Attorney at Law (TV Series 2022– )",
+		"type": "TVSeries",
+		"year": "2022",
+		"posters": [],
+		"backdrops": [],
+		"errorMessage": ""
+	},
+	"images": {
+		"imDbId": "tt10857160",
+		"title": "She-Hulk: Attorney at Law",
+		"fullTitle": "She-Hulk: Attorney at Law (TV Series 2022– )",
+		"type": "TVSeries",
+		"year": "2022",
+		"items": [
+			{
+				"title": "Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzgyNzM3ZDktNTE1Ni00NjQ4LTg3NzEtMTZhMGVjMDYxNmJlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Jameela Jamil in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNWIzYWZiMjItMGEyMS00NjcxLWFhYjYtNDIxZmY5MGE1YzdkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Mark Ruffalo and Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYjE0NjE4NWEtM2M1NC00NDhlLWEwZTQtZTc5MDkyNTEzOGI1XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany and Malia Arrayah in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGI2MjlmZTMtNmIzYS00NGQ5LTg1OWYtMjk2NThjZjM4ODhjXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Mark Ruffalo and Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGQ0MWYxNjMtYmMyMi00OGM0LWFmZDktOGUzMjRjOWZkNTE4XkEyXkFqcGdeQXVyMTA3MTI2ODc5._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Jameela Jamil in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNTVkOGY5NDctNjM0Zi00NzRhLWIwOWQtYzY4YTRmY2VmODhlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Mark Ruffalo, Tatiana Maslany, and Malia Arrayah in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMzlhNTUyNzktOWI1ZC00ZTUzLWE5MjEtZGM0YWJkNDgzN2Y4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Mark Ruffalo, Tatiana Maslany, and Malia Arrayah in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWQzZDZhMzctOGRiNy00ZTFiLTg5NWQtYmVlM2UzZDZhMDIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Tim Roth in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjllNDc0MDgtNDAxNS00ZjhkLTlmMTAtOGE0ODJhZmRjODRkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio2.4000_AL_.jpg"
+			},
+			{
+				"title": "Mark Ruffalo and Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTc4MGM3N2YtMTQ2NC00MzBkLWE2MmMtOTRiOTEyNjk2ZDBiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Steve Coulter, Tatiana Maslany, and Malia Arrayah in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDhiZmM2ZjktMzI4Yi00MzEwLWIzZTItMGQwMDA0MDcwZTRhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany, Ginger Gonzaga, and Drew Matthews in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDA1NTNkNWItNDhiZC00MzlkLWExMjktY2UzMjM5N2VhOWNkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Mark Ruffalo and Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTM4MjZlNTYtYjMxNi00OTQzLTkwZTMtNjc2MWRhNDQxNTJhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Jameela Jamil at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTExZDBkZDQtNzhjMi00MGMyLWI3YWYtZmM4NTdiYWUwZmM4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Mark Ruffalo and Tatiana Maslany at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDYzZjM3ZGUtZTM5My00ZDA1LWE1NGYtMjI2NTk3Y2VjYmNlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Jameela Jamil at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzc0MjQxNDQtOGJjNS00ZDQ5LWFmMWMtOThjYmM0ZWFjYzZmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.3600_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BN2I5MTNjMTYtZjViYS00MmZmLWFhZTMtNDI4YTRiZjE4MGE3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Xochitl Gomez at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTRhNGZkNGItMzU4ZC00NTQwLWI4YTUtYmUwOTk3MTNhNjkzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Mark Ruffalo and Tatiana Maslany at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYmIwZTVjMjMtYjNkMS00YThmLTkzOWUtOWYwN2Y0N2FkMDhlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5800_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGNjYzY3YWYtY2QzMi00ZDRjLTkzZTQtZmI1YjQwZmVjZTE1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany, Ginger Gonzaga, and Jameela Jamil at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDJkMTI3ZGEtYjk0Ni00MjA2LTljYjMtNjkxYmIxNGFiYjA0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.3800_AL_.jpg"
+			},
+			{
+				"title": "Jameela Jamil at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDk3ZjNlOTYtMDc1ZC00ODgzLTljNjQtNzgxYjc4ODVkOGQ0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Ginger Gonzaga at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMDM4ZDk3ODEtYTgxMS00MjMwLTg4ZDQtNjIyNDNmZmM2NmFlXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Kat Coiro at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDhkNTBhM2YtYmY2YS00MjI3LWIzMjktODAxNzc5ZWU5ODhiXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDFjNTRiYzktNjc0YS00ZTY5LWIzNmYtNjcyY2RlMDdmNGNmXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jessica Gao at an event for She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMzE0YTk0N2EtNTlmNi00ZWU1LTljMjAtMTY0MGZjZjA2MjE4XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDk4MTQ4MmMtNDY2Yi00MTI2LTg4ODEtMjQ1ZWQ3NGMzNTc5XkEyXkFqcGdeQXVyMTE4NjM1MTg5._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNmZhOWQ5OWUtNjVmZS00MmM4LWJjMGMtNmY4NDdjYTUzYmE2XkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Ginger Gonzaga in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzNkZDhiNjItNmY4MS00OWRlLWE1YjAtODUxZDRkZjQ4MjcxXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjYxY2E5NDMtNTMwYy00YzM2LWIwNjktOTdjOGQ4MGNmM2Y0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Jameela Jamil in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNDZjNzgzMmUtNTIwNS00NzIwLThlNWUtOTQ0YjhlY2EzMTkwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjkwOWJjN2QtZDUwMy00OWNhLWJhZjEtNDQ1OGNiMWYxZWNkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMjU4MTkxNzktNzUyYy00NDM2LWE5NGQtNjJlN2Q0N2MxZDAxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMWE3MTBhM2QtZjBjNC00YTIzLWJhMTgtYjdhNDEwMmI1NDJmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNzNhZGNiZmUtZWJlNi00OTBlLWJhN2MtYzA4MmM2OTAyYjQ5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_Ratio1.0000_AL_.jpg"
+			},
+			{
+				"title": "She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BMWE5ODQ3MjItZTgxMC00MGMzLWE2Y2YtODcxYTc5ZGY3YzFhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTgxZjBhNDQtZmVjZC00MTFlLTkzYzMtYWY1ZTgzZDIyZjQ5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5600_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany, Josh Segarra, and Ginger Gonzaga in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZjBkMzc0NWMtMTE0OS00MDE2LTkwZDMtZTZiMzY5MDQ0ODM3XkEyXkFqcGdeQXVyMTQzOTEwNzQw._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany and Malia Arrayah in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZWE5ZDZkNDgtZGIxOC00MTU5LWE4YTItODZjODczZTkxZjZiXkEyXkFqcGdeQXVyMjc3Nzc3MjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Jameela Jamil in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYzMyOWMxMDMtMGJiNS00ODU0LWE0ZjMtOTFjM2VkN2QwNzJkXkEyXkFqcGdeQXVyMjc3Nzc3MjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Malia Arrayah in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNGE4MjU4MjMtYTk0OC00Mzk4LTlhYmQtMGZhMTdiNDk1ZDgxXkEyXkFqcGdeQXVyMjc3Nzc3MjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZTY2Y2VkZGMtMzZlYS00Y2E0LWIwYzYtMDg2ZTlhYTgyMzJlXkEyXkFqcGdeQXVyMjc3Nzc3MjU@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Mark Ruffalo, Tatiana Maslany, and Malia Arrayah in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZGQ1OGU5YzctMGM2MS00ZWI3LTk2N2EtNzlkZDY2Nzg0MDM3XkEyXkFqcGdeQXVyMTUxOTg5ODE5._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany and Ginger Gonzaga in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BNmMyN2NhMDAtYTRjMS00NDExLTliODQtZmU5ZTA4NGNjMzFiXkEyXkFqcGdeQXVyMTUxOTg5ODE5._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Jameela Jamil and Jason M. Edwards in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTc0NWJjOGItMzNmYi00NWIxLWE1NjYtODc3NzFmNTIzYzcxXkEyXkFqcGdeQXVyMTUxOTg5ODE5._V1_Ratio1.5000_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany and Malia Arrayah in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BZDhmNDFmNTAtNWRkMS00NGM2LWI5YzgtNGE3YTdiY2VhNmQwXkEyXkFqcGdeQXVyMTUxOTg5ODE5._V1_Ratio2.3800_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany and Malia Arrayah in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BYTVkM2FlOTUtYWY0YS00ZWJiLTkwOWMtODEwYWY3OWJhMzc0XkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio1.7800_AL_.jpg"
+			},
+			{
+				"title": "Tatiana Maslany, Ginger Gonzaga, and Drew Matthews in She-Hulk: Attorney at Law (2022)",
+				"image": "https://m.media-amazon.com/images/M/MV5BOTkwN2Q3NmYtYjY1YS00MmZjLTlhZGUtOTk1Yzg5ZjIxMTBhXkEyXkFqcGdeQXVyNjczOTE0MzM@._V1_Ratio2.0000_AL_.jpg"
+			}
+		],
+		"errorMessage": ""
+	},
+	"trailer": null,
+	"boxOffice": {
+		"budget": "",
+		"openingWeekendUSA": "",
+		"grossUSA": "",
+		"cumulativeWorldwideGross": ""
+	},
+	"tagline": null,
+	"keywords": "superheroine,she hulk character,based on comic,superhero,marvel comics",
+	"keywordList": [
+		"superheroine",
+		"she hulk character",
+		"based on comic",
+		"superhero",
+		"marvel comics"
+	],
+	"similars": [
+		{
+			"id": "tt7631058",
+			"title": "The Lord of the Rings: The Rings of Power",
+			"image": "https://m.media-amazon.com/images/M/MV5BMmVlODAyNTAtODc3Yi00MjFhLTk5MTktNWIwOTUzY2M2ZDc5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "6.9"
+		},
+		{
+			"id": "tt13456318",
+			"title": "Persuasion",
+			"image": "https://m.media-amazon.com/images/M/MV5BZDg3MzdiYjAtZWQ0MC00MDY4LWE5ZWEtNjliNTE3ZDZjNTU3XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "5.7"
+		},
+		{
+			"id": "tt1751634",
+			"title": "The Sandman",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTM0NjZjYjItM2JiYS00NmU5LWJmMTMtZjQ0OWU3Mzk1ZWZjXkEyXkFqcGdeQXVyMTAxNDE3MTE5._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.8"
+		},
+		{
+			"id": "tt11198330",
+			"title": "House of the Dragon",
+			"image": "https://m.media-amazon.com/images/M/MV5BZDBkZjRiNGMtZGU2My00ODdkLWI0MGYtNGU4MmJjN2MzOTkxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "8.7"
+		},
+		{
+			"id": "tt8226360",
+			"title": "A League of Their Own",
+			"image": "https://m.media-amazon.com/images/M/MV5BZDI2MjFjYzItODhlNC00NDkxLTljNGItYjU3NjE4ZGNmZmE1XkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.1"
+		},
+		{
+			"id": "tt13623148",
+			"title": "I Am Groot",
+			"image": "https://m.media-amazon.com/images/M/MV5BMjMzODFiNjgtZmQwZC00YmFmLWI5MTQtYjc1YjQzN2Y4NjgyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "6.8"
+		},
+		{
+			"id": "tt10062292",
+			"title": "Never Have I Ever",
+			"image": "https://m.media-amazon.com/images/M/MV5BZTY5ZmMwMDQtMmYxYy00ZTYyLWE5MDItZGUwM2I5NTAwOGUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.9"
+		},
+		{
+			"id": "tt11271038",
+			"title": "Licorice Pizza",
+			"image": "https://m.media-amazon.com/images/M/MV5BYjkwMzIxYzMtOTVkMS00NDQxLThkMjItNzgxN2RiNjdlNTliXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6957_AL_.jpg",
+			"imDbRating": "7.2"
+		},
+		{
+			"id": "tt8598758",
+			"title": "She Hulk",
+			"image": "https://m.media-amazon.com/images/M/MV5BODdjOTliZDEtNGUwMi00MDQ5LWExNGMtN2NmYTBkZmNhMjkyXkEyXkFqcGdeQXVyNDUzMTg5NA@@._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "1.9"
+		},
+		{
+			"id": "tt9059760",
+			"title": "Normal People",
+			"image": "https://m.media-amazon.com/images/M/MV5BNzMzYmRiNGEtMDg5OC00OGZmLWFmNDktYzRlZTFkZmZiMjAzXkEyXkFqcGdeQXVyMTE2OTE2MzE1._V1_Ratio0.6860_AL_.jpg",
+			"imDbRating": "8.4"
+		},
+		{
+			"id": "tt11866324",
+			"title": "Prey",
+			"image": "https://m.media-amazon.com/images/M/MV5BMDBlMDYxMDktOTUxMS00MjcxLWE2YjQtNjNhMjNmN2Y3ZDA1XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6763_AL_.jpg",
+			"imDbRating": "7.2"
+		},
+		{
+			"id": "tt0944947",
+			"title": "Game of Thrones",
+			"image": "https://m.media-amazon.com/images/M/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.7343_AL_.jpg",
+			"imDbRating": "9.2"
+		}
+	],
+	"tvSeriesInfo": {
+		"yearEnd": "",
+		"creators": "Jessica Gao",
+		"creatorList": [{ "id": "nm2005299", "name": "Jessica Gao" }],
+		"seasons": ["1"]
+	},
+	"tvEpisodeInfo": null,
+	"errorMessage": null
+}

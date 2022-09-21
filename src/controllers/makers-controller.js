@@ -1,13 +1,13 @@
 const { Request, Response } = require("express");
 const db = require("../models");
 
-const EpisodeController = {
+const MakersController = {
   /**
    * @param {Request} req
    * @param {Response} res
    */
   getAll: async (req, res) => {
-    const data = await db.Episodes.findAndCountAll();
+    const data = await db.Makers.findAndCountAll();
 
     return res.status(200).json(data);
   },
@@ -17,19 +17,16 @@ const EpisodeController = {
    * @param {Response} res
    */
   getOne: async (req, res) => {
-    const id_episode = parseInt(req.params.id);
-
-    console.log("id > " + id_episode);
-
-    const episodes = await db.Episodes.findOne({
-      where: { id_episode },
+    const id_maker = req.params.id_maker;
+    const makers = await db.Makers.findOne({
+      where: { id_maker },
     });
 
-    if (!episodes) {
+    if (!makers) {
       return res.status(404).json("Tag not found");
     }
 
-    return res.status(200).json(episodes);
+    return res.status(200).json(makers);
   },
 
   /**
@@ -38,9 +35,8 @@ const EpisodeController = {
    */
   add: async (req, res) => {
     const data = req.validatedData;
-    console.log(data);
-    const newEpisode = await db.Episodes.create(data);
-    return res.status(201).json(newEpisode);
+    const newMakers = await db.Makers.create(data);
+    return res.status(201).json(newMakers);
   },
 
   /**
@@ -48,20 +44,20 @@ const EpisodeController = {
    * @param {Response} res
    */
   update: async (req, res) => {
-    const id_episode = parseInt(req.params.id_episode);
+    const id = req.params.id_maker;
 
     const data = req.validatedData;
 
-    const updatedEpisode = await db.Episodes.update(data, {
-      where: { id_episode },
+    const updatedMakers = await db.Makers.update(data, {
+      where: { id_maker },
       returning: true,
     });
 
-    if (!updatedEpisode) {
+    if (!updatedMakers) {
       return res.status(400).json("Bad Request");
     }
 
-    const updatedValue = await db.Episodes.findOne({ where: { id_episode } });
+    const updatedValue = await db.Makers.findOne({ where: { id_maker } });
 
     return res.status(200).json(updatedValue);
   },
@@ -71,10 +67,10 @@ const EpisodeController = {
    * @param {Response} res
    */
   delete: async (req, res) => {
-    const id = parseInt(req.params.id_episode);
+    const id = parseInt(req.params.id_maker);
 
-    const nbRow = await db.Episodes.destroy({
-      where: { id_episode },
+    const nbRow = await db.Makers.destroy({
+      where: { id_maker },
     });
 
     if (nbRow !== 1) {
@@ -85,4 +81,4 @@ const EpisodeController = {
   },
 };
 
-module.exports = EpisodeController;
+module.exports = MakersController;

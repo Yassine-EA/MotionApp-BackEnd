@@ -6,8 +6,8 @@ const { Sequelize, DataTypes } = require("sequelize");
  */
 
 module.exports = (Sequelize) => {
-	const Makers = Sequelize.define(
-		"makers",
+	const CastMovies = Sequelize.define(
+		"cast_movies",
 		{
 			id: {
 				type: DataTypes.INTEGER,
@@ -19,31 +19,24 @@ module.exports = (Sequelize) => {
 			id_maker: {
 				type: DataTypes.STRING(20),
 				allowNull: false,
-				unique: true,
 			},
-			full_name: {
-				type: DataTypes.STRING(100),
+			id_media: {
+				type: DataTypes.STRING(20),
 				allowNull: false,
 			},
-			role: {
+			roles: {
 				type: DataTypes.STRING(100),
+				defaultValue: "non crédité au générique",
 			},
-			image: {
-				type: DataTypes.STRING(2000),
-			},
-			date_birth: {
-				type: DataTypes.STRING(150),
-				defaultValue: "  ",
-			},
-			date_death: {
-				type: DataTypes.STRING(150),
-				defaultValue: "  ",
+			as_character: {
+				type: DataTypes.STRING(250),
+				defaultValue: "non crédité au générique",
 			},
 		},
 		{
 			timestamps: false,
-			tableName: "makers",
+			tableName: "cast_movies",
 		}
 	);
-	return Makers;
+	return CastMovies;
 };

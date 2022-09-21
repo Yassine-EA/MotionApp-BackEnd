@@ -6,25 +6,35 @@ const { Sequelize, DataTypes } = require("sequelize");
  */
 
 module.exports = (Sequelize) => {
-	const Genres = Sequelize.define(
-		"genres",
+	const Images = Sequelize.define(
+		"images",
 		{
-			id_genre: {
+			id: {
 				type: DataTypes.INTEGER,
 				allowNull: false,
 				primaryKey: true,
 				autoIncrement: true,
 				unique: true,
 			},
-			genre_value: {
-				type: DataTypes.STRING(250),
+			id_media: {
+				type: DataTypes.STRING(20),
 				allowNull: false,
+			},
+			image_title: {
+				type: DataTypes.STRING(20),
+			},
+
+			image_type: {
+				type: DataTypes.STRING(250),
+			},
+			url: {
+				type: DataTypes.INTEGER(2000),
 			},
 		},
 		{
 			timestamps: false,
-			tableName: "genres",
+			tableName: "images",
 		}
 	);
-	return Genres;
+	return Images;
 };

@@ -1,5 +1,3 @@
-CREATE DATABASE  IF NOT EXISTS `movie_db` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */;
-USE `movie_db`;
 -- MySQL dump 10.13  Distrib 8.0.30, for Win64 (x86_64)
 --
 -- Host: localhost    Database: movie_db
@@ -296,6 +294,10 @@ INSERT INTO `similars` VALUES (923,'tt0111161','tt0468569',NULL),(924,'tt0111161
 UNLOCK TABLES;
 
 --
+-- Dumping events for database 'movie_db'
+--
+
+--
 -- Dumping routines for database 'movie_db'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -308,4 +310,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-09-21 19:30:12
+-- Dump completed on 2022-10-05 19:57:32

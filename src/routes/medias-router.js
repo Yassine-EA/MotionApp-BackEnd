@@ -10,7 +10,12 @@ mediasRouter
 	.post(bodyValidation(mediasValidator), MediasController.add);
 
 mediasRouter
-	.route("/:id")
+	.route("/series")
+	.get(MediasController.getAllSeries)
+	.post(bodyValidation(mediasValidator), MediasController.add);
+
+mediasRouter
+	.route("/:id_media")
 	.get(MediasController.getOne)
 	.put(bodyValidation(mediasValidator), MediasController.update)
 	.delete(MediasController.delete);

@@ -2,83 +2,85 @@ const { Request, Response } = require("express");
 const db = require("../models");
 
 const MakersController = {
-  /**
-   * @param {Request} req
-   * @param {Response} res
-   */
-  getAll: async (req, res) => {
-    const data = await db.Makers.findAndCountAll();
+	/**
+	 * @param {Request} req
+	 * @param {Response} res
+	 */
+	getAll: async (req, res) => {
+		const data = await db.Makers.findAndCountAll({ limit: 20 });
 
-    return res.status(200).json(data);
-  },
+		return res.status(200).json(data);
+	},
 
-  /**
-   * @param {Request} req
-   * @param {Response} res
-   */
-  getOne: async (req, res) => {
-    const id_maker = req.params.id_maker;
-    const makers = await db.Makers.findOne({
-      where: { id_maker },
-    });
+	
 
-    if (!makers) {
-      return res.status(404).json("Tag not found");
-    }
+	/**
+	 * @param {Request} req
+	 * @param {Response} res
+	 */
+	getOne: async (req, res) => {
+		const id_maker = req.params.id_maker;
+		const makers = await db.Makers.findOne({
+			where: { id_maker },
+		});
 
-    return res.status(200).json(makers);
-  },
+		if (!makers) {
+			return res.status(404).json("Tag not found");
+		}
 
-  /**
-   * @param {Request} req
-   * @param {Response} res
-   */
-  add: async (req, res) => {
-    const data = req.validatedData;
-    const newMakers = await db.Makers.create(data);
-    return res.status(201).json(newMakers);
-  },
+		return res.status(200).json(makers);
+	},
 
-  /**
-   * @param {Request} req
-   * @param {Response} res
-   */
-  update: async (req, res) => {
-    const id = req.params.id_maker;
+	/**
+	 * @param {Request} req
+	 * @param {Response} res
+	 */
+	add: async (req, res) => {
+		const data = req.validatedData;
+		const newMakers = await db.Makers.create(data);
+		return res.status(201).json(newMakers);
+	},
 
-    const data = req.validatedData;
+	/**
+	 * @param {Request} req
+	 * @param {Response} res
+	 */
+	update: async (req, res) => {
+		const id = req.params.id_maker;
 
-    const updatedMakers = await db.Makers.update(data, {
-      where: { id_maker },
-      returning: true,
-    });
+		const data = req.validatedData;
 
-    if (!updatedMakers) {
-      return res.status(400).json("Bad Request");
-    }
+		const updatedMakers = await db.Makers.update(data, {
+			where: { id_maker },
+			returning: true,
+		});
 
-    const updatedValue = await db.Makers.findOne({ where: { id_maker } });
+		if (!updatedMakers) {
+			return res.status(400).json("Bad Request");
+		}
 
-    return res.status(200).json(updatedValue);
-  },
+		const updatedValue = await db.Makers.findOne({ where: { id_maker } });
 
-  /**
-   * @param {Request} req
-   * @param {Response} res
-   */
-  delete: async (req, res) => {
-    const id = parseInt(req.params.id_maker);
+		return res.status(200).json(updatedValue);
+	},
 
-    const nbRow = await db.Makers.destroy({
-      where: { id_maker },
-    });
+	/**
+	 * @param {Request} req
+	 * @param {Response} res
+	 */
+	delete: async (req, res) => {
+		const id = parseInt(req.params.id_maker);
 
-    if (nbRow !== 1) {
-      return res.status(404).json("Tag not found");
-    }
+		const nbRow = await db.Makers.destroy({
+			where: { id_maker },
+		});
 
-    return res.sendStatus(204);
-  },
+		if (nbRow !== 1) {
+			return res.status(404).json("Tag not found");
+		}
+
+		return res.sendStatus(204);
+	},
 };
 
 module.exports = MakersController;

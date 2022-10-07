@@ -7,7 +7,20 @@ const MediasController = {
 	 * @param {Response} res
 	 */
 	getAll: async (req, res) => {
-		const data = await db.Medias.findAndCountAll();
+		const data = await db.Medias.findAndCountAll({ limit: 20 });
+
+		return res.status(200).json(data);
+	},
+
+	/**
+	 * @param {Request} req
+	 * @param {Response} res
+	 */
+	getAllSeries: async (req, res) => {
+		const data = await db.Medias.findAndCountAll({
+			where: { media_type: "TVSeries" },
+			limit: 20,
+		});
 
 		return res.status(200).json(data);
 	},
